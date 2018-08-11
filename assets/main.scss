@@ -3,34 +3,36 @@
 
 @import "minima";
 
-// Lists
-ol {
-    list-style-position: inside;
+.page-content {
+    ol {
+        margin-left: 0;
+        list-style-position: inside;
 
-    & > li {
-        overflow: auto;
-
-        & + li {
-            clear: both;
-            margin-top: 1rem;
-        }
-
-        & > img {
-            float: left;
-            margin-right: 1rem;
-        }
-
-        & > h3 {
-            display: inline-block;
-        }
-
-        & > ul {
+        & > li {
             overflow: auto;
-            padding-left: 1rem;
-            list-style-type: circle;
 
-            & > li > ul {
+            & + li {
+                clear: both;
+                margin-top: 1rem;
+            }
+
+            & > img {
+                float: left;
+                margin-right: 1rem;
+            }
+
+            & > h3 {
+                display: inline-block;
+            }
+
+            & > ul {
+                overflow: auto;
+                padding-left: 1rem;
                 list-style-type: circle;
+
+                & > li > ul {
+                    list-style-type: circle;
+                }
             }
         }
     }
