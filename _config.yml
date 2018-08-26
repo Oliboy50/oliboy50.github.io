@@ -7,8 +7,6 @@ title: Oliboy50
 email: contact@oliver-thebault.com
 description: >- # this means to ignore newlines until "baseurl:"
   Oliver Thébault - Développeur Web - Aime les animes, les trophées PSN, les chats et les listes.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OliverThebault
 github_username:  Oliboy50
 header_pages:
@@ -19,15 +17,3 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

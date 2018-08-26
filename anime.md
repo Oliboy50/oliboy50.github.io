@@ -365,6 +365,14 @@ list:
     image_url: http://pthumb.lisimg.com/9300420/130full.jpg
     number_of_episodes: 12
 
+  - title: Kokkoku
+    image_url: http://pthumb.lisimg.com/15993602/130full.jpg
+    number_of_episodes: 12
+
+  - title: Violet Evergarden
+    image_url: http://pthumb.lisimg.com/15953703/130full.jpg
+    number_of_episodes: 13
+
   - title: Boku wa tomodachi ga sukunai
     image_url: http://pthumb.lisimg.com/4776144/130full.jpg
     number_of_episodes: 25
@@ -397,6 +405,12 @@ list:
     image_url: http://pthumb.lisimg.com/3255474/130full.jpg
     number_of_episodes: 277
     number_of_movies: 1
+
+  - title: Assassination Classroom
+    image_url: http://pthumb.lisimg.com/7972899/130full.jpg
+    number_of_episodes: 47
+    number_of_seasons: 2
+    number_of_oavs: 1
 
   - title: Toradora!
     image_url: http://pthumb.lisimg.com/975588/130full.jpg
@@ -464,6 +478,10 @@ list:
     image_url: http://pthumb.lisimg.com/15588547/130full.jpg
     number_of_episodes: 25
 
+  - title: 'Yôjo Senki: Saga of Tanya the Evil'
+    image_url: http://pthumb.lisimg.com/14148573/130full.jpg
+    number_of_episodes: 12
+
   - title: Occultic;Nine
     image_url: http://pthumb.lisimg.com/13727052/130full.jpg
     number_of_episodes: 12
@@ -524,6 +542,11 @@ list:
     number_of_episodes: 48
     number_of_seasons: 2
 
+  - title: Highschool of the Dead
+    image_url: http://pthumb.lisimg.com/1273927/130full.jpg
+    number_of_episodes: 12
+    bluray_bought: true
+
   - title: Rewrite
     image_url: http://pthumb.lisimg.com/14929784/130full.jpg
     number_of_episodes: 24
@@ -531,6 +554,10 @@ list:
   - title: Grimoire of Zero
     image_url: http://pthumb.lisimg.com/14774790/130full.jpg
     number_of_episodes: 12
+
+  - title: Beck
+    image_url: http://pthumb.lisimg.com/191353/130full.jpg
+    number_of_episodes: 26
 
   - title: 'Re: Creators'
     image_url: http://pthumb.lisimg.com/14833324/130full.jpg
@@ -544,10 +571,9 @@ list:
     image_url: http://pthumb.lisimg.com/9672261/130full.jpg
     number_of_episodes: 25
 
-  - title: Highschool of the Dead
-    image_url: http://pthumb.lisimg.com/1273927/130full.jpg
-    number_of_episodes: 12
-    bluray_bought: true
+  - title: Castlevania
+    image_url: https://m.media-amazon.com/images/M/MV5BNTZhNGMzNzctMzhiYS00MmJiLWJmYWItMzhiYTk4Zjg0ZWIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+    number_of_episodes: 4
 
   - title: Little Witch Academia
     image_url: http://pthumb.lisimg.com/13810930/130full.jpg
@@ -601,6 +627,10 @@ list:
     number_of_episodes: 153
     number_of_oavs: '?'
     number_of_movies: '?'
+
+  - title: Dragon Ball GT
+    image_url: http://pthumb.lisimg.com/120001/130full.jpg
+    number_of_episodes: 64
 
   - title: Saiyuki
     image_url: https://media.senscritique.com/media/000016850872/source_big/Saiyuki.jpg
@@ -782,6 +812,10 @@ list:
     image_url: http://pthumb.lisimg.com/493538/130full.jpg
     number_of_episodes: 25
 
+  - title: Grancrest Senki
+    image_url: https://m.media-amazon.com/images/M/MV5BNDAyMTE5NjMtMmY2My00NDEyLWJiZWMtYWI5NWI4YzM2OGE4XkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_.jpg
+    number_of_episodes: 24
+
   - title: Fooly Cooly
     image_url: http://pthumb.lisimg.com/63023/130full.jpg
     number_of_episodes: 6
@@ -845,6 +879,10 @@ list:
     number_of_episodes: 50
     number_of_seasons: 2
 
+  - title: Megalo Box
+    image_url: http://pthumb.lisimg.com/16060563/130full.jpg
+    number_of_episodes: 13
+
   - title: The Unlimited - Hyoubu Kyousuke
     image_url: http://pthumb.lisimg.com/5549837/130full.jpg
     number_of_episodes: 12
@@ -875,6 +913,10 @@ list:
 
   - title: Chaos;Child
     image_url: http://pthumb.lisimg.com/15176088/130full.jpg
+    number_of_episodes: 12
+
+  - title: 'Sword Art Online: Alternative Gun Gale Online'
+    image_url: https://m.media-amazon.com/images/M/MV5BMzBjMDU3YTgtODY1Ny00MjI2LWE5N2ItNTZkZTI1NzliMGNlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg
     number_of_episodes: 12
 
   - title: Afro Samurai
@@ -1072,6 +1114,10 @@ list:
     image_url: http://pthumb.lisimg.com/10022890/130full.jpg
     number_of_episodes: 12
 
+  - title: Caligula
+    image_url: https://m.media-amazon.com/images/M/MV5BMzgwMzJkMzUtN2U4ZC00NDdjLWE0YjYtOTkyYmJmM2FjNjFlXkEyXkFqcGdeQXVyMzMyNjUwMzY@._V1_.jpg
+    number_of_episodes: 12
+
   - title: Phantasy Star Online 2
     image_url: http://pthumb.lisimg.com/10094724/130full.jpg
     number_of_episodes: 12
@@ -1199,7 +1245,7 @@ list:
             {%- endif -%}
 
             {%- if subitem.number_of_movies %}
-        + {{ subitem.number_of_movies }} film
+        + {{ subitem.number_of_movies }} films
             {%- endif -%}
 
             {%- if subitem.bluray_bought %}
@@ -1222,7 +1268,7 @@ list:
         {%- endif -%}
 
         {%- if item.number_of_movies %}
-    + {{ item.number_of_movies }} film
+    + {{ item.number_of_movies }} films
         {%- endif -%}
 
         {%- if item.bluray_bought %}
