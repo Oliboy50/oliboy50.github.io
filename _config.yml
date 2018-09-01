@@ -11,6 +11,7 @@ twitter_username: OliverThebault
 github_username:  Oliboy50
 header_pages:
   - anime.md
+  - anime-movies.md
 
 # Build settings
 markdown: kramdown

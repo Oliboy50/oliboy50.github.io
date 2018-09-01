@@ -4,9 +4,7 @@ services:
     command: jekyll serve --watch --force_polling
     image: jekyll/jekyll:latest
     volumes:
-      - $PWD:/srv/jekyll
-      - $PWD/vendor/bundle:/usr/local/bundle
+      - .:/srv/jekyll
+      - /usr/local/bundle
     ports:
       - 4000:4000
-      - 35729:35729
-      - 3000:3000
