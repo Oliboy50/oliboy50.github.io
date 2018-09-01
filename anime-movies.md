@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Films d'anime triés par préférence
+title: Films d'anime préférés
 permalink: /anime-movies
 
 list:

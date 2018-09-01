@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Animes triés par préférence
-permalink: /anime
+title: Animes préférés
+permalink: /animes
 
 list:
   - title: Angel Beats!

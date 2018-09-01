@@ -10,8 +10,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: OliverThebault
 github_username:  Oliboy50
 header_pages:
-  - anime.md
+  - animes.md
   - anime-movies.md
+  - series.md
 
 # Build settings
 markdown: kramdown
