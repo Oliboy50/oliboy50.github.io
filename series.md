@@ -50,7 +50,7 @@ list:
 
   - title: Better Call Saul
     image_url: http://pthumb.lisimg.com/14183847/130full.jpg
-    number_of_seasons: 2
+    number_of_seasons: 4
 
   - title: Westworld
     image_url: http://pthumb.lisimg.com/15970527/130full.jpg

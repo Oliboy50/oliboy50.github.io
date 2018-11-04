@@ -38,7 +38,7 @@ list:
 
   - title: Overlord
     image_url: http://pthumb.lisimg.com/9340463/130full.jpg
-    currently_airing: true
+    number_of_episodes: 39
 
   - title: Ajin
     image_url: http://pthumb.lisimg.com/10087798/130full.jpg
@@ -67,8 +67,7 @@ list:
 
   - title: Attack on Titan
     image_url: http://pthumb.lisimg.com/11994643/130full.jpg
-    number_of_episodes: 37
-    currently_airing: true
+    number_of_episodes: 49
     number_of_oavs: 3
 
   - title: Beelzebub
@@ -97,6 +96,7 @@ list:
   - title: Tokyo Ghoul
     image_url: http://pthumb.lisimg.com/7135897/130full.jpg
     number_of_episodes: 36
+    currently_airing: true
     number_of_seasons: 3
     number_of_oavs: 1
     bluray_bought: true
@@ -112,7 +112,7 @@ list:
 
   - title: Boku no Hero Academia
     image_url: http://pthumb.lisimg.com/11631769/130full.jpg
-    currently_airing: true
+    number_of_episodes: 63
     number_of_oavs: 1
 
   - title: Inuyashiki
@@ -249,6 +249,7 @@ list:
   - title: Sword Art Online
     image_url: http://pthumb.lisimg.com/5576929/130full.jpg
     number_of_episodes: 50
+    currently_airing: true
     number_of_seasons: 2
     number_of_movies: 1
     bluray_bought: true
@@ -340,7 +341,8 @@ list:
 
   - title: Steins;Gate
     image_url: http://pthumb.lisimg.com/14987944/130full.jpg
-    currently_airing: true
+    number_of_episodes: 47
+    number_of_seasons: 2
     number_of_oavs: 1
     number_of_movies: 1
 
@@ -404,6 +406,7 @@ list:
   - title: Fairy Tail
     image_url: http://pthumb.lisimg.com/3255474/130full.jpg
     number_of_episodes: 277
+    currently_airing: true
     number_of_movies: 1
 
   - title: Assassination Classroom
@@ -480,6 +483,10 @@ list:
 
   - title: 'Yôjo Senki: Saga of Tanya the Evil'
     image_url: http://pthumb.lisimg.com/14148573/130full.jpg
+    number_of_episodes: 12
+
+  - title: Kyoukai no Kanata
+    image_url: https://m.media-amazon.com/images/M/MV5BY2NmNTdmNDgtMjJmMS00YzQ1LTliN2ItMjQxOGRiMjAwODFhXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_.jpg
     number_of_episodes: 12
 
   - title: Occultic;Nine
