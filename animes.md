@@ -44,6 +44,7 @@ list:
     image_url: http://pthumb.lisimg.com/10087798/130full.jpg
     number_of_episodes: 26
     number_of_seasons: 2
+    bluray_bought: true
 
   - title: Mob Psycho 100
     image_url: http://pthumb.lisimg.com/12067411/130full.jpg
@@ -73,6 +74,7 @@ list:
   - title: Beelzebub
     image_url: http://pthumb.lisimg.com/2110699/130full.jpg
     number_of_episodes: 60
+    bluray_bought: true
 
   - title: One Piece
     image_url: http://pthumb.lisimg.com/8381450/130full.jpg
@@ -109,6 +111,7 @@ list:
   - title: Akame ga Kill!
     image_url: http://pthumb.lisimg.com/7140560/130full.jpg
     number_of_episodes: 24
+    bluray_bought: true
 
   - title: Boku no Hero Academia
     image_url: http://pthumb.lisimg.com/11631769/130full.jpg
