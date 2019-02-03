@@ -68,6 +68,18 @@ list:
     image_url: http://pthumb.lisimg.com/8719046/130full.jpg
     number_of_seasons: 1
 
+  - title: Luke Cage
+    image_url: https://m.media-amazon.com/images/M/MV5BMjAxOTM3NjEwMV5BMl5BanBnXkFtZTgwNTkyOTY4NTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+    number_of_seasons: 1
+
+  - title: The Defenders
+    image_url: https://m.media-amazon.com/images/M/MV5BNWU4NmY3MTMtMTBmMi00NjFjLTkwMmItYWZhZWUwNDg5M2ExXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+    number_of_seasons: 1
+
+  - title: Daredevil
+    image_url: https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+    number_of_seasons: 3
+
   - title: Une nounou d'enfer
     image_url: http://pthumb.lisimg.com/6470208/130full.jpg
     number_of_seasons: 6

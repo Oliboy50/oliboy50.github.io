@@ -97,9 +97,8 @@ list:
 
   - title: Tokyo Ghoul
     image_url: http://pthumb.lisimg.com/7135897/130full.jpg
-    number_of_episodes: 36
-    currently_airing: true
-    number_of_seasons: 3
+    number_of_episodes: 48
+    number_of_seasons: 4
     number_of_oavs: 1
     bluray_bought: true
 
@@ -149,6 +148,7 @@ list:
     image_url: http://pthumb.lisimg.com/9780390/130full.jpg
     number_of_episodes: 48
     number_of_oavs: 6
+    number_of_movies: 1
     bluray_bought: true
 
   - title: Soul Eater
@@ -159,6 +159,10 @@ list:
     image_url: http://pthumb.lisimg.com/7985309/130full.jpg
     number_of_episodes: 12
     bluray_bought: true
+
+  - title: Goblin Slayer
+    image_url: https://m.media-amazon.com/images/M/MV5BN2U2OWQ5YTUtZTRlYS00M2I2LTk3MzEtNTQ0OTNiNGY3ZTc3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg
+    number_of_episodes: 12
 
   - title: Fate/Stay Night
     image_url: http://pthumb.lisimg.com/7629376/130full.jpg
@@ -252,7 +256,6 @@ list:
   - title: Sword Art Online
     image_url: http://pthumb.lisimg.com/5576929/130full.jpg
     number_of_episodes: 50
-    currently_airing: true
     number_of_seasons: 2
     number_of_movies: 1
     bluray_bought: true
@@ -288,6 +291,10 @@ list:
 
   - title: Detroit Metal City
     image_url: http://pthumb.lisimg.com/5624358/130full.jpg
+    number_of_episodes: 12
+
+  - title: Golden Kamuy
+    image_url: https://m.media-amazon.com/images/M/MV5BNWE3YWVhMDEtZmViNy00ZmM3LWIxYWItZjdkZGFkNTQ4NzMxXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg
     number_of_episodes: 12
 
   - title: Brynhildr in the Darkness
@@ -409,7 +416,6 @@ list:
   - title: Fairy Tail
     image_url: http://pthumb.lisimg.com/3255474/130full.jpg
     number_of_episodes: 277
-    currently_airing: true
     number_of_movies: 1
 
   - title: Assassination Classroom
@@ -583,7 +589,8 @@ list:
 
   - title: Castlevania
     image_url: https://m.media-amazon.com/images/M/MV5BNTZhNGMzNzctMzhiYS00MmJiLWJmYWItMzhiYTk4Zjg0ZWIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg
-    number_of_episodes: 4
+    number_of_episodes: 8
+    number_of_seasons: 2
 
   - title: Little Witch Academia
     image_url: http://pthumb.lisimg.com/13810930/130full.jpg
@@ -888,6 +895,12 @@ list:
     image_url: http://pthumb.lisimg.com/1275853/130full.jpg
     number_of_episodes: 50
     number_of_seasons: 2
+
+  - title: The Disappearance of Nagato Yuki
+    image_url: https://m.media-amazon.com/images/M/MV5BYjc3OTE5NTktOTI4My00MjBjLThmZTktMDBmNTBhNDYwZDVjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg
+    number_of_episodes: 16
+    number_of_oavs: 1
+    bluray_bought: true
 
   - title: Megalo Box
     image_url: http://pthumb.lisimg.com/16060563/130full.jpg
