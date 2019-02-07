@@ -849,6 +849,19 @@ list:
     image_url: http://pthumb.lisimg.com/9982270/130full.jpg
     number_of_episodes: 13
 
+  - title: La Loi d'Ueki
+    image_url: http://pthumb.lisimg.com/1926342/130full.jpg
+    number_of_episodes: 51
+
+  - title: Sherlock Holmes
+    image_url: https://m.media-amazon.com/images/M/MV5BNjI2MWJhZDctZTZjYy00ZmYzLWFiMzMtNzI3Mzk5ZTUzNDc0XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_.jpg
+    number_of_episodes: 26
+    bluray_bought: true
+
+  - title: UQ Holder
+    image_url: http://pthumb.lisimg.com/15513347/130full.jpg
+    number_of_episodes: 12
+
   - title: Bloodivores
     image_url: http://pthumb.lisimg.com/13736008/130full.jpg
     number_of_episodes: 12
@@ -874,16 +887,8 @@ list:
     number_of_episodes: 50
     number_of_seasons: 2
 
-  - title: La Loi d'Ueki
-    image_url: http://pthumb.lisimg.com/1926342/130full.jpg
-    number_of_episodes: 51
-
   - title: Soul Eater Not!
     image_url: http://pthumb.lisimg.com/7056169/130full.jpg
-    number_of_episodes: 12
-
-  - title: UQ Holder
-    image_url: http://pthumb.lisimg.com/15513347/130full.jpg
     number_of_episodes: 12
 
   - title: Kill La Kill
@@ -917,6 +922,10 @@ list:
   - title: Witch Hunter Robin
     image_url: http://pthumb.lisimg.com/1640244/130full.jpg
     number_of_episodes: 26
+
+  - title: Elfen Lied
+    image_url: http://pthumb.lisimg.com/79452/130full.jpg
+    number_of_episodes: 13
 
   - title: Majin Tantei Nougami Neuro
     image_url: http://pthumb.lisimg.com/6163257/130full.jpg
@@ -967,10 +976,6 @@ list:
   - title: So long, Mr. Despair
     image_url: http://pthumb.lisimg.com/477439/130full.jpg
     number_of_episodes: 12
-
-  - title: Elfen Lied
-    image_url: http://pthumb.lisimg.com/79452/130full.jpg
-    number_of_episodes: 13
 
   - title: Taboo Tattoo
     image_url: http://pthumb.lisimg.com/12035657/130full.jpg
