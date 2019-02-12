@@ -117,6 +117,9 @@ list:
   - title: The Garden of Words
     image_url: http://pthumb.lisimg.com/6892716/130full.jpg
 
+  - title: Hotarubi no mori e
+    image_url: https://m.media-amazon.com/images/M/MV5BYTI0ZTAzMzctZWVkMS00ZWMyLTkyZDctZjFmMjA3NTNmYzAyXkEyXkFqcGdeQXVyNTI2NTY2MDI@._V1_.jpg
+
   - title: Je peux entendre l'océan
     image_url: http://pthumb.lisimg.com/15092388/130full.jpg
 
