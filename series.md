@@ -68,6 +68,10 @@ list:
     image_url: http://pthumb.lisimg.com/8719046/130full.jpg
     number_of_seasons: 1
 
+  - title: Sex And The City
+    image_url: https://m.media-amazon.com/images/M/MV5BNGEyNDRjM2QtY2VlYy00OWRhLWI4N2UtZTM4NDc0MGM0YzBkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+    number_of_seasons: 5
+
   - title: Luke Cage
     image_url: https://m.media-amazon.com/images/M/MV5BMjAxOTM3NjEwMV5BMl5BanBnXkFtZTgwNTkyOTY4NTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg
     number_of_seasons: 1
