@@ -27,6 +27,9 @@ list:
     image_url: http://pthumb.lisimg.com/8758968/130full.jpg
     bluray_bought: true
 
+  - title: A Silent Voice
+    image_url: https://m.media-amazon.com/images/M/MV5BZDc2NGZiZDMtYjg3Ni00ZDhkLThlYWEtMzQwMDBlZDQzOWQ2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_.jpg
+
   - title: Patéma et le monde inversé
     image_url: http://pthumb.lisimg.com/13520597/130full.jpg
 
