@@ -22,7 +22,7 @@ list:
 
   - title: The Walking Dead
     image_url: http://pthumb.lisimg.com/16173302/130full.jpg
-    number_of_seasons: 7
+    number_of_seasons: 8
 
   - title: The IT Crowd
     image_url: http://pthumb.lisimg.com/6446472/130full.jpg
@@ -54,6 +54,10 @@ list:
 
   - title: Westworld
     image_url: http://pthumb.lisimg.com/15970527/130full.jpg
+    number_of_seasons: 1
+
+  - title: Love, Death & Robots
+    image_url: https://m.media-amazon.com/images/M/MV5BMTc1MjIyNDI3Nl5BMl5BanBnXkFtZTgwMjQ1OTI0NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg
     number_of_seasons: 1
 
   - title: The Simpsons

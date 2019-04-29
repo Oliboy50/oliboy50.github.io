@@ -40,6 +40,12 @@ list:
     image_url: http://pthumb.lisimg.com/9340463/130full.jpg
     number_of_episodes: 39
 
+  - title: One Punch Man
+    image_url: http://pthumb.lisimg.com/9420638/130full.jpg
+    number_of_episodes: 12
+    number_of_oavs: 6
+    bluray_bought: true
+
   - title: Ajin
     image_url: http://pthumb.lisimg.com/10087798/130full.jpg
     number_of_episodes: 26
@@ -48,13 +54,8 @@ list:
 
   - title: Mob Psycho 100
     image_url: http://pthumb.lisimg.com/12067411/130full.jpg
-    number_of_episodes: 12
-
-  - title: One Punch Man
-    image_url: http://pthumb.lisimg.com/9420638/130full.jpg
-    number_of_episodes: 12
-    number_of_oavs: 6
-    bluray_bought: true
+    number_of_episodes: 25
+    number_of_seasons: 2
 
   - title: GTO
     image_url: http://pthumb.lisimg.com/132280/130full.jpg
@@ -155,6 +156,20 @@ list:
     image_url: http://pthumb.lisimg.com/685131/130full.jpg
     number_of_episodes: 51
 
+  - title: Jojo's Bizarre Adventure
+    image_url: http://pthumb.lisimg.com/5393228/130full.jpg
+    list:
+      - title: Phantom Blood
+        number_of_episodes: 9
+      - title: Battle Tendancy
+        number_of_episodes: 17
+      - title: Stardust Crusaders
+        number_of_episodes: 48
+      - title: Diamond Is Unbreakable
+        number_of_episodes: 39
+      - title: Golden Wind
+        currently_airing: true
+
   - title: Deadman Wonderland
     image_url: http://pthumb.lisimg.com/7985309/130full.jpg
     number_of_episodes: 12
@@ -200,24 +215,6 @@ list:
     number_of_episodes: 26
     bluray_bought: true
 
-  - title: Jojo's Bizarre Adventure
-    image_url: http://pthumb.lisimg.com/5393228/130full.jpg
-    list:
-      - title: Phantom Blood
-        number_of_episodes: 9
-      - title: Battle Tendancy
-        number_of_episodes: 17
-      - title: Stardust Crusaders
-        number_of_episodes: 48
-      - title: Diamond Is Unbreakable
-        number_of_episodes: 39
-
-  - title: Black Butler
-    image_url: http://pthumb.lisimg.com/420195/130full.jpg
-    number_of_episodes: 46
-    number_of_seasons: 3
-    number_of_oavs: 6
-
   - title: Blood Lad
     image_url: http://pthumb.lisimg.com/6073885/130full.jpg
     number_of_episodes: 10
@@ -253,13 +250,6 @@ list:
     image_url: http://pthumb.lisimg.com/15495514/130full.jpg
     number_of_episodes: 12
 
-  - title: Sword Art Online
-    image_url: http://pthumb.lisimg.com/5576929/130full.jpg
-    number_of_episodes: 50
-    number_of_seasons: 2
-    number_of_movies: 1
-    bluray_bought: true
-
   - title: Naruto
     image_url: http://pthumb.lisimg.com/89498/130full.jpg
     number_of_episodes: 720
@@ -267,15 +257,23 @@ list:
     number_of_oavs: 1
     number_of_movies: '?'
 
-  - title: D.Gray-man
-    image_url: http://pthumb.lisimg.com/123218/130full.jpg
-    number_of_episodes: 116
-    number_of_seasons: 2
-
   - title: Bleach
     image_url: http://pthumb.lisimg.com/14128943/130full.jpg
     number_of_episodes: 366
     number_of_movies: '?'
+
+  - title: Sword Art Online
+    image_url: http://pthumb.lisimg.com/5576929/130full.jpg
+    number_of_episodes: 74
+    number_of_seasons: 3
+    number_of_movies: 1
+    bluray_bought: true
+
+  - title: Black Butler
+    image_url: http://pthumb.lisimg.com/420195/130full.jpg
+    number_of_episodes: 46
+    number_of_seasons: 3
+    number_of_oavs: 6
 
   - title: Kanon
     image_url: http://pthumb.lisimg.com/201060/130full.jpg
@@ -340,9 +338,18 @@ list:
     number_of_episodes: 22
     number_of_oavs: 1
 
+  - title: D.Gray-man
+    image_url: http://pthumb.lisimg.com/123218/130full.jpg
+    number_of_episodes: 116
+    number_of_seasons: 2
+
   - title: World Trigger
     image_url: http://pthumb.lisimg.com/7568868/130full.jpg
     number_of_episodes: 73
+
+  - title: Yakusoku no Neverland
+    image_url: https://m.media-amazon.com/images/M/MV5BMTYwYjYyZDgtMTQ3My00YTI4LThmZTUtZmU1MjllOWRlOTdhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg
+    number_of_episodes: 12
 
   - title: Bakuman
     image_url: http://pthumb.lisimg.com/1814712/130full.jpg
@@ -753,36 +760,20 @@ list:
     image_url: http://pthumb.lisimg.com/15593406/130full.jpg
     number_of_episodes: 12
 
-  - title: 'Garo: Honoo no kokuin'
-    image_url: http://pthumb.lisimg.com/7731006/130full.jpg
-    number_of_episodes: 24
-
-  - title: Joker Game
-    image_url: http://pthumb.lisimg.com/11727761/130full.jpg
-    number_of_episodes: 12
-
-  - title: Monster
-    image_url: http://pthumb.lisimg.com/6111800/130full.jpg
-    number_of_episodes: 74
-
-  - title: Black Bullet
-    image_url: http://pthumb.lisimg.com/7098523/130full.jpg
-    number_of_episodes: 13
-
-  - title: A Certain Scientific Railgun
-    image_url: http://pthumb.lisimg.com/6203885/130full.jpg
-    number_of_episodes: 24
-    number_of_oavs: 1
+  - title: Love Hina
+    image_url: http://pthumb.lisimg.com/344618/130full.jpg
+    number_of_episodes: 25
+    number_of_oavs: 2
 
   - title: Chuunibyou Demo Koi ga Shitai!
     image_url: http://pthumb.lisimg.com/4407969/130full.jpg
     number_of_episodes: 12
     number_of_oavs: 1
 
-  - title: Love Hina
-    image_url: http://pthumb.lisimg.com/344618/130full.jpg
-    number_of_episodes: 25
-    number_of_oavs: 2
+  - title: A Certain Scientific Railgun
+    image_url: http://pthumb.lisimg.com/6203885/130full.jpg
+    number_of_episodes: 24
+    number_of_oavs: 1
 
   - title: Tales of Zestiria the X
     image_url: http://pthumb.lisimg.com/12125245/130full.jpg
@@ -817,13 +808,9 @@ list:
     image_url: http://pthumb.lisimg.com/15580666/130full.jpg
     number_of_episodes: 12
 
-  - title: Masamune-kun No Revenge
-    image_url: http://pthumb.lisimg.com/14180493/130full.jpg
-    number_of_episodes: 12
-
-  - title: Un-Go
-    image_url: http://pthumb.lisimg.com/3057820/130full.jpg
-    number_of_episodes: 11
+  - title: La Loi d'Ueki
+    image_url: http://pthumb.lisimg.com/1926342/130full.jpg
+    number_of_episodes: 51
 
   - title: Pandora Hearts
     image_url: http://pthumb.lisimg.com/493538/130full.jpg
@@ -837,21 +824,33 @@ list:
     image_url: http://pthumb.lisimg.com/63023/130full.jpg
     number_of_episodes: 6
 
-  - title: '[C]'
-    image_url: http://pthumb.lisimg.com/2385243/130full.jpg
+  - title: 'Garo: Honoo no kokuin'
+    image_url: http://pthumb.lisimg.com/7731006/130full.jpg
+    number_of_episodes: 24
+
+  - title: Joker Game
+    image_url: http://pthumb.lisimg.com/11727761/130full.jpg
+    number_of_episodes: 12
+
+  - title: Monster
+    image_url: http://pthumb.lisimg.com/6111800/130full.jpg
+    number_of_episodes: 74
+
+  - title: Masamune-kun No Revenge
+    image_url: http://pthumb.lisimg.com/14180493/130full.jpg
+    number_of_episodes: 12
+
+  - title: Un-Go
+    image_url: http://pthumb.lisimg.com/3057820/130full.jpg
     number_of_episodes: 11
 
-  - title: '.hack//Roots'
-    image_url: http://pthumb.lisimg.com/123266/130full.jpg
-    number_of_episodes: 27
+  - title: No. 6
+    image_url: https://m.media-amazon.com/images/M/MV5BNmQ2MjZlZDQtOTE4Yi00OGJiLThhYTQtZjE3ZDVlZmFiNTQ3XkEyXkFqcGdeQXVyNTk2MzQ0NDY@._V1_SY1000_CR200,10,640,960_AL_.jpg
+    number_of_episodes: 11
 
-  - title: Devil Survivor 2
-    image_url: http://pthumb.lisimg.com/9982270/130full.jpg
+  - title: Black Bullet
+    image_url: http://pthumb.lisimg.com/7098523/130full.jpg
     number_of_episodes: 13
-
-  - title: La Loi d'Ueki
-    image_url: http://pthumb.lisimg.com/1926342/130full.jpg
-    number_of_episodes: 51
 
   - title: Sherlock Holmes
     image_url: https://m.media-amazon.com/images/M/MV5BNjI2MWJhZDctZTZjYy00ZmYzLWFiMzMtNzI3Mzk5ZTUzNDc0XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_.jpg
@@ -865,6 +864,18 @@ list:
   - title: Bloodivores
     image_url: http://pthumb.lisimg.com/13736008/130full.jpg
     number_of_episodes: 12
+
+  - title: '[C]'
+    image_url: http://pthumb.lisimg.com/2385243/130full.jpg
+    number_of_episodes: 11
+
+  - title: '.hack//Roots'
+    image_url: http://pthumb.lisimg.com/123266/130full.jpg
+    number_of_episodes: 27
+
+  - title: Devil Survivor 2
+    image_url: http://pthumb.lisimg.com/9982270/130full.jpg
+    number_of_episodes: 13
 
   - title: Maria the Virgin Witch
     image_url: http://pthumb.lisimg.com/8074871/130full.jpg
@@ -985,10 +996,6 @@ list:
     image_url: http://pthumb.lisimg.com/15238112/130full.jpg
     number_of_episodes: 12
 
-  - title: King of Nabari
-    image_url: http://pthumb.lisimg.com/787374/130full.jpg
-    number_of_episodes: 26
-
   - title: Seirei no Moribito
     image_url: http://pthumb.lisimg.com/1238536/130full.jpg
     number_of_episodes: 26
@@ -1016,6 +1023,10 @@ list:
   - title: Usagi Drop
     image_url: http://pthumb.lisimg.com/3023406/130full.jpg
     number_of_episodes: 11
+
+  - title: Blue Dragon
+    image_url: http://pthumb.lisimg.com/3743232/130full.jpg
+    number_of_episodes: 51
 
   - title: Kiba
     image_url: http://pthumb.lisimg.com/6163313/130full.jpg
@@ -1054,9 +1065,17 @@ list:
     image_url: http://pthumb.lisimg.com/988622/130full.jpg
     number_of_episodes: 12
 
-  - title: Blue Dragon
-    image_url: http://pthumb.lisimg.com/3743232/130full.jpg
-    number_of_episodes: 51
+  - title: King of Nabari
+    image_url: http://pthumb.lisimg.com/787374/130full.jpg
+    number_of_episodes: 26
+
+  - title: Vision of Escaflowne
+    image_url: http://pthumb.lisimg.com/3136917/130full.jpg
+    number_of_episodes: 26
+
+  - title: Tenjho Tenge
+    image_url: http://pthumb.lisimg.com/15122424/130full.jpg
+    number_of_episodes: 24
 
   - title: Tsubasa Reservoir Chronicle
     image_url: http://pthumb.lisimg.com/199711/130full.jpg
@@ -1081,14 +1100,6 @@ list:
     number_of_episodes: 24
     number_of_seasons: 2
     number_of_oavs: 1
-
-  - title: Vision of Escaflowne
-    image_url: http://pthumb.lisimg.com/3136917/130full.jpg
-    number_of_episodes: 26
-
-  - title: Tenjho Tenge
-    image_url: http://pthumb.lisimg.com/15122424/130full.jpg
-    number_of_episodes: 24
 
   - title: Merry Nightmare
     image_url: http://pthumb.lisimg.com/6163093/130full.jpg
