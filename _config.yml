@@ -13,7 +13,6 @@ header_pages:
   - animes.md
   - anime-movies.md
   - series.md
-  - cookbook-la-cuisine-sans-bla-bla.md
 
 # Build settings
 markdown: kramdown
