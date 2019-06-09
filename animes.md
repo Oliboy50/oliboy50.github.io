@@ -291,6 +291,11 @@ list:
     image_url: http://pthumb.lisimg.com/5624358/130full.jpg
     number_of_episodes: 12
 
+  - title: Shokugeki no Soma
+    image_url: https://m.media-amazon.com/images/M/MV5BODJhZDFjMTItZTZjZC00MGM0LWFlM2UtZTE2MTU4YjE0MzMxXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_.jpg
+    number_of_episodes: 61
+    number_of_seasons: 3
+
   - title: Golden Kamuy
     image_url: https://m.media-amazon.com/images/M/MV5BNWE3YWVhMDEtZmViNy00ZmM3LWIxYWItZjdkZGFkNTQ4NzMxXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg
     number_of_episodes: 12

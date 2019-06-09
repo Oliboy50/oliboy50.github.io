@@ -1,9 +1,7 @@
 ---
 layout: page
-title: |
-    Recettes préférées du livre
-    "La cuisine sans bla bla"
-permalink: /cuisine-sans-blabla
+title: La cuisine sans bla bla
+permalink: /cookbook-la-cuisine-sans-bla-bla
 
 list:
   - title: Mignonnettes de porc et poires (sauce au bleu)

@@ -12,7 +12,6 @@ github_username:  Oliboy50
 header_pages:
   - animes.md
   - anime-movies.md
-  - series.md
 
 # Build settings
 markdown: kramdown

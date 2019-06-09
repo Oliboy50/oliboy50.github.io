@@ -12,16 +12,12 @@ list:
     image_url: http://pthumb.lisimg.com/863844/130full.jpg
     number_of_seasons: 20
 
-  - title: Game of Thrones
-    image_url: http://pthumb.lisimg.com/3396085/130full.jpg
-    number_of_seasons: 7
-
   - title: Breaking Bad
     image_url: http://pthumb.lisimg.com/5502367/130full.jpg
     number_of_seasons: 5
 
-  - title: The Walking Dead
-    image_url: http://pthumb.lisimg.com/16173302/130full.jpg
+  - title: Game of Thrones
+    image_url: http://pthumb.lisimg.com/3396085/130full.jpg
     number_of_seasons: 8
 
   - title: The IT Crowd
@@ -38,7 +34,11 @@ list:
 
   - title: Black Mirror
     image_url: https://m.media-amazon.com/images/M/MV5BNTEwYzNiMGUtNzRlYS00MTMzLTliNzgtOGUxZGZiNThlNWYwXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SY1000_CR0,0,675,1000_AL_.jpg
-    number_of_seasons: 4
+    number_of_seasons: 5
+
+  - title: The Walking Dead
+    image_url: http://pthumb.lisimg.com/16173302/130full.jpg
+    number_of_seasons: 8
 
   - title: Stranger Things
     image_url: http://pthumb.lisimg.com/16055339/130full.jpg
