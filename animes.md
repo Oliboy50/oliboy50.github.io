@@ -36,15 +36,15 @@ list:
         number_of_oavs: 4
         bluray_bought: true
 
+  - title: One Punch Man
+    image_url: http://pthumb.lisimg.com/9420638/130full.jpg
+    number_of_episodes: 24
+    number_of_oavs: 6
+    bluray_bought: true
+
   - title: Overlord
     image_url: http://pthumb.lisimg.com/9340463/130full.jpg
     number_of_episodes: 39
-
-  - title: One Punch Man
-    image_url: http://pthumb.lisimg.com/9420638/130full.jpg
-    number_of_episodes: 12
-    number_of_oavs: 6
-    bluray_bought: true
 
   - title: Ajin
     image_url: http://pthumb.lisimg.com/10087798/130full.jpg
@@ -57,6 +57,11 @@ list:
     number_of_episodes: 25
     number_of_seasons: 2
 
+  - title: Attack on Titan
+    image_url: http://pthumb.lisimg.com/11994643/130full.jpg
+    number_of_episodes: 59
+    number_of_oavs: 3
+
   - title: GTO
     image_url: http://pthumb.lisimg.com/132280/130full.jpg
     number_of_episodes: 43
@@ -66,11 +71,6 @@ list:
     number_of_episodes: 44
     number_of_seasons: 2
     number_of_oavs: 5
-
-  - title: Attack on Titan
-    image_url: http://pthumb.lisimg.com/11994643/130full.jpg
-    number_of_episodes: 49
-    number_of_oavs: 3
 
   - title: Beelzebub
     image_url: http://pthumb.lisimg.com/2110699/130full.jpg
@@ -94,6 +94,10 @@ list:
 
   - title: 'Re: Zero'
     image_url: http://pthumb.lisimg.com/15230027/130full.jpg
+    number_of_episodes: 25
+
+  - title: 'The Rising of the Shield Hero'
+    image_url: https://m.media-amazon.com/images/M/MV5BNTQ1ZGVjODAtNWYzZS00ZmZiLWExYjEtNmM1MjI2OTk1YWY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg
     number_of_episodes: 25
 
   - title: Tokyo Ghoul
@@ -323,16 +327,16 @@ list:
     image_url: http://pthumb.lisimg.com/8820982/130full.jpg
     number_of_episodes: 22
 
+  - title: Bungou Stray Dogs
+    image_url: http://pthumb.lisimg.com/11727760/130full.jpg
+    number_of_episodes: 37
+    number_of_seasons: 3
+
   - title: Noragami
     image_url: http://pthumb.lisimg.com/6317192/130full.jpg
     number_of_episodes: 25
     number_of_seasons: 2
     number_of_oavs: 2
-
-  - title: Bungou Stray Dogs
-    image_url: http://pthumb.lisimg.com/11727760/130full.jpg
-    number_of_episodes: 24
-    number_of_seasons: 2
 
   - title: No Game, No Life
     image_url: http://pthumb.lisimg.com/7047885/130full.jpg
