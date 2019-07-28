@@ -238,17 +238,15 @@ list:
     image_url: http://pthumb.lisimg.com/2110422/130full.jpg
     number_of_episodes: 11
 
-  - title: Code Geass
-    image_url: http://pthumb.lisimg.com/62652/130full.jpg
-    number_of_episodes: 50
-    number_of_seasons: 2
-    number_of_oavs: 5
-
   - title: Hai to Gensou no Grimgar
     image_url: http://pthumb.lisimg.com/14307046/130full.jpg
     number_of_episodes: 12
     number_of_oavs: 1
     bluray_bought: true
+
+  - title: Detroit Metal City
+    image_url: http://pthumb.lisimg.com/5624358/130full.jpg
+    number_of_episodes: 12
 
   - title: Juuni Taisen
     image_url: http://pthumb.lisimg.com/15495514/130full.jpg
@@ -265,6 +263,12 @@ list:
     image_url: http://pthumb.lisimg.com/14128943/130full.jpg
     number_of_episodes: 366
     number_of_movies: '?'
+
+  - title: Code Geass
+    image_url: http://pthumb.lisimg.com/62652/130full.jpg
+    number_of_episodes: 50
+    number_of_seasons: 2
+    number_of_oavs: 5
 
   - title: Sword Art Online
     image_url: http://pthumb.lisimg.com/5576929/130full.jpg
@@ -287,18 +291,38 @@ list:
     image_url: http://pthumb.lisimg.com/11821423/130full.jpg
     number_of_episodes: 13
 
-  - title: Parasyte
-    image_url: http://pthumb.lisimg.com/7767566/130full.jpg
-    number_of_episodes: 24
-
-  - title: Detroit Metal City
-    image_url: http://pthumb.lisimg.com/5624358/130full.jpg
-    number_of_episodes: 12
-
   - title: Shokugeki no Soma
     image_url: https://m.media-amazon.com/images/M/MV5BODJhZDFjMTItZTZjZC00MGM0LWFlM2UtZTE2MTU4YjE0MzMxXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_.jpg
     number_of_episodes: 61
     number_of_seasons: 3
+
+  - title: Your Lie In April
+    image_url: http://pthumb.lisimg.com/8820982/130full.jpg
+    number_of_episodes: 22
+
+  - title: Parasyte
+    image_url: http://pthumb.lisimg.com/7767566/130full.jpg
+    number_of_episodes: 24
+
+  - title: Bungou Stray Dogs
+    image_url: http://pthumb.lisimg.com/11727760/130full.jpg
+    number_of_episodes: 37
+    number_of_seasons: 3
+
+  - title: No Game, No Life
+    image_url: http://pthumb.lisimg.com/7047885/130full.jpg
+    number_of_episodes: 12
+
+  - title: Hyouka
+    image_url: http://pthumb.lisimg.com/3825477/130full.jpg
+    number_of_episodes: 22
+    number_of_oavs: 1
+
+  - title: Noragami
+    image_url: http://pthumb.lisimg.com/6317192/130full.jpg
+    number_of_episodes: 25
+    number_of_seasons: 2
+    number_of_oavs: 2
 
   - title: Golden Kamuy
     image_url: https://m.media-amazon.com/images/M/MV5BNWE3YWVhMDEtZmViNy00ZmM3LWIxYWItZjdkZGFkNTQ4NzMxXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg
@@ -323,39 +347,6 @@ list:
     image_url: http://pthumb.lisimg.com/4295458/130full.jpg
     number_of_episodes: 77
 
-  - title: Your Lie In April
-    image_url: http://pthumb.lisimg.com/8820982/130full.jpg
-    number_of_episodes: 22
-
-  - title: Bungou Stray Dogs
-    image_url: http://pthumb.lisimg.com/11727760/130full.jpg
-    number_of_episodes: 37
-    number_of_seasons: 3
-
-  - title: Noragami
-    image_url: http://pthumb.lisimg.com/6317192/130full.jpg
-    number_of_episodes: 25
-    number_of_seasons: 2
-    number_of_oavs: 2
-
-  - title: No Game, No Life
-    image_url: http://pthumb.lisimg.com/7047885/130full.jpg
-    number_of_episodes: 12
-
-  - title: Hyouka
-    image_url: http://pthumb.lisimg.com/3825477/130full.jpg
-    number_of_episodes: 22
-    number_of_oavs: 1
-
-  - title: D.Gray-man
-    image_url: http://pthumb.lisimg.com/123218/130full.jpg
-    number_of_episodes: 116
-    number_of_seasons: 2
-
-  - title: World Trigger
-    image_url: http://pthumb.lisimg.com/7568868/130full.jpg
-    number_of_episodes: 73
-
   - title: Yakusoku no Neverland
     image_url: https://m.media-amazon.com/images/M/MV5BMTYwYjYyZDgtMTQ3My00YTI4LThmZTUtZmU1MjllOWRlOTdhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg
     number_of_episodes: 12
@@ -364,30 +355,6 @@ list:
     image_url: http://pthumb.lisimg.com/1814712/130full.jpg
     number_of_episodes: 75
     number_of_seasons: 3
-
-  - title: Steins;Gate
-    image_url: http://pthumb.lisimg.com/14987944/130full.jpg
-    number_of_episodes: 47
-    number_of_seasons: 2
-    number_of_oavs: 1
-    number_of_movies: 1
-
-  - title: Gate
-    image_url: http://pthumb.lisimg.com/9339251/130full.jpg
-    number_of_episodes: 24
-    number_of_seasons: 2
-
-  - title: Drifters
-    image_url: http://pthumb.lisimg.com/15220063/130full.jpg
-    number_of_episodes: 12
-
-  - title: Gangsta
-    image_url: http://pthumb.lisimg.com/9322649/130full.jpg
-    number_of_episodes: 12
-
-  - title: The Rolling Girls
-    image_url: http://pthumb.lisimg.com/8110211/130full.jpg
-    number_of_episodes: 12
 
   - title: Rokka no Yuusha
     image_url: http://pthumb.lisimg.com/9300420/130full.jpg
@@ -400,84 +367,6 @@ list:
   - title: Violet Evergarden
     image_url: http://pthumb.lisimg.com/15953703/130full.jpg
     number_of_episodes: 13
-
-  - title: Boku wa tomodachi ga sukunai
-    image_url: http://pthumb.lisimg.com/4776144/130full.jpg
-    number_of_episodes: 25
-    number_of_seasons: 2
-
-  - title: God Eater
-    image_url: http://pthumb.lisimg.com/9700027/130full.jpg
-    number_of_episodes: 13
-    number_of_oavs: 1
-
-  - title: Gantz
-    image_url: http://pthumb.lisimg.com/4093626/130full.jpg
-    number_of_episodes: 26
-    number_of_movies: 1
-
-  - title: Fate/Zero
-    image_url: http://pthumb.lisimg.com/5541470/130full.jpg
-    number_of_episodes: 25
-
-  - title: Seraph of the End
-    image_url: http://pthumb.lisimg.com/8550705/130full.jpg
-    number_of_episodes: 24
-    number_of_seasons: 2
-
-  - title: Ben-To
-    image_url: http://pthumb.lisimg.com/7393034/130full.jpg
-    number_of_episodes: 12
-
-  - title: Fairy Tail
-    image_url: http://pthumb.lisimg.com/3255474/130full.jpg
-    number_of_episodes: 277
-    number_of_movies: 1
-
-  - title: Assassination Classroom
-    image_url: http://pthumb.lisimg.com/7972899/130full.jpg
-    number_of_episodes: 47
-    number_of_seasons: 2
-    number_of_oavs: 1
-
-  - title: Toradora!
-    image_url: http://pthumb.lisimg.com/975588/130full.jpg
-    number_of_episodes: 25
-    number_of_oavs: 1
-
-  - title: Death Parade
-    image_url: http://pthumb.lisimg.com/8820973/130full.jpg
-    number_of_episodes: 12
-
-  - title: Bimbogami ga!
-    image_url: http://pthumb.lisimg.com/4356709/130full.jpg
-    number_of_episodes: 13
-
-  - title: Psycho-Pass
-    image_url: http://pthumb.lisimg.com/6203839/130full.jpg
-    number_of_episodes: 33
-    number_of_seasons: 2
-    number_of_movies: 1
-
-  - title: Log Horizon
-    image_url: http://pthumb.lisimg.com/6023815/130full.jpg
-    number_of_episodes: 50
-    number_of_seasons: 2
-
-  - title: Little Busters!
-    image_url: http://pthumb.lisimg.com/6050651/130full.jpg
-    number_of_episodes: 48
-    number_of_seasons: 3
-
-  - title: Grisaia no Kajitsu
-    image_url: http://pthumb.lisimg.com/7593250/130full.jpg
-    number_of_episodes: 13
-    number_of_oavs: 1
-
-  - title: Higurashi no naku koro ni
-    image_url: http://pthumb.lisimg.com/515912/130full.jpg
-    number_of_episodes: 50
-    number_of_seasons: 2
 
   - title: Cowboy Bebop
     image_url: http://pthumb.lisimg.com/62731/130full.jpg
@@ -502,17 +391,171 @@ list:
     image_url: http://pthumb.lisimg.com/39051/130full.jpg
     number_of_episodes: 26
 
-  - title: Fate/Apocrypha
-    image_url: http://pthumb.lisimg.com/15588547/130full.jpg
+  - title: D.Gray-man
+    image_url: http://pthumb.lisimg.com/123218/130full.jpg
+    number_of_episodes: 116
+    number_of_seasons: 2
+
+  - title: World Trigger
+    image_url: http://pthumb.lisimg.com/7568868/130full.jpg
+    number_of_episodes: 73
+
+  - title: Steins;Gate
+    image_url: http://pthumb.lisimg.com/14987944/130full.jpg
+    number_of_episodes: 47
+    number_of_seasons: 2
+    number_of_oavs: 1
+    number_of_movies: 1
+
+  - title: DanMachi (Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka)
+    image_url: https://m.media-amazon.com/images/M/MV5BY2JhZThjMjAtMjA5Yi00ZTIxLTljODctZDgxMzdlMzA2YjllXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg
+    list:
+      - title: 'DanMachi'
+        number_of_episodes: 25
+        number_of_seasons: 2
+      - title: 'DanMachi Gaiden Sword Oratoria'
+        number_of_episodes: 12
+
+  - title: Boku wa tomodachi ga sukunai
+    image_url: http://pthumb.lisimg.com/4776144/130full.jpg
     number_of_episodes: 25
+    number_of_seasons: 2
+
+  - title: God Eater
+    image_url: http://pthumb.lisimg.com/9700027/130full.jpg
+    number_of_episodes: 13
+    number_of_oavs: 1
+
+  - title: Gantz
+    image_url: http://pthumb.lisimg.com/4093626/130full.jpg
+    number_of_episodes: 26
+    number_of_movies: 1
+
+  - title: Ben-To
+    image_url: http://pthumb.lisimg.com/7393034/130full.jpg
+    number_of_episodes: 12
+
+  - title: Gate
+    image_url: http://pthumb.lisimg.com/9339251/130full.jpg
+    number_of_episodes: 24
+    number_of_seasons: 2
+
+  - title: Drifters
+    image_url: http://pthumb.lisimg.com/15220063/130full.jpg
+    number_of_episodes: 12
+
+  - title: Gangsta
+    image_url: http://pthumb.lisimg.com/9322649/130full.jpg
+    number_of_episodes: 12
+
+  - title: The Rolling Girls
+    image_url: http://pthumb.lisimg.com/8110211/130full.jpg
+    number_of_episodes: 12
+
+  - title: Fate/Zero
+    image_url: http://pthumb.lisimg.com/5541470/130full.jpg
+    number_of_episodes: 25
+
+  - title: Fairy Tail
+    image_url: http://pthumb.lisimg.com/3255474/130full.jpg
+    number_of_episodes: 277
+    number_of_movies: 1
+
+  - title: Assassination Classroom
+    image_url: http://pthumb.lisimg.com/7972899/130full.jpg
+    number_of_episodes: 47
+    number_of_seasons: 2
+    number_of_oavs: 1
+
+  - title: Toradora!
+    image_url: http://pthumb.lisimg.com/975588/130full.jpg
+    number_of_episodes: 25
+    number_of_oavs: 1
 
   - title: 'Yôjo Senki: Saga of Tanya the Evil'
     image_url: http://pthumb.lisimg.com/14148573/130full.jpg
     number_of_episodes: 12
 
+  - title: Death Parade
+    image_url: http://pthumb.lisimg.com/8820973/130full.jpg
+    number_of_episodes: 12
+
+  - title: Bimbogami ga!
+    image_url: http://pthumb.lisimg.com/4356709/130full.jpg
+    number_of_episodes: 13
+
+  - title: Psycho-Pass
+    image_url: http://pthumb.lisimg.com/6203839/130full.jpg
+    number_of_episodes: 33
+    number_of_seasons: 2
+    number_of_movies: 1
+
+  - title: Log Horizon
+    image_url: http://pthumb.lisimg.com/6023815/130full.jpg
+    number_of_episodes: 50
+    number_of_seasons: 2
+
+  - title: Chihayafuru
+    image_url: http://pthumb.lisimg.com/3582982/130full.jpg
+    number_of_episodes: 50
+    number_of_seasons: 2
+
+  - title: Little Busters!
+    image_url: http://pthumb.lisimg.com/6050651/130full.jpg
+    number_of_episodes: 48
+    number_of_seasons: 3
+
+  - title: Grisaia no Kajitsu
+    image_url: http://pthumb.lisimg.com/7593250/130full.jpg
+    number_of_episodes: 13
+    number_of_oavs: 1
+
+  - title: Magi
+    image_url: http://pthumb.lisimg.com/4578965/130full.jpg
+    list:
+      - title: 'Magi: The Kingdom of Magic'
+        number_of_episodes: 50
+        number_of_seasons: 2
+      - title: Adventures of Sinbad
+        number_of_episodes: 13
+
+  - title: Blue Exorcist
+    image_url: http://pthumb.lisimg.com/5634133/130full.jpg
+    number_of_episodes: 37
+    number_of_seasons: 2
+    number_of_movies: 1
+
+  - title: Terra Formars
+    image_url: http://pthumb.lisimg.com/7474575/130full.jpg
+    number_of_episodes: 26
+    number_of_seasons: 2
+
+  - title: Seraph of the End
+    image_url: http://pthumb.lisimg.com/8550705/130full.jpg
+    number_of_episodes: 24
+    number_of_seasons: 2
+
+  - title: Higurashi no naku koro ni
+    image_url: http://pthumb.lisimg.com/515912/130full.jpg
+    number_of_episodes: 50
+    number_of_seasons: 2
+
+  - title: Fate/Apocrypha
+    image_url: http://pthumb.lisimg.com/15588547/130full.jpg
+    number_of_episodes: 25
+
   - title: Kyoukai no Kanata
     image_url: https://m.media-amazon.com/images/M/MV5BY2NmNTdmNDgtMjJmMS00YzQ1LTliN2ItMjQxOGRiMjAwODFhXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_.jpg
     number_of_episodes: 12
+
+  - title: Beck
+    image_url: http://pthumb.lisimg.com/191353/130full.jpg
+    number_of_episodes: 26
+
+  - title: Castlevania
+    image_url: https://m.media-amazon.com/images/M/MV5BNTZhNGMzNzctMzhiYS00MmJiLWJmYWItMzhiYTk4Zjg0ZWIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+    number_of_episodes: 8
+    number_of_seasons: 2
 
   - title: Occultic;Nine
     image_url: http://pthumb.lisimg.com/13727052/130full.jpg
@@ -527,17 +570,6 @@ list:
     image_url: http://pthumb.lisimg.com/5594867/130full.jpg
     number_of_episodes: 13
 
-  - title: Blue Exorcist
-    image_url: http://pthumb.lisimg.com/5634133/130full.jpg
-    number_of_episodes: 37
-    number_of_seasons: 2
-    number_of_movies: 1
-
-  - title: Terra Formars
-    image_url: http://pthumb.lisimg.com/7474575/130full.jpg
-    number_of_episodes: 26
-    number_of_seasons: 2
-
   - title: Alderamin on the Sky
     image_url: http://pthumb.lisimg.com/12119529/130full.jpg
     number_of_episodes: 13
@@ -549,20 +581,6 @@ list:
   - title: Kekkai Sensen
     image_url: http://pthumb.lisimg.com/8902872/130full.jpg
     number_of_episodes: 24
-    number_of_seasons: 2
-
-  - title: Magi
-    image_url: http://pthumb.lisimg.com/4578965/130full.jpg
-    list:
-      - title: 'Magi: The Kingdom of Magic'
-        number_of_episodes: 50
-        number_of_seasons: 2
-      - title: Adventures of Sinbad
-        number_of_episodes: 13
-
-  - title: Chihayafuru
-    image_url: http://pthumb.lisimg.com/3582982/130full.jpg
-    number_of_episodes: 50
     number_of_seasons: 2
 
   - title: 'Kaiji: Ultimate Survivor'
@@ -579,35 +597,6 @@ list:
     number_of_episodes: 12
     bluray_bought: true
 
-  - title: Rewrite
-    image_url: http://pthumb.lisimg.com/14929784/130full.jpg
-    number_of_episodes: 24
-
-  - title: Grimoire of Zero
-    image_url: http://pthumb.lisimg.com/14774790/130full.jpg
-    number_of_episodes: 12
-
-  - title: Beck
-    image_url: http://pthumb.lisimg.com/191353/130full.jpg
-    number_of_episodes: 26
-
-  - title: 'Re: Creators'
-    image_url: http://pthumb.lisimg.com/14833324/130full.jpg
-    number_of_episodes: 22
-
-  - title: 'Rage of Bahamut: Genesis'
-    image_url: http://pthumb.lisimg.com/7932086/130full.jpg
-    number_of_episodes: 12
-
-  - title: From the New World
-    image_url: http://pthumb.lisimg.com/9672261/130full.jpg
-    number_of_episodes: 25
-
-  - title: Castlevania
-    image_url: https://m.media-amazon.com/images/M/MV5BNTZhNGMzNzctMzhiYS00MmJiLWJmYWItMzhiYTk4Zjg0ZWIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg
-    number_of_episodes: 8
-    number_of_seasons: 2
-
   - title: Little Witch Academia
     image_url: http://pthumb.lisimg.com/13810930/130full.jpg
     number_of_episodes: 25
@@ -620,6 +609,10 @@ list:
   - title: NHK ni youkoso!
     image_url: http://pthumb.lisimg.com/191351/130full.jpg
     number_of_episodes: 24
+
+  - title: Plastic Memories
+    image_url: http://pthumb.lisimg.com/8550714/130full.jpg
+    number_of_episodes: 13
 
   - title: Another
     image_url: http://pthumb.lisimg.com/4015992/130full.jpg
@@ -669,6 +662,64 @@ list:
     image_url: https://media.senscritique.com/media/000016850872/source_big/Saiyuki.jpg
     number_of_episodes: 50
 
+  - title: Rewrite
+    image_url: http://pthumb.lisimg.com/14929784/130full.jpg
+    number_of_episodes: 24
+
+  - title: Grimoire of Zero
+    image_url: http://pthumb.lisimg.com/14774790/130full.jpg
+    number_of_episodes: 12
+
+  - title: 'Re: Creators'
+    image_url: http://pthumb.lisimg.com/14833324/130full.jpg
+    number_of_episodes: 22
+
+  - title: 'Rage of Bahamut: Genesis'
+    image_url: http://pthumb.lisimg.com/7932086/130full.jpg
+    number_of_episodes: 12
+
+  - title: From the New World
+    image_url: http://pthumb.lisimg.com/9672261/130full.jpg
+    number_of_episodes: 25
+
+  - title: Children of the Whales
+    image_url: http://pthumb.lisimg.com/15580666/130full.jpg
+    number_of_episodes: 12
+
+  - title: La Loi d'Ueki
+    image_url: http://pthumb.lisimg.com/1926342/130full.jpg
+    number_of_episodes: 51
+
+  - title: Terror in Resonance
+    image_url: http://pthumb.lisimg.com/7159260/130full.jpg
+    number_of_episodes: 11
+
+  - title: Bakemonogatari
+    image_url: http://pthumb.lisimg.com/708222/130full.jpg
+    number_of_episodes: 15
+
+  - title: Hanamonogatari
+    image_url: http://pthumb.lisimg.com/7362256/130full.jpg
+    number_of_movies: 1
+
+  - title: Ranma ½
+    image_url: http://pthumb.lisimg.com/2794122/130full.jpg
+    number_of_episodes: 161
+
+  - title: King's Game
+    image_url: http://pthumb.lisimg.com/15593406/130full.jpg
+    number_of_episodes: 12
+
+  - title: Love Hina
+    image_url: http://pthumb.lisimg.com/344618/130full.jpg
+    number_of_episodes: 25
+    number_of_oavs: 2
+
+  - title: Chuunibyou Demo Koi ga Shitai!
+    image_url: http://pthumb.lisimg.com/4407969/130full.jpg
+    number_of_episodes: 12
+    number_of_oavs: 1
+
   - title: Puella Magi Madoka Magica
     image_url: http://pthumb.lisimg.com/1937732/130full.jpg
     number_of_episodes: 12
@@ -696,10 +747,6 @@ list:
 
   - title: The Severing Crime Edge
     image_url: http://pthumb.lisimg.com/6050703/130full.jpg
-    number_of_episodes: 13
-
-  - title: Plastic Memories
-    image_url: http://pthumb.lisimg.com/8550714/130full.jpg
     number_of_episodes: 13
 
   - title: D-Frag!
@@ -749,36 +796,6 @@ list:
     image_url: http://pthumb.lisimg.com/7135872/130full.jpg
     number_of_episodes: 12
 
-  - title: Terror in Resonance
-    image_url: http://pthumb.lisimg.com/7159260/130full.jpg
-    number_of_episodes: 11
-
-  - title: Bakemonogatari
-    image_url: http://pthumb.lisimg.com/708222/130full.jpg
-    number_of_episodes: 15
-
-  - title: Hanamonogatari
-    image_url: http://pthumb.lisimg.com/7362256/130full.jpg
-    number_of_movies: 1
-
-  - title: Ranma ½
-    image_url: http://pthumb.lisimg.com/2794122/130full.jpg
-    number_of_episodes: 161
-
-  - title: King's Game
-    image_url: http://pthumb.lisimg.com/15593406/130full.jpg
-    number_of_episodes: 12
-
-  - title: Love Hina
-    image_url: http://pthumb.lisimg.com/344618/130full.jpg
-    number_of_episodes: 25
-    number_of_oavs: 2
-
-  - title: Chuunibyou Demo Koi ga Shitai!
-    image_url: http://pthumb.lisimg.com/4407969/130full.jpg
-    number_of_episodes: 12
-    number_of_oavs: 1
-
   - title: A Certain Scientific Railgun
     image_url: http://pthumb.lisimg.com/6203885/130full.jpg
     number_of_episodes: 24
@@ -813,17 +830,13 @@ list:
       - title: BTX Neo
         number_of_episodes: 14
 
-  - title: Children of the Whales
-    image_url: http://pthumb.lisimg.com/15580666/130full.jpg
-    number_of_episodes: 12
-
-  - title: La Loi d'Ueki
-    image_url: http://pthumb.lisimg.com/1926342/130full.jpg
-    number_of_episodes: 51
-
   - title: Pandora Hearts
     image_url: http://pthumb.lisimg.com/493538/130full.jpg
     number_of_episodes: 25
+
+  - title: Gamers!
+    image_url: http://pthumb.lisimg.com/15238112/130full.jpg
+    number_of_episodes: 12
 
   - title: Grancrest Senki
     image_url: https://m.media-amazon.com/images/M/MV5BNDAyMTE5NjMtMmY2My00NDEyLWJiZWMtYWI5NWI4YzM2OGE4XkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_.jpg
@@ -840,6 +853,22 @@ list:
   - title: Joker Game
     image_url: http://pthumb.lisimg.com/11727761/130full.jpg
     number_of_episodes: 12
+
+  - title: Accel World
+    image_url: http://pthumb.lisimg.com/4272559/130full.jpg
+    number_of_episodes: 24
+
+  - title: Usagi Drop
+    image_url: http://pthumb.lisimg.com/3023406/130full.jpg
+    number_of_episodes: 11
+
+  - title: Blue Dragon
+    image_url: http://pthumb.lisimg.com/3743232/130full.jpg
+    number_of_episodes: 51
+
+  - title: Kiba
+    image_url: http://pthumb.lisimg.com/6163313/130full.jpg
+    number_of_episodes: 51
 
   - title: Monster
     image_url: http://pthumb.lisimg.com/6111800/130full.jpg
@@ -1001,10 +1030,6 @@ list:
     image_url: http://pthumb.lisimg.com/12035657/130full.jpg
     number_of_episodes: 12
 
-  - title: Gamers!
-    image_url: http://pthumb.lisimg.com/15238112/130full.jpg
-    number_of_episodes: 12
-
   - title: Seirei no Moribito
     image_url: http://pthumb.lisimg.com/1238536/130full.jpg
     number_of_episodes: 26
@@ -1024,22 +1049,6 @@ list:
   - title: Shinigami no Ballad
     image_url: http://pthumb.lisimg.com/9857003/130full.jpg
     number_of_episodes: 6
-
-  - title: Accel World
-    image_url: http://pthumb.lisimg.com/4272559/130full.jpg
-    number_of_episodes: 24
-
-  - title: Usagi Drop
-    image_url: http://pthumb.lisimg.com/3023406/130full.jpg
-    number_of_episodes: 11
-
-  - title: Blue Dragon
-    image_url: http://pthumb.lisimg.com/3743232/130full.jpg
-    number_of_episodes: 51
-
-  - title: Kiba
-    image_url: http://pthumb.lisimg.com/6163313/130full.jpg
-    number_of_episodes: 51
 
   - title: Saint Seiya
     image_url: http://pthumb.lisimg.com/526800/130full.jpg
@@ -1110,6 +1119,18 @@ list:
     number_of_seasons: 2
     number_of_oavs: 1
 
+  - title: Michiko to Hatchin
+    image_url: http://pthumb.lisimg.com/438956/130full.jpg
+    number_of_episodes: 22
+
+  - title: Gurren Lagann
+    image_url: http://pthumb.lisimg.com/379291/130full.jpg
+    number_of_episodes: 27
+
+  - title: Serial Experiments Lain
+    image_url: http://pthumb.lisimg.com/1229823/130full.jpg
+    number_of_episodes: 13
+
   - title: Merry Nightmare
     image_url: http://pthumb.lisimg.com/6163093/130full.jpg
     number_of_episodes: 13
@@ -1178,14 +1199,6 @@ list:
     image_url: http://pthumb.lisimg.com/295005/130full.jpg
     number_of_episodes: 50
 
-  - title: Michiko to Hatchin
-    image_url: http://pthumb.lisimg.com/438956/130full.jpg
-    number_of_episodes: 22
-
-  - title: Gurren Lagann
-    image_url: http://pthumb.lisimg.com/379291/130full.jpg
-    number_of_episodes: 27
-
   - title: 07-Ghost
     image_url: http://pthumb.lisimg.com/1030481/130full.jpg
     number_of_episodes: 25
@@ -1197,10 +1210,6 @@ list:
   - title: Densetsu no Yuusha no Densetsu
     image_url: http://pthumb.lisimg.com/2738832/130full.jpg
     number_of_episodes: 24
-
-  - title: Serial Experiments Lain
-    image_url: http://pthumb.lisimg.com/1229823/130full.jpg
-    number_of_episodes: 13
 
   - title: 'Akagi: The Genius Who Descends Into Darkness'
     image_url: http://pthumb.lisimg.com/7267652/130full.jpg
