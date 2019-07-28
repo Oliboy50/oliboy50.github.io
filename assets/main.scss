@@ -23,11 +23,12 @@
             }
 
             & > h3 {
-                display: inline-block;
+                display: inline;
             }
 
             & > ul {
                 overflow: auto;
+                margin-top: 1rem;
                 padding-left: 1rem;
                 list-style-type: circle;
 
