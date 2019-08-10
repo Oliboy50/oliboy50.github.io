@@ -1,10 +1,12 @@
 version: "3"
+
 services:
   site:
-    command: jekyll serve --watch --force_polling
-    image: jekyll/jekyll:latest
+    image: jekyll/jekyll:latest # :pages can't build...
+    command: jekyll serve --watch --force_polling --livereload
     volumes:
       - .:/srv/jekyll
       - /usr/local/bundle
     ports:
       - 4000:4000
+      - 35729:35729

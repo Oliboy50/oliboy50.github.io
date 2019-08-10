@@ -172,7 +172,7 @@ list:
       - title: Diamond Is Unbreakable
         number_of_episodes: 39
       - title: Golden Wind
-        currently_airing: true
+        number_of_episodes: 39
 
   - title: Deadman Wonderland
     image_url: http://pthumb.lisimg.com/7985309/130full.jpg

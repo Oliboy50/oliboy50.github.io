@@ -11,6 +11,20 @@ list:
     total_time: 30
     image_url: https://i.imgur.com/y2Hk5Eo.jpg
 
+  - title: Bo bun
+    number: 97
+    is_main_course: true
+    persons: 4
+    total_time: 20
+    image_url: https://i.imgur.com/Kps1wKg.jpg
+
+  - title: Tarte soleil pesto, mozzarella et courgette
+    number: 2
+    is_starter: true
+    persons: 6
+    total_time: 45
+    image_url: https://i.imgur.com/wHWmeVH.jpg
+
   - title: Mignonnettes de porc et poires (sauce au bleu)
     number: 42
     is_main_course: true

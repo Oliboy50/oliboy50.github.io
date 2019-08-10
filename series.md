@@ -36,17 +36,13 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNTEwYzNiMGUtNzRlYS00MTMzLTliNzgtOGUxZGZiNThlNWYwXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SY1000_CR0,0,675,1000_AL_.jpg
     number_of_seasons: 5
 
+  - title: Happy!
+    image_url: https://m.media-amazon.com/images/M/MV5BNzk2NjYxMDMxMV5BMl5BanBnXkFtZTgwMzQxODcwNDI@._V1_SY1000_CR0,0,673,1000_AL_.jpg
+    number_of_seasons: 2
+
   - title: The Walking Dead
     image_url: http://pthumb.lisimg.com/16173302/130full.jpg
     number_of_seasons: 8
-
-  - title: Stranger Things
-    image_url: http://pthumb.lisimg.com/16055339/130full.jpg
-    number_of_seasons: 2
-
-  - title: Mr. Robot
-    image_url: http://pthumb.lisimg.com/11659857/130full.jpg
-    number_of_seasons: 2
 
   - title: Better Call Saul
     image_url: http://pthumb.lisimg.com/14183847/130full.jpg
@@ -55,6 +51,14 @@ list:
   - title: Westworld
     image_url: http://pthumb.lisimg.com/15970527/130full.jpg
     number_of_seasons: 1
+
+  - title: Stranger Things
+    image_url: http://pthumb.lisimg.com/16055339/130full.jpg
+    number_of_seasons: 3
+
+  - title: Mr. Robot
+    image_url: http://pthumb.lisimg.com/11659857/130full.jpg
+    number_of_seasons: 2
 
   - title: Love, Death & Robots
     image_url: https://m.media-amazon.com/images/M/MV5BMTc1MjIyNDI3Nl5BMl5BanBnXkFtZTgwMjQ1OTI0NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg
