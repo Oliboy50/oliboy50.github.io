@@ -4,12 +4,12 @@ title: Films d'anime préférés
 permalink: /anime-movies
 
 list:
-  - title: Princesse Mononoke
-    image_url: http://pthumb.lisimg.com/14085317/130full.jpg
-
-  - title: Your Name
+  - title: Your Name (Kimi no Nawa)
     image_url: http://pthumb.lisimg.com/11637904/130full.jpg
     bluray_bought: true
+
+  - title: Princesse Mononoke
+    image_url: http://pthumb.lisimg.com/14085317/130full.jpg
 
   - title: La Traversée du temps
     image_url: http://pthumb.lisimg.com/439553/130full.jpg
@@ -17,15 +17,18 @@ list:
   - title: Le Voyage de Chihiro
     image_url: http://pthumb.lisimg.com/434341/130full.jpg
 
-  - title: Les Enfants loups, Ame et Yuki
-    image_url: http://pthumb.lisimg.com/3826597/130full.jpg
-
   - title: Le Royaume des chats
     image_url: http://pthumb.lisimg.com/6598577/130full.jpg
 
   - title: Souvenirs de Marnie
     image_url: http://pthumb.lisimg.com/8758968/130full.jpg
     bluray_bought: true
+
+  - title: Okko et les fantômes
+    image_url: https://m.media-amazon.com/images/M/MV5BZDNlYjMyN2YtYWI5OC00MTY0LTgxZWQtZDAwZWFjNzhlOGVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_.jpg
+
+  - title: Les Enfants loups, Ame et Yuki
+    image_url: http://pthumb.lisimg.com/3826597/130full.jpg
 
   - title: A Silent Voice
     image_url: https://m.media-amazon.com/images/M/MV5BZDc2NGZiZDMtYjg3Ni00ZDhkLThlYWEtMzQwMDBlZDQzOWQ2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_.jpg
@@ -104,6 +107,9 @@ list:
 
   - title: Le Conte de la princesse Kaguya
     image_url: http://pthumb.lisimg.com/9641715/130full.jpg
+
+  - title: Mirai (Miraï, ma petite soeur)
+    image_url: https://m.media-amazon.com/images/M/MV5BZjc4NGJiOWUtOWNjOS00M2QzLWFlMmMtMTU3ODMzNWU5ODk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg
 
   - title: Le Roi des ronces
     image_url: http://pthumb.lisimg.com/9623313/130full.jpg

@@ -96,7 +96,7 @@ list:
     image_url: http://pthumb.lisimg.com/15230027/130full.jpg
     number_of_episodes: 25
 
-  - title: 'The Rising of the Shield Hero'
+  - title: The Rising of the Shield Hero
     image_url: https://m.media-amazon.com/images/M/MV5BNTQ1ZGVjODAtNWYzZS00ZmZiLWExYjEtNmM1MjI2OTk1YWY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg
     number_of_episodes: 25
 
@@ -111,6 +111,10 @@ list:
     image_url: http://pthumb.lisimg.com/4407966/130full.jpg
     number_of_episodes: 12
     bluray_bought: true
+
+  - title: Demon Slayer (Kimetsu no Yaiba)
+    image_url: https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg
+    number_of_episodes: 26
 
   - title: Akame ga Kill!
     image_url: http://pthumb.lisimg.com/7140560/130full.jpg
@@ -456,11 +460,6 @@ list:
     image_url: http://pthumb.lisimg.com/5541470/130full.jpg
     number_of_episodes: 25
 
-  - title: Fairy Tail
-    image_url: http://pthumb.lisimg.com/3255474/130full.jpg
-    number_of_episodes: 277
-    number_of_movies: 1
-
   - title: Assassination Classroom
     image_url: http://pthumb.lisimg.com/7972899/130full.jpg
     number_of_episodes: 47
@@ -518,6 +517,11 @@ list:
         number_of_seasons: 2
       - title: Adventures of Sinbad
         number_of_episodes: 13
+
+  - title: Fairy Tail
+    image_url: http://pthumb.lisimg.com/3255474/130full.jpg
+    number_of_episodes: 328
+    number_of_movies: 1
 
   - title: Blue Exorcist
     image_url: http://pthumb.lisimg.com/5634133/130full.jpg
