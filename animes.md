@@ -281,6 +281,11 @@ list:
     number_of_movies: 1
     bluray_bought: true
 
+  - title: ReLIFE
+    image_url: http://pthumb.lisimg.com/11821423/130full.jpg
+    number_of_episodes: 13
+    number_of_oavs: 4
+
   - title: Black Butler
     image_url: http://pthumb.lisimg.com/420195/130full.jpg
     number_of_episodes: 46
@@ -290,10 +295,6 @@ list:
   - title: Kanon
     image_url: http://pthumb.lisimg.com/201060/130full.jpg
     number_of_episodes: 24
-
-  - title: ReLIFE
-    image_url: http://pthumb.lisimg.com/11821423/130full.jpg
-    number_of_episodes: 13
 
   - title: Shokugeki no Soma
     image_url: https://m.media-amazon.com/images/M/MV5BODJhZDFjMTItZTZjZC00MGM0LWFlM2UtZTE2MTU4YjE0MzMxXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_.jpg
@@ -533,6 +534,10 @@ list:
     image_url: http://pthumb.lisimg.com/7474575/130full.jpg
     number_of_episodes: 26
     number_of_seasons: 2
+
+  - title: Samurai 7
+    image_url: https://m.media-amazon.com/images/M/MV5BMTI0NDQ1OTIyOV5BMl5BanBnXkFtZTcwMjA5MDE0MQ@@._V1_.jpg
+    number_of_episodes: 26
 
   - title: Seraph of the End
     image_url: http://pthumb.lisimg.com/8550705/130full.jpg

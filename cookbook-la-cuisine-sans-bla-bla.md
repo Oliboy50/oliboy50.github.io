@@ -34,6 +34,18 @@ list:
     total_time: 200
     image_url: https://i.imgur.com/X1WO7xr.jpg
 
+  - title: Sauté de porc à l'ananas
+    number: 43
+    is_main_course: true
+    total_time: 42
+    image_url: https://i.imgur.com/HBdny7z.jpg
+
+  - title: Clafoutis aux tomates cerises
+    number: 118
+    is_main_course: true
+    total_time: 45
+    image_url: https://i.imgur.com/yaIPaUd.jpg
+
   - title: Bo bun
     number: 97
     is_main_course: true
@@ -46,11 +58,29 @@ list:
     total_time: 55
     image_url: https://i.imgur.com/5d3ATgh.jpg
 
+  - title: Pain hérisson (scamorza, sauge et pancetta)
+    number: 3
+    is_starter: true
+    total_time: 45
+    image_url: https://i.imgur.com/6PVqtPq.jpg
+
   - title: Tian de légumes au thym
     number: 153
     is_main_course: true
     total_time: 65
     image_url: https://i.imgur.com/qbXkGSc.jpg
+
+  - title: Tatin de légumes
+    number: 122
+    is_main_course: true
+    total_time: 55
+    image_url: https://i.imgur.com/VFwfW4i.jpg
+
+  - title: Tomates rôties au chèvre et au basilic
+    number: 147
+    is_main_course: true
+    total_time: 35
+    image_url: https://i.imgur.com/4BIrpZy.jpg
 
   - title: Wok de boeuf aux vermicelles et brocoli
     number: 22
@@ -58,11 +88,47 @@ list:
     total_time: 35
     image_url: https://i.imgur.com/lk5Oa73.jpg
 
+  - title: One pot pasta (trofie, petits pois et lardons)
+    number: 54
+    is_main_course: true
+    total_time: 17
+    image_url: https://i.imgur.com/Ru20nut.jpg
+
+  - title: Gratin de poivrons et courgette à la feta
+    number: 117
+    is_main_course: true
+    total_time: 50
+    image_url: https://i.imgur.com/IHMODSY.jpg
+
+  - title: Les patates en robe de chambre
+    number: 150
+    is_main_course: true
+    total_time: 45
+    image_url: https://i.imgur.com/ETPPMqe.jpg
+
   - title: Tarte soleil pesto, mozzarella et courgette
     number: 2
     is_starter: true
     total_time: 45
     image_url: https://i.imgur.com/wHWmeVH.jpg
+
+  - title: Tarte fine de tomates multicolores
+    number: 5
+    is_starter: true
+    total_time: 50
+    image_url: https://i.imgur.com/upHptzH.jpg
+
+  - title: Gratin de poireaux à l'emmental
+    number: 114
+    is_main_course: true
+    total_time: 57
+    image_url: https://i.imgur.com/ICvOcv6.jpg
+
+  - title: Cake au poivron, brie et basilic
+    number: 119
+    is_main_course: true
+    total_time: 60
+    image_url: https://i.imgur.com/2gxbkkE.jpg
 
   - title: Mignonnettes de porc et poires (sauce au bleu)
     number: 42

@@ -24,15 +24,6 @@ list:
     image_url: http://pthumb.lisimg.com/8758968/130full.jpg
     bluray_bought: true
 
-  - title: Okko et les fantômes
-    image_url: https://m.media-amazon.com/images/M/MV5BZDNlYjMyN2YtYWI5OC00MTY0LTgxZWQtZDAwZWFjNzhlOGVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_.jpg
-
-  - title: Les Enfants loups, Ame et Yuki
-    image_url: http://pthumb.lisimg.com/3826597/130full.jpg
-
-  - title: A Silent Voice
-    image_url: https://m.media-amazon.com/images/M/MV5BZDc2NGZiZDMtYjg3Ni00ZDhkLThlYWEtMzQwMDBlZDQzOWQ2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_.jpg
-
   - title: Patéma et le monde inversé
     image_url: http://pthumb.lisimg.com/13520597/130full.jpg
 
@@ -70,6 +61,21 @@ list:
   - title: Kiki la petite sorcière
     image_url: http://pthumb.lisimg.com/205296/130full.jpg
 
+  - title: Okko et les fantômes
+    image_url: https://m.media-amazon.com/images/M/MV5BZDNlYjMyN2YtYWI5OC00MTY0LTgxZWQtZDAwZWFjNzhlOGVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_.jpg
+
+  - title: Les Enfants loups, Ame et Yuki
+    image_url: http://pthumb.lisimg.com/3826597/130full.jpg
+
+  - title: A Silent Voice
+    image_url: https://m.media-amazon.com/images/M/MV5BZDc2NGZiZDMtYjg3Ni00ZDhkLThlYWEtMzQwMDBlZDQzOWQ2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_.jpg
+
+  - title: Nausicaä de la vallée du vent
+    image_url: http://pthumb.lisimg.com/4872085/130full.jpg
+
+  - title: Le Château dans le ciel
+    image_url: http://pthumb.lisimg.com/190800/130full.jpg
+
   - title: Le Tombeau des lucioles
     image_url: http://pthumb.lisimg.com/15092302/130full.jpg
     bluray_bought: true
@@ -77,17 +83,14 @@ list:
   - title: Le Garçon et la Bête
     image_url: http://pthumb.lisimg.com/11724604/130full.jpg
 
+  - title: Liz et l'oiseau bleu
+    image_url: https://m.media-amazon.com/images/M/MV5BOTBjMjIyNmYtZGZiZi00ZGMzLTliZWUtYzU1MGM4OTFkZGMxXkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_.jpg
+
   - title: 5 centimètres par seconde
     image_url: http://pthumb.lisimg.com/15092325/130full.jpg
 
   - title: Piano Forest
     image_url: http://pthumb.lisimg.com/464496/130full.jpg
-
-  - title: Nausicaä de la vallée du vent
-    image_url: http://pthumb.lisimg.com/4872085/130full.jpg
-
-  - title: Le Château dans le ciel
-    image_url: http://pthumb.lisimg.com/190800/130full.jpg
 
   - title: Le vent se lève
     image_url: http://pthumb.lisimg.com/5870131/130full.jpg
@@ -123,6 +126,10 @@ list:
   - title: Porco Rosso
     image_url: http://pthumb.lisimg.com/28049/130full.jpg
 
+  - title: Mes voisins les Yamada
+    image_url: http://pthumb.lisimg.com/7489777/130full.jpg
+    bluray_bought: true
+
   - title: The Garden of Words
     image_url: http://pthumb.lisimg.com/6892716/130full.jpg
 
@@ -141,10 +148,6 @@ list:
 
   - title: Amer Béton
     image_url: http://pthumb.lisimg.com/109691/130full.jpg
-
-  - title: Mes voisins les Yamada
-    image_url: http://pthumb.lisimg.com/7489777/130full.jpg
-    bluray_bought: true
 
 ---
 
