@@ -22,6 +22,12 @@ list:
     total_time: 55
     image_url: https://i.imgur.com/947k1Op.jpg
 
+  - title: Boeuf aux oignons
+    number: 26
+    is_main_course: true
+    total_time: 40
+    image_url: https://i.imgur.com/OJhw5PS.jpg
+
   - title: Spaghetti bolognaise
     number: 28
     is_main_course: true
@@ -39,6 +45,24 @@ list:
     is_main_course: true
     total_time: 42
     image_url: https://i.imgur.com/HBdny7z.jpg
+
+  - title: Boeuf à la bière
+    number: 25
+    is_main_course: true
+    total_time: 120
+    image_url: https://i.imgur.com/ff4OOfa.jpg
+
+  - title: Foccacia aux tomates cerises
+    number: 4
+    is_starter: true
+    total_time: 40
+    image_url: https://i.imgur.com/qV6c4Zr.jpg
+
+  - title: Lasagnes aux courgettes
+    number: 129
+    is_starter: true
+    total_time: 40
+    image_url: https://i.imgur.com/7mBo68A.jpg
 
   - title: Clafoutis aux tomates cerises
     number: 118
@@ -70,11 +94,23 @@ list:
     total_time: 65
     image_url: https://i.imgur.com/qbXkGSc.jpg
 
+  - title: Pizza blanche à la mozzarella et à la sauge
+    number: 124
+    is_main_course: true
+    total_time: 30
+    image_url: https://i.imgur.com/k3Wtrwn.jpg
+
   - title: Tatin de légumes
     number: 122
     is_main_course: true
     total_time: 55
     image_url: https://i.imgur.com/VFwfW4i.jpg
+
+  - title: Gratin de butternut au sarrasin et à la mozzarella
+    number: 116
+    is_main_course: true
+    total_time: 45
+    image_url: https://i.imgur.com/UhEATAz.jpg
 
   - title: Tomates rôties au chèvre et au basilic
     number: 147
@@ -99,6 +135,18 @@ list:
     is_main_course: true
     total_time: 50
     image_url: https://i.imgur.com/IHMODSY.jpg
+
+  - title: Légumes farcis à la ricotta
+    number: 148
+    is_main_course: true
+    total_time: 45
+    image_url: https://i.imgur.com/sn1yDNd.jpg
+
+  - title: Légumes rôtis aux olives et aux citrons confits
+    number: 145
+    is_main_course: true
+    total_time: 100
+    image_url: https://i.imgur.com/dxJC6WR.jpg
 
   - title: Les patates en robe de chambre
     number: 150
@@ -135,6 +183,12 @@ list:
     is_main_course: true
     total_time: 40
     image_url: https://i.imgur.com/05pk3Nvl.jpg
+
+  - title: Steak végétal
+    number: 155
+    is_main_course: true
+    total_time: 30
+    image_url: https://i.imgur.com/g05GmXV.jpg
 
   - title: Curry de légumes à l'indienne
     number: 142
