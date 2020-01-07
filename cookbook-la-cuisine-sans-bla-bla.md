@@ -76,6 +76,12 @@ list:
     total_time: 20
     image_url: https://i.imgur.com/Kps1wKg.jpg
 
+  - title: Poulet croustillant aux flocons de maïs
+    number: 57
+    is_main_course: true
+    total_time: 150
+    image_url: https://i.imgur.com/iHllbCD.jpg
+
   - title: Marbré
     number: 165
     is_dessert: true
