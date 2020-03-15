@@ -16,12 +16,6 @@ list:
     total_time: 30
     image_url: https://i.imgur.com/y2Hk5Eo.jpg
 
-  - title: Cocotte de canard à l'orange et au miel
-    number: 66
-    is_main_course: true
-    total_time: 55
-    image_url: https://i.imgur.com/947k1Op.jpg
-
   - title: Boeuf aux oignons
     number: 26
     is_main_course: true
@@ -46,11 +40,11 @@ list:
     total_time: 42
     image_url: https://i.imgur.com/HBdny7z.jpg
 
-  - title: Boeuf aux oignons
-    number: 26
+  - title: Cocotte de canard à l'orange et au miel
+    number: 66
     is_main_course: true
-    total_time: 40
-    image_url: https://i.imgur.com/Y2nOLop.jpg
+    total_time: 55
+    image_url: https://i.imgur.com/947k1Op.jpg
 
   - title: Boeuf à la bière
     number: 25
