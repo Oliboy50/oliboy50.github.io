@@ -10,6 +10,7 @@ list:
 
   - title: Princess Mononoke
     image_url: https://m.media-amazon.com/images/M/MV5BMTVlNWM4NTAtNDQxYi00YWU5LWIwM2MtZmVjYWFmODZiODE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX1000_.jpg
+    bluray_bought: true
 
   - title: The Girl Who Leapt Through Time (La Traversée du temps)
     image_url: https://m.media-amazon.com/images/M/MV5BNjhiN2FjMWUtMDAyMi00ODJkLWE3MDgtODJlYTA1NDk5M2MyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
@@ -20,6 +21,7 @@ list:
 
   - title: The Cat Returns (Le Royaume des chats)
     image_url: https://m.media-amazon.com/images/M/MV5BMTQ5ODMyNTgzOV5BMl5BanBnXkFtZTcwNDM4ODAyNw@@._V1_UX1000_.jpg
+    bluray_bought: true
 
   - title: When Marnie Was There (Souvenirs de Marnie)
     image_url: https://m.media-amazon.com/images/M/MV5BYTkyMTNmY2EtOTZmYi00YWU4LTgxN2UtZWU0NTI0OGFkMWRjXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UX1000_.jpg
@@ -34,6 +36,26 @@ list:
   - title: The Secret World of Arrietty (Arrietty, le petit monde des chapardeurs)
     image_url: https://m.media-amazon.com/images/M/MV5BNjY2OWYyNmEtNzYwMy00OGU4LWI4YzgtMWZjZDUwYWZlYjA3XkEyXkFqcGdeQXVyODU2MDg1NzU@._V1_UX1000_.jpg
     bluray_bought: true
+
+  - title: Wolf Children (Les Enfants loups, Ame et Yuki)
+    image_url: https://m.media-amazon.com/images/M/MV5BMTUzNTUzMTA5OF5BMl5BanBnXkFtZTgwOTg0ODc1MTE@._V1_UX1000_.jpg
+    bluray_bought: true
+
+  - title: Kiki's Delivery Service (Kiki la petite sorcière)
+    image_url: https://m.media-amazon.com/images/M/MV5BOTc0ODM1Njk1NF5BMl5BanBnXkFtZTcwMDI5OTEyNw@@._V1_UX1000_.jpg
+    bluray_bought: true
+
+  - title: A Silent Voice
+    image_url: https://m.media-amazon.com/images/M/MV5BZDc2NGZiZDMtYjg3Ni00ZDhkLThlYWEtMzQwMDBlZDQzOWQ2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
+
+  - title: Nausicaä of the Valley of the Wind
+    image_url: https://m.media-amazon.com/images/M/MV5BODJiNmUzYmQtZTNhNS00NjY0LThmYjMtOTliOTM1NTdkYzY1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX1000_.jpg
+
+  - title: Castle in the Sky (Le Château dans le ciel)
+    image_url: https://m.media-amazon.com/images/M/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UX1000_.jpg
+
+  - title: Perfect Blue
+    image_url: https://m.media-amazon.com/images/M/MV5BODNkMDdkYjgtMGMwNy00OGRkLWJjYTUtMjMwMWE1N2E2ZTc0XkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_UX1000_.jpg
 
   - title: Ghost in the Shell
     image_url: https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -55,30 +77,14 @@ list:
 
   - title: Howl's Moving Castle (Le Château ambulant)
     image_url: https://m.media-amazon.com/images/M/MV5BZTRhY2QwM2UtNWRlNy00ZWQwLTg3MjktZThmNjQ3NTdjN2IxXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UX1000_.jpg
+    bluray_bought: true
 
   - title: Whisper of the Heart (Si tu tends l'oreille)
     image_url: https://m.media-amazon.com/images/M/MV5BNmQ3N2U5NGMtNjU0MS00YTQzLWE1ZDctZDU5M2M5NTNjOGRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
 
-  - title: Kiki's Delivery Service (Kiki la petite sorcière)
-    image_url: https://m.media-amazon.com/images/M/MV5BOTc0ODM1Njk1NF5BMl5BanBnXkFtZTcwMDI5OTEyNw@@._V1_UX1000_.jpg
-    bluray_bought: true
-
   - title: Okko et les fantômes
     image_url: https://m.media-amazon.com/images/M/MV5BZDNlYjMyN2YtYWI5OC00MTY0LTgxZWQtZDAwZWFjNzhlOGVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_UX1000_.jpg
     bluray_bought: true
-
-  - title: Wolf Children (Les Enfants loups, Ame et Yuki)
-    image_url: https://m.media-amazon.com/images/M/MV5BMTUzNTUzMTA5OF5BMl5BanBnXkFtZTgwOTg0ODc1MTE@._V1_UX1000_.jpg
-    bluray_bought: true
-
-  - title: A Silent Voice
-    image_url: https://m.media-amazon.com/images/M/MV5BZDc2NGZiZDMtYjg3Ni00ZDhkLThlYWEtMzQwMDBlZDQzOWQ2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
-
-  - title: Nausicaä of the Valley of the Wind
-    image_url: https://m.media-amazon.com/images/M/MV5BODJiNmUzYmQtZTNhNS00NjY0LThmYjMtOTliOTM1NTdkYzY1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX1000_.jpg
-
-  - title: Castle in the Sky (Le Château dans le ciel)
-    image_url: https://m.media-amazon.com/images/M/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UX1000_.jpg
 
   - title: Grave of the Fireflies (Le Tombeau des lucioles)
     image_url: https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
@@ -112,8 +118,14 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTY5NjI2MjQxMl5BMl5BanBnXkFtZTgwMDA2MzM2NzE@._V1_UX1000_.jpg
     bluray_bought: true
 
+  - title: Flavors of Youth
+    image_url: https://m.media-amazon.com/images/M/MV5BYmVkZjU5NWYtNmVhNC00Y2FjLWFiZGUtZGRlMzk3M2YzYmI5XkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_UX1000_.jpg
+
   - title: The Tale of the Princess Kaguya
     image_url: https://m.media-amazon.com/images/M/MV5BMTcwODI0MzEwOF5BMl5BanBnXkFtZTgwNjkyNTEwMTE@._V1_UX1000_.jpg
+
+  - title: BLAME!
+    image_url: https://m.media-amazon.com/images/M/MV5BNTgxNDI1NzgyNl5BMl5BanBnXkFtZTgwMTgzNTIzMjI@._V1_UX1000_.jpg
 
   - title: Mirai (ma petite soeur)
     image_url: https://m.media-amazon.com/images/M/MV5BZjc4NGJiOWUtOWNjOS00M2QzLWFlMmMtMTU3ODMzNWU5ODk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg

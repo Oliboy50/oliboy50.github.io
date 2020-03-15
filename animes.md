@@ -52,6 +52,10 @@ list:
     number_of_seasons: 2
     bluray_bought: true
 
+  - title: Saiki Kusuo no Psi Nan
+    image_url: https://m.media-amazon.com/images/M/MV5BMTlkNzg4NzktNjgxZC00ZjUwLWFjOGYtNmJkMzY4Y2U4NzNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjM1ODczNDE@._V1_UX1000_.jpg
+    number_of_episodes: 56
+
   - title: Mob Psycho 100
     image_url: https://m.media-amazon.com/images/M/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
     number_of_episodes: 25
@@ -187,6 +191,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BN2U2OWQ5YTUtZTRlYS00M2I2LTk3MzEtNTQ0OTNiNGY3ZTc3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 12
 
+  - title: Dr. Stone
+    image_url: https://m.media-amazon.com/images/M/MV5BZTU1ODAyN2UtZjdlOC00ODUwLWE3NjEtYjE3NmViNTAwMzMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 24
+
   - title: Fate/Stay Night
     image_url: https://m.media-amazon.com/images/M/MV5BYTExZmM2ZjktM2E0NS00MjY4LWFkYTktYjc4OWMzMjNmOTgyXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_UX1000_.jpg
     list:
@@ -268,6 +276,10 @@ list:
     number_of_episodes: 366
     number_of_movies: '?'
 
+  - title: Cautious Hero
+    image_url: https://m.media-amazon.com/images/M/MV5BMWI2NTMzZTUtNzAyYS00Y2U4LTliMzItMDU1YzA0N2YzNGI2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
   - title: Code Geass
     image_url: https://m.media-amazon.com/images/M/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     number_of_episodes: 50
@@ -276,7 +288,7 @@ list:
 
   - title: Sword Art Online
     image_url: https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
-    number_of_episodes: 74
+    number_of_episodes: 85
     number_of_seasons: 3
     number_of_movies: 1
     bluray_bought: true
@@ -298,8 +310,8 @@ list:
 
   - title: 'Food Wars: Shokugeki no Soma'
     image_url: https://m.media-amazon.com/images/M/MV5BODJhZDFjMTItZTZjZC00MGM0LWFlM2UtZTE2MTU4YjE0MzMxXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_UX1000_.jpg
-    number_of_episodes: 61
-    number_of_seasons: 3
+    number_of_episodes: 73
+    number_of_seasons: 4
 
   - title: Your Lie In April
     image_url: https://m.media-amazon.com/images/M/MV5BZjE0N2FhZDMtZTM0OS00ZGMyLWFhODItOGVmYzU0Yjg4ZWFlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
@@ -696,6 +708,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTZlMjhhNDEtOGM0OS00MGVjLWJhYTItMzIzYzlkNTg3YzU3XkEyXkFqcGdeQXVyMjQzMjY4MjU@._V1_UX1000_.jpg
     number_of_episodes: 25
 
+  - title: Ultramarine Magmell
+    image_url: https://m.media-amazon.com/images/M/MV5BZjBhZTkwNmEtNDNiNi00N2FmLTg4NDctYWNkYjVkMDUxMWU4XkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_UX1000_.jpg
+    number_of_episodes: 13
+
   - title: Children of the Whales
     image_url: https://m.media-amazon.com/images/M/MV5BMTBjZDE3OGQtNWNhNC00NGRiLWIwOWItZDllMTQwMjRkY2I1XkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UX1000_.jpg
     number_of_episodes: 12
@@ -806,6 +822,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYWM4YThiZGItMzUxNi00ZjllLWI0OWMtMjFhZTQxYjM4NDQ4XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
     number_of_episodes: 12
 
+  - title: Grandblue Fantasy
+    image_url: https://m.media-amazon.com/images/M/MV5BNzRmZTk5MmEtZDA3OC00MzMyLWEwZDYtY2M4NWZkODIwNTM0XkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_UX1000_.jpg
+    number_of_episodes: 24
+
   - title: Tales of Zestiria the X
     image_url: https://m.media-amazon.com/images/M/MV5BN2U0YmY1YTgtMDI0Mi00ODQ1LWI4YzgtNTEwOTk2MmJjYjg3XkEyXkFqcGdeQXVyNTc3MDU1MTU@._V1_UX1000_.jpg
     number_of_episodes: 25
@@ -879,6 +899,10 @@ list:
   - title: Kiba
     image_url: https://m.media-amazon.com/images/M/MV5BMTRhMjI1M2QtOGE2ZC00MjFhLTk2NjQtZTFhOGY0MGQxZjlmXkEyXkFqcGdeQXVyNjYyNzg1NjI@._V1_UX1000_.jpg
     number_of_episodes: 51
+
+  - title: Sword Gai
+    image_url: https://m.media-amazon.com/images/M/MV5BOWQ5Y2JmNGItNzYxYi00OWNiLWI4MjEtZGE5M2Y2YTU4NGJhXkEyXkFqcGdeQXVyMjI0MDI5Mg@@._V1_UX1000_.jpg
+    number_of_episodes: 24
 
   - title: Monster
     image_url: https://www.imdb.com/title/tt0434706/?ref_=fn_tt_tt_3

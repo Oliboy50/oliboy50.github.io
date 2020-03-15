@@ -46,6 +46,12 @@ list:
     total_time: 42
     image_url: https://i.imgur.com/HBdny7z.jpg
 
+  - title: Boeuf aux oignons
+    number: 26
+    is_main_course: true
+    total_time: 40
+    image_url: https://i.imgur.com/Y2nOLop.jpg
+
   - title: Boeuf à la bière
     number: 25
     is_main_course: true
@@ -58,11 +64,23 @@ list:
     total_time: 40
     image_url: https://i.imgur.com/qV6c4Zr.jpg
 
+  - title: Conchiglionis farcis au butternut et à la sauge
+    number: 126
+    is_main_course: true
+    total_time: 60
+    image_url: https://i.imgur.com/0OLRooc.jpg
+
   - title: Lasagnes aux courgettes
     number: 129
     is_starter: true
     total_time: 40
     image_url: https://i.imgur.com/7mBo68A.jpg
+
+  - title: Risotto champignons et graines de courge
+    number: 135
+    is_main_course: true
+    total_time: 40
+    image_url: https://i.imgur.com/C8xCxfk.jpg
 
   - title: Clafoutis aux tomates cerises
     number: 118
@@ -70,11 +88,23 @@ list:
     total_time: 45
     image_url: https://i.imgur.com/yaIPaUd.jpg
 
+  - title: Galette des rois
+    number: 187
+    is_dessert: true
+    total_time: 45
+    image_url: https://i.imgur.com/gRa7dk4.jpg
+
   - title: Bo bun
     number: 97
     is_main_course: true
     total_time: 20
     image_url: https://i.imgur.com/Kps1wKg.jpg
+
+  - title: Moussaka grecque
+    number: 32
+    is_main_course: true
+    total_time: 60
+    image_url: https://i.imgur.com/t2WLIgX.jpg
 
   - title: Poulet croustillant aux flocons de maïs
     number: 57
@@ -112,6 +142,12 @@ list:
     total_time: 55
     image_url: https://i.imgur.com/VFwfW4i.jpg
 
+  - title: Légumes farcis à la ricotta
+    number: 148
+    is_main_course: true
+    total_time: 45
+    image_url: https://i.imgur.com/sn1yDNd.jpg
+
   - title: Gratin de butternut au sarrasin et à la mozzarella
     number: 116
     is_main_course: true
@@ -130,6 +166,12 @@ list:
     total_time: 35
     image_url: https://i.imgur.com/lk5Oa73.jpg
 
+  - title: Linguine aux boulettes
+    number: 29
+    is_main_course: true
+    total_time: 30
+    image_url: https://i.imgur.com/kXPFO8X.jpg
+
   - title: One pot pasta (trofie, petits pois et lardons)
     number: 54
     is_main_course: true
@@ -142,11 +184,11 @@ list:
     total_time: 50
     image_url: https://i.imgur.com/IHMODSY.jpg
 
-  - title: Légumes farcis à la ricotta
-    number: 148
+  - title: Poêlée de gnocchis printanière
+    number: 127
     is_main_course: true
-    total_time: 45
-    image_url: https://i.imgur.com/sn1yDNd.jpg
+    total_time: 60
+    image_url: https://i.imgur.com/acdX9h9.jpg
 
   - title: Légumes rôtis aux olives et aux citrons confits
     number: 145
@@ -159,6 +201,12 @@ list:
     is_main_course: true
     total_time: 45
     image_url: https://i.imgur.com/ETPPMqe.jpg
+
+  - title: Velouté de courgettes au curry et au fromage frais
+    number: 16
+    is_starter: true
+    total_time: 35
+    image_url: https://i.imgur.com/LL5nAp1.jpg
 
   - title: Tarte soleil pesto, mozzarella et courgette
     number: 2
@@ -175,8 +223,14 @@ list:
   - title: Gratin de poireaux à l'emmental
     number: 114
     is_main_course: true
-    total_time: 57
+    total_time: 60
     image_url: https://i.imgur.com/ICvOcv6.jpg
+
+  - title: Carrés au citron
+    number: 167
+    is_dessert: true
+    total_time: 60
+    image_url: https://i.imgur.com/OkNmYO0.jpg
 
   - title: Cake au poivron, brie et basilic
     number: 119
@@ -184,17 +238,41 @@ list:
     total_time: 60
     image_url: https://i.imgur.com/2gxbkkE.jpg
 
+  - title: Coleslow multicolore (mayonnaise au miel)
+    number: 9
+    is_starter: true
+    total_time: 30
+    image_url: https://i.imgur.com/1zvxNtK.jpg
+
   - title: Mignonnettes de porc et poires (sauce au bleu)
     number: 42
     is_main_course: true
     total_time: 40
     image_url: https://i.imgur.com/05pk3Nvl.jpg
 
+  - title: Salade de lentilles
+    number: 141
+    is_main_course: true
+    total_time: 40
+    image_url: https://i.imgur.com/snLN0W4.jpg
+
   - title: Steak végétal
     number: 155
     is_main_course: true
     total_time: 30
     image_url: https://i.imgur.com/g05GmXV.jpg
+
+  - title: Omelette aux champignons de paris
+    number: 158
+    is_main_course: true
+    total_time: 30
+    image_url: https://i.imgur.com/gOt6gIW.jpg
+
+  - title: Carotte au cumin et au curcuma
+    number: 149
+    is_main_course: true
+    total_time: 45
+    image_url: https://i.imgur.com/H3dLN4h.jpg
 
   - title: Curry de légumes à l'indienne
     number: 142
