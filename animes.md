@@ -36,15 +36,20 @@ list:
         number_of_oavs: 4
         bluray_bought: true
 
+  - title: Overlord
+    image_url: https://m.media-amazon.com/images/M/MV5BOTFlY2NkOWItNTI3Yy00NDA5LTkzOTQtZGVmNDJlMzM4OGJlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
+    number_of_episodes: 39
+
+  - title: Attack on Titan
+    image_url: https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_UX1000_.jpg
+    number_of_episodes: 59
+    number_of_oavs: 3
+
   - title: One Punch Man
     image_url: https://m.media-amazon.com/images/M/MV5BMzQxMzE5NzM2NV5BMl5BanBnXkFtZTgwMDQ4NTUyNzE@._V1_UX1000_.jpg
     number_of_episodes: 24
     number_of_oavs: 6
     bluray_bought: true
-
-  - title: Overlord
-    image_url: https://m.media-amazon.com/images/M/MV5BOTFlY2NkOWItNTI3Yy00NDA5LTkzOTQtZGVmNDJlMzM4OGJlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
-    number_of_episodes: 39
 
   - title: Ajin
     image_url: https://m.media-amazon.com/images/M/MV5BMTc5MTE1ZWItMjRlOC00OGI0LTkyNGMtZjYyMzJkN2E5ZTMzXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_UX1000_.jpg
@@ -56,16 +61,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTlkNzg4NzktNjgxZC00ZjUwLWFjOGYtNmJkMzY4Y2U4NzNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjM1ODczNDE@._V1_UX1000_.jpg
     number_of_episodes: 56
 
-  - title: Mob Psycho 100
-    image_url: https://m.media-amazon.com/images/M/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
-    number_of_episodes: 25
-    number_of_seasons: 2
-
-  - title: Attack on Titan
-    image_url: https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_UX1000_.jpg
-    number_of_episodes: 59
-    number_of_oavs: 3
-
   - title: GTO
     image_url: https://m.media-amazon.com/images/M/MV5BMjA4NTUzMTg2OV5BMl5BanBnXkFtZTcwMDgyMDMyMQ@@._V1_UX1000_.jpg
     number_of_episodes: 43
@@ -76,10 +71,6 @@ list:
     number_of_seasons: 2
     number_of_oavs: 5
 
-  - title: 'Re: Zero'
-    image_url: https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
-    number_of_episodes: 25
-
   - title: Tokyo Ghoul
     image_url: https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 48
@@ -87,13 +78,18 @@ list:
     number_of_oavs: 1
     bluray_bought: true
 
+  - title: Mob Psycho 100
+    image_url: https://m.media-amazon.com/images/M/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
+    number_of_episodes: 25
+    number_of_seasons: 2
+
+  - title: 'Re: Zero'
+    image_url: https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
+    number_of_episodes: 25
+
   - title: Made in Abyss
     image_url: https://m.media-amazon.com/images/M/MV5BODNhNTYyODgtOWU5NS00Y2M4LTg5YzAtNzZlMTFiYjE0NTIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 13
-
-  - title: Beelzebub
-    image_url: https://m.media-amazon.com/images/M/MV5BNDE3NGU0ZTQtZTAxYy00Y2NjLWJhMWYtYjE4M2NmZGE2NTNiXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_UX1000_.jpg
-    number_of_episodes: 60
     bluray_bought: true
 
   - title: One Piece
@@ -101,6 +97,11 @@ list:
     currently_airing: true
     number_of_movies: '?'
     number_of_oavs: '?'
+
+  - title: Beelzebub
+    image_url: https://m.media-amazon.com/images/M/MV5BNDE3NGU0ZTQtZTAxYy00Y2NjLWJhMWYtYjE4M2NmZGE2NTNiXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_UX1000_.jpg
+    number_of_episodes: 60
+    bluray_bought: true
 
   - title: Durarara!!
     image_url: https://m.media-amazon.com/images/M/MV5BOTAwNmViMTQtOTgzYy00NzM4LWE0MzYtYjIwOWQ0N2U5M2MxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -120,12 +121,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMmJhODNhZjgtMzk1Ny00MjYwLTlkMWYtZTkzMDJiOTEwNzM0XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
     number_of_episodes: 11
 
-  - title: The Melancholy of Haruhi Suzumiya
-    image_url: https://m.media-amazon.com/images/M/MV5BNWMxMGUzOTktYjliYS00MGMyLWJlNWYtYzljMzZhNDRmODIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 24
-    number_of_seasons: 2
-    number_of_movies: 1
-
   - title: Dragon Ball Z
     image_url: https://m.media-amazon.com/images/M/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     list:
@@ -138,31 +133,6 @@ list:
         number_of_episodes: 291
         number_of_movies: '?'
         number_of_oavs: '?'
-
-  - title: Nanatsu no Taizai
-    image_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTY3NjAxMF5BMl5BanBnXkFtZTgwMzE4NDAzNzE@._V1_UX1000_.jpg
-    number_of_episodes: 48
-    number_of_oavs: 6
-    number_of_movies: 1
-    bluray_bought: true
-
-  - title: Demon Slayer (Kimetsu no Yaiba)
-    image_url: https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX1000_.jpg
-    number_of_episodes: 26
-
-  - title: Akame ga Kill!
-    image_url: https://m.media-amazon.com/images/M/MV5BZjU2ZDZkYmMtYTA3Yi00NTZkLTgzYjgtOTRhMTFiOWFkODZmXkEyXkFqcGdeQXVyNjkyODc3NjQ@._V1_UX1000_.jpg
-    number_of_episodes: 24
-    bluray_bought: true
-
-  - title: Boku no Hero Academia
-    image_url: https://m.media-amazon.com/images/M/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-    number_of_episodes: 63
-    number_of_oavs: 1
-
-  - title: Soul Eater
-    image_url: https://m.media-amazon.com/images/M/MV5BNTdiNTJmMzktZmE2MC00OWUxLWE1MjktMTdhN2Q1OWNlODY1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-    number_of_episodes: 51
 
   - title: Jojo's Bizarre Adventure
     image_url: https://m.media-amazon.com/images/M/MV5BZDc3NGQ3ZWQtYjNkOC00MjhiLTg2N2YtNmZlOGNiZTFkOWNhXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
@@ -178,6 +148,29 @@ list:
       - title: Golden Wind
         number_of_episodes: 39
 
+  - title: Nanatsu no Taizai
+    image_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTY3NjAxMF5BMl5BanBnXkFtZTgwMzE4NDAzNzE@._V1_UX1000_.jpg
+    number_of_episodes: 72
+    number_of_oavs: 6
+    number_of_movies: 1
+    bluray_bought: true
+
+  - title: The Melancholy of Haruhi Suzumiya
+    image_url: https://m.media-amazon.com/images/M/MV5BNWMxMGUzOTktYjliYS00MGMyLWJlNWYtYzljMzZhNDRmODIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 24
+    number_of_seasons: 2
+    number_of_movies: 1
+
+  - title: Boku no Hero Academia
+    image_url: https://m.media-amazon.com/images/M/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+    number_of_episodes: 88
+    number_of_seasons: 4
+    number_of_oavs: 1
+
+  - title: Soul Eater
+    image_url: https://m.media-amazon.com/images/M/MV5BNTdiNTJmMzktZmE2MC00OWUxLWE1MjktMTdhN2Q1OWNlODY1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+    number_of_episodes: 51
+
   - title: Deadman Wonderland
     image_url: https://m.media-amazon.com/images/M/MV5BNWExOTUxYjQtYmNhOS00OGViLWI3N2ItMzBhMWY5NGJkYjlmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
     number_of_episodes: 12
@@ -186,6 +179,15 @@ list:
   - title: Goblin Slayer
     image_url: https://m.media-amazon.com/images/M/MV5BN2U2OWQ5YTUtZTRlYS00M2I2LTk3MzEtNTQ0OTNiNGY3ZTc3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 12
+
+  - title: Demon Slayer (Kimetsu no Yaiba)
+    image_url: https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX1000_.jpg
+    number_of_episodes: 26
+
+  - title: Akame ga Kill!
+    image_url: https://m.media-amazon.com/images/M/MV5BZjU2ZDZkYmMtYTA3Yi00NTZkLTgzYjgtOTRhMTFiOWFkODZmXkEyXkFqcGdeQXVyNjkyODc3NjQ@._V1_UX1000_.jpg
+    number_of_episodes: 24
+    bluray_bought: true
 
   - title: Dr. Stone
     image_url: https://m.media-amazon.com/images/M/MV5BZTU1ODAyN2UtZjdlOC00ODUwLWE3NjEtYjE3NmViNTAwMzMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -477,6 +479,7 @@ list:
     number_of_episodes: 47
     number_of_seasons: 2
     number_of_oavs: 1
+    bluray_bought: true
 
   - title: Toradora!
     image_url: https://m.media-amazon.com/images/M/MV5BNWEwMjE2MjQtZTQ3NC00OTUxLWEwMWUtMThjZjg4Zjc5ZDYwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -670,6 +673,10 @@ list:
     number_of_episodes: 22
     number_of_oavs: 1
 
+  - title: Tales of Agriculture (Moyashimon)
+    image_url: https://m.media-amazon.com/images/M/MV5BYTdiYzM0YWQtNWMxZi00NGFiLWE4OTEtN2Y3MjY2YjNiMzM5XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX1000_.jpg
+    number_of_episodes: 11
+
   - title: Dragon Ball
     image_url: https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     number_of_episodes: 153
@@ -696,15 +703,15 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTEwNjU4ZWUtZDhlMy00ZTVkLWE5NzUtZTg5YjkxYWI3MGUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UX1000_.jpg
     number_of_episodes: 161
 
+  - title: "Darwin's Game"
+    image_url: https://m.media-amazon.com/images/M/MV5BNzdhOGUwNjEtNTQyMi00MjkxLThkNDMtYjZiZmVkYWI2NDllXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 11
+
   - title: Akuma no Riddle
     image_url: https://m.media-amazon.com/images/M/MV5BZjgxZjBkMjUtN2NkZi00ZThhLTk0NjItNmRlYzcwYzc5YThhXkEyXkFqcGdeQXVyNjI1NjMyMTM@._V1_UX1000_.jpg
     number_of_episodes: 12
 
-  - title: Tales of Agriculture (Moyashimon)
-    image_url: https://m.media-amazon.com/images/M/MV5BYTdiYzM0YWQtNWMxZi00NGFiLWE4OTEtN2Y3MjY2YjNiMzM5XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX1000_.jpg
-    number_of_episodes: 11
-
-  - title: King's Game
+  - title: "King's Game"
     image_url: https://m.media-amazon.com/images/M/MV5BYzdmZTFjYTMtOGI0My00MzJhLWJlZDUtZWRhNGYwYzRmNzI3XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_UX1000_.jpg
     number_of_episodes: 12
 
@@ -736,10 +743,6 @@ list:
   - title: Drifters
     image_url: https://m.media-amazon.com/images/M/MV5BYmQ2YmU0YzEtYWE5OS00MjU4LThmZDQtZGNhNTE5Y2MwODg1XkEyXkFqcGdeQXVyMTUwMjI0MTI@._V1_UX1000_.jpg
     number_of_episodes: 12
-
-  - title: Ultramarine Magmell
-    image_url: https://m.media-amazon.com/images/M/MV5BZjBhZTkwNmEtNDNiNi00N2FmLTg4NDctYWNkYjVkMDUxMWU4XkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_UX1000_.jpg
-    number_of_episodes: 13
 
   - title: Children of the Whales
     image_url: https://m.media-amazon.com/images/M/MV5BMTBjZDE3OGQtNWNhNC00NGRiLWIwOWItZDllMTQwMjRkY2I1XkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UX1000_.jpg
@@ -795,6 +798,18 @@ list:
         number_of_episodes: 25
       - title: BTX Neo
         number_of_episodes: 14
+
+  - title: Ultramarine Magmell
+    image_url: https://m.media-amazon.com/images/M/MV5BZjBhZTkwNmEtNDNiNi00N2FmLTg4NDctYWNkYjVkMDUxMWU4XkEyXkFqcGdeQXVyMzI2Mjc1NjQ@._V1_UX1000_.jpg
+    number_of_episodes: 13
+
+  - title: "In/Spectre"
+    image_url: https://m.media-amazon.com/images/M/MV5BMGMwNGI4ZmYtZTUxMS00MTdiLThiMDktMWM4ZjE3OWIxYjEwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
+  - title: Sirius the Jaeger
+    image_url: https://m.media-amazon.com/images/M/MV5BZjg3NmNjYTUtNGQ4Ny00MTA3LWJmOTctY2MzNzE2NTdhYzYwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
+    number_of_episodes: 12
 
   - title: Pandora Hearts
     image_url: https://m.media-amazon.com/images/M/MV5BMzNmYzNkZjAtNGIyMS00NWVmLTljMGYtZTkxNjk5MWM3NDk5XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_UX1000_.jpg
@@ -1145,6 +1160,10 @@ list:
   - title: Yatterman Night
     image_url: https://m.media-amazon.com/images/M/MV5BMjIxODg0MDI5NF5BMl5BanBnXkFtZTgwMjcxODE1NDE@._V1_UX1000_.jpg
     number_of_episodes: 12
+
+  - title: Devilman Crybaby
+    image_url: https://m.media-amazon.com/images/M/MV5BZjYxMGRlZDAtYTU5Ny00NzhmLTgzYzgtNjNjNTZiZDQ5ZjU0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
+    number_of_episodes: 10
 
   - title: Tsubasa Reservoir Chronicle
     image_url: https://m.media-amazon.com/images/M/MV5BMTI5NDcwMjA3NF5BMl5BanBnXkFtZTcwMzUxMTI1MQ@@._V1_UX1000_.jpg
