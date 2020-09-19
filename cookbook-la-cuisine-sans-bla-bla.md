@@ -8,7 +8,7 @@ list:
     number: 152
     is_main_course: true
     total_time: 40
-    image_url: https://i.imgur.com/Nr4wcKO.jpg?1
+    image_url: https://i.imgur.com/Nr4wcKO.jpg
 
   - title: Sauté de porc au gingembre
     number: 44
