@@ -83,9 +83,15 @@ list:
     number_of_episodes: 25
     number_of_seasons: 2
 
-  - title: 'Re: Zero'
+  - title: 'Re:ZERO - Starting Life in Another World'
     image_url: https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
-    number_of_episodes: 25
+    list:
+      - title: 'Re:ZERO (2016)'
+        number_of_episodes: 25
+        number_of_movies: 1
+      - title: 'Re:ZERO Re-Edit (2020)'
+        number_of_episodes: 13
+        number_of_oavs: 2
 
   - title: Made in Abyss
     image_url: https://m.media-amazon.com/images/M/MV5BODNhNTYyODgtOWU5NS00Y2M4LTg5YzAtNzZlMTFiYjE0NTIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -373,6 +379,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZDJjZTVhYzktYjgyNS00NTM1LWJlMTAtMTcxZmUyOWIzYWE5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_UX1000_.jpg
     number_of_episodes: 12
 
+  - title: Dorohedoro
+    image_url: https://m.media-amazon.com/images/M/MV5BYzgxOTkxYWYtODEzMS00ODhiLWIxMTYtMDQwNmIyNmIwNTJiXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_UX1000_.jpg
+    number_of_episodes: 12
+
   - title: Kokkoku
     image_url: https://m.media-amazon.com/images/M/MV5BNDU1ZGRjYjYtYzJjYi00MWU2LWJjYzktZDM0NDgxMjI2MGZjXkEyXkFqcGdeQXVyMzMyNjUwMzY@._V1_UX1000_.jpg
     number_of_episodes: 12
@@ -415,6 +425,11 @@ list:
   - title: D.Gray-man
     image_url: https://m.media-amazon.com/images/M/MV5BOTI2ZGM0ZTUtM2IyZS00NmM4LTliNzEtNDA3MGJlMDlmYmYzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
     number_of_episodes: 116
+    number_of_seasons: 2
+
+  - title: Baki
+    image_url: https://m.media-amazon.com/images/M/MV5BMmQxZmRmNmUtZWUxNi00NzhiLWEwNzEtZTUyZWRhOWY5Yjg2XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_UX1000_.jpg
+    number_of_episodes: 39
     number_of_seasons: 2
 
   - title: World Trigger
@@ -576,6 +591,11 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZjBiM2E0NTItNjQwZS00Y2JlLWJjNjktNTM4Zjg1YWE2MDNhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX1000_.jpg
     number_of_episodes: 26
 
+  - title: Plunderer
+    image_url: https://m.media-amazon.com/images/M/MV5BMjg5NGViYzYtZmViMC00N2I1LWI3YjctYjE3YWU1NDU5ZjFmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 24
+    number_of_seasons: 2
+
   - title: Castlevania
     image_url: https://m.media-amazon.com/images/M/MV5BNTZhNGMzNzctMzhiYS00MmJiLWJmYWItMzhiYTk4Zjg0ZWIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_SY1000_CR0,0,666,1000_AL_.jpg
     number_of_episodes: 8
@@ -736,9 +756,17 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYTc3NjJhYWYtMWQ5Mi00NDNkLWJiY2ItMjMxNzA3NjQwZTUwXkEyXkFqcGdeQXVyMzUwNzgzNzg@._V1_UX1000_.jpg
     number_of_episodes: 12
 
+  - title: '7 Seeds'
+    image_url: https://m.media-amazon.com/images/M/MV5BODNhNGI1MGUtNTRlMy00ZGI2LWI2NTYtMjE1Nzc1ZDk5MjM1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
+    number_of_episodes: 24
+
   - title: From the New World
     image_url: https://m.media-amazon.com/images/M/MV5BMTZlMjhhNDEtOGM0OS00MGVjLWJhYTItMzIzYzlkNTg3YzU3XkEyXkFqcGdeQXVyMjQzMjY4MjU@._V1_UX1000_.jpg
     number_of_episodes: 25
+
+  - title: Beastars
+    image_url: https://m.media-amazon.com/images/M/MV5BMGZmMjIxYjYtYWE5YS00OWYyLWE5YzUtOTI3YTkxNmQyZDkzXkEyXkFqcGdeQXVyNTY0NDkzNDc@._V1_UX1000_.jpg
+    number_of_episodes: 12
 
   - title: Drifters
     image_url: https://m.media-amazon.com/images/M/MV5BYmQ2YmU0YzEtYWE5OS00MjU4LThmZDQtZGNhNTE5Y2MwODg1XkEyXkFqcGdeQXVyMTUwMjI0MTI@._V1_UX1000_.jpg
@@ -956,13 +984,9 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZjNjNjUyMDctZDJjMy00MTg4LTg0NWYtY2Y0NThiZDA4NzQyXkEyXkFqcGdeQXVyNjMxNzQ2NTQ@._V1_UX1000_.jpg
     number_of_episodes: 12
 
-  - title: Bloodivores
-    image_url: https://m.media-amazon.com/images/M/MV5BMzUzMDFlOTYtM2EwYy00ZjhhLWEzNTktOGZmOTU0YTUzNTA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjMxNTk5NTE@._V1_UX1000_.jpg
+  - title: Cannon Busters
+    image_url: https://m.media-amazon.com/images/M/MV5BMGJhMWQ5NzItYjVkYy00ZmYxLWJkOWItNTE3MDY1NDNlODk2XkEyXkFqcGdeQXVyMTY4OTY5OTk@._V1_UX1000_.jpg
     number_of_episodes: 12
-
-  - title: '[C]'
-    image_url: https://m.media-amazon.com/images/M/MV5BOTM5Njc5ZTYtYzk1OS00ZmIxLTlkOTAtZmE3MjBiNjQ4MWQyXkEyXkFqcGdeQXVyNjIyNDgwMzM@._V1_UX1000_.jpg
-    number_of_episodes: 11
 
   - title: '.hack//Roots'
     image_url: https://m.media-amazon.com/images/M/MV5BMTI0ODU2NzYzMF5BMl5BanBnXkFtZTcwNDU2Mzc0MQ@@._V1_UX1000_.jpg
@@ -1112,6 +1136,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTI3MzYwOTMyMl5BMl5BanBnXkFtZTcwODc2MzcyMQ@@._V1_UX1000_.jpg
     number_of_episodes: 30
 
+  - title: Norn9
+    image_url: https://m.media-amazon.com/images/M/MV5BNWUwMDBmNjgtOGJkZC00NjdiLWJlZmUtMTMyNTJiZTgwOWZjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
   - title: Shakugan no Shana
     image_url: https://m.media-amazon.com/images/M/MV5BMzM2Mjk2MTItM2Y0OC00OGJmLTkxZGMtNjI2NTBmOGIzYzRlXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_UX1000_.jpg
     number_of_episodes: 72
@@ -1129,9 +1157,13 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNzFmYThjNTAtNjk1OC00Njg4LThhZDMtYjhhNGU2MTJkMTA5XkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_UX1000_.jpg
     number_of_episodes: 13
 
-  - title: Norn9
-    image_url: https://m.media-amazon.com/images/M/MV5BNWUwMDBmNjgtOGJkZC00NjdiLWJlZmUtMTMyNTJiZTgwOWZjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
+  - title: Bloodivores
+    image_url: https://m.media-amazon.com/images/M/MV5BMzUzMDFlOTYtM2EwYy00ZjhhLWEzNTktOGZmOTU0YTUzNTA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjMxNTk5NTE@._V1_UX1000_.jpg
     number_of_episodes: 12
+
+  - title: '[C]'
+    image_url: https://m.media-amazon.com/images/M/MV5BOTM5Njc5ZTYtYzk1OS00ZmIxLTlkOTAtZmE3MjBiNjQ4MWQyXkEyXkFqcGdeQXVyNjIyNDgwMzM@._V1_UX1000_.jpg
+    number_of_episodes: 11
 
   - title: 'Shigurui: Death Frenzy'
     image_url: https://m.media-amazon.com/images/M/MV5BMzQ3NDA1NzQ1NV5BMl5BanBnXkFtZTcwNTc2OTIzMg@@._V1_UX1000_.jpg
@@ -1293,10 +1325,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTM4ODQ3MTM5MV5BMl5BanBnXkFtZTYwNTQ3NzI5._V1_UX1000_.jpg
     number_of_movies: 1
 
-  - title: Cromartie High School
-    image_url: https://m.media-amazon.com/images/M/MV5BYmUxNDY1N2ItMjlmYS00NTNlLWJmYmMtMmIxNmUyMzI3MmFmXkEyXkFqcGdeQXVyNjUwMTQ4NjE@._V1_UX1000_.jpg
-    number_of_episodes: 26
-
   - title: Laughing Under the Clouds
     image_url: https://m.media-amazon.com/images/M/MV5BM2JjZjQ2ZjktZmM3NC00NWExLWJmMDQtM2U4MmZhZGRiNTVkXkEyXkFqcGdeQXVyNjQ4OTExMzc@._V1_UX1000_.jpg
     number_of_episodes: 12
@@ -1325,17 +1353,25 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYWIzZGQ2ZDktYTIxYi00YjBkLWEwYTgtNGYxYzk3YjFlYjZhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 12
 
-  - title: Kurokami
-    image_url: https://m.media-amazon.com/images/M/MV5BMjEyMDA3NzAtZDBiYS00ZDNlLThhNTItYzFhNzAyZTJiNmE2XkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_UX1000_.jpg
-    number_of_episodes: 24
-
   - title: Zetman
     image_url: https://m.media-amazon.com/images/M/MV5BOWM5YmUzZDMtY2NjNi00ZWJhLWFkMmUtZDc4YzY2ZTE0ODUwXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_UX1000_.jpg
     number_of_episodes: 13
 
+  - title: Cromartie High School
+    image_url: https://m.media-amazon.com/images/M/MV5BYmUxNDY1N2ItMjlmYS00NTNlLWJmYmMtMmIxNmUyMzI3MmFmXkEyXkFqcGdeQXVyNjUwMTQ4NjE@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
+  - title: Pop Team Epic
+    image_url: https://m.media-amazon.com/images/M/MV5BNzllNjZlNTAtYWM3Ny00NjZjLTkwYmMtMjU3YTExMTA3MzI1XkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_UX1000_.jpg
+    number_of_episodes: 2
+
   - title: 'Rainbow: Nishakubou no shichinin'
     image_url: https://m.media-amazon.com/images/M/MV5BMmI0ODEzMWItMThiMS00YzIyLTg5YjAtNTljNjUxMGU4NzBhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-    number_of_episodes: 26
+    number_of_episodes: 7
+
+  - title: Kurokami
+    image_url: https://m.media-amazon.com/images/M/MV5BMjEyMDA3NzAtZDBiYS00ZDNlLThhNTItYzFhNzAyZTJiNmE2XkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_UX1000_.jpg
+    number_of_episodes: 14
 
 ---
 

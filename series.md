@@ -6,11 +6,11 @@ permalink: /series
 list:
   - title: Rick and Morty
     image_url: https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX1000_.jpg
-    number_of_seasons: 3
+    number_of_seasons: 4
 
   - title: South Park
     image_url: https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
-    number_of_seasons: 21
+    number_of_seasons: 22
 
   - title: Breaking Bad
     image_url: https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX1000_.jpg
