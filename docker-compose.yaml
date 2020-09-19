@@ -2,11 +2,8 @@ version: "3"
 
 services:
   site:
-    image: jekyll/jekyll:latest # :pages can't build...
-    command: jekyll serve --watch --force_polling --livereload
+    image: starefossen/github-pages
     volumes:
-      - .:/srv/jekyll
-      - /usr/local/bundle
+      - .:/usr/src/app
     ports:
       - 4000:4000
-      - 35729:35729
