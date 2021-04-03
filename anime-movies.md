@@ -32,7 +32,7 @@ list:
     bluray_bought: true
 
   - title: Wolf Children (Les Enfants loups, Ame et Yuki)
-    image_url: https://m.media-amazon.com/images/M/MV5BMTUzNTUzMTA5OF5BMl5BanBnXkFtZTgwOTg0ODc1MTE@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BYzQxNDZhNDUtNDUwOC00NjQyLTg2OWUtZWVlYThjYjYyMTc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
     bluray_bought: true
 
   - title: Patema Inverted (Patéma et le monde inversé)
@@ -90,7 +90,7 @@ list:
     bluray_bought: true
 
   - title: Dragon Quest - Your Story
-    image_url: https://m.media-amazon.com/images/M/MV5BNDg2N2E3ZmEtZDdlNS00MmZiLTkzMTEtOTczYWZlMTg5MDJlXkEyXkFqcGdeQXVyMTAyNzc0MDkz._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BM2Q5YTI0NTQtOGFlOC00MTEzLTg2NDYtM2VhNDk1ZTllNTNiXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_UX1000_.jpg
 
   - title: Ni no Kuni
     image_url: https://m.media-amazon.com/images/M/MV5BNDM3Y2YzZWUtMGQ2Yy00NDQ0LThmMjEtMWE3Mjc4YzcwODZhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX1000_.jpg
@@ -101,6 +101,9 @@ list:
 
   - title: The Boy and the Beast (Le Garçon et la Bête)
     image_url: https://m.media-amazon.com/images/M/MV5BZGUxZGMzYTYtNjJlMS00OGQ5LTg5YjItN2JjM2Y2NjQzMzdkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+
+  - title: Mary et la fleur de la sorcière
+    image_url: https://m.media-amazon.com/images/M/MV5BNDVkYmFiNmQtMjc3Ni00YTY5LTk0NTAtZDc4YjZiZjU2YjNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX1000_.jpg
 
   - title: Ponyo (sur la falaise)
     image_url: https://m.media-amazon.com/images/M/MV5BMjA5NzkxNTg2MF5BMl5BanBnXkFtZTcwMTA3MjU1Mg@@._V1_UX1000_.jpg

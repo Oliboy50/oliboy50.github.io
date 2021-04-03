@@ -10,7 +10,7 @@ list:
 
   - title: South Park
     image_url: https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
-    number_of_seasons: 22
+    number_of_seasons: 23
 
   - title: Breaking Bad
     image_url: https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX1000_.jpg
@@ -71,6 +71,10 @@ list:
   - title: My Wife and Kids (Ma famille d'abord)
     image_url: https://m.media-amazon.com/images/M/MV5BNjE0YjkzNDAtMDQ1MC00MmQ5LTgxNDktNmQ0ODU2MGY0Njk1XkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_UX1000_.jpg
     number_of_seasons: 5
+
+  - title: Snowpiercer
+    image_url: https://m.media-amazon.com/images/M/MV5BYTY1MDhjOWQtYWFkNS00ODA1LTg1YTUtZDhmZDE0MDJlMzIwXkEyXkFqcGdeQXVyMTI4MDc0NjU2._V1_UX1000_.jpg
+    number_of_seasons: 2
 
   - title: Sense8
     image_url: https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_UX1000_.jpg

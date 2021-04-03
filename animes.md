@@ -42,11 +42,12 @@ list:
 
   - title: Attack on Titan
     image_url: https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_UX1000_.jpg
-    number_of_episodes: 59
+    number_of_episodes: 75
+    number_of_seasons: 4
     number_of_oavs: 3
 
   - title: One Punch Man
-    image_url: https://m.media-amazon.com/images/M/MV5BMzQxMzE5NzM2NV5BMl5BanBnXkFtZTgwMDQ4NTUyNzE@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UX1000_.jpg
     number_of_episodes: 24
     number_of_oavs: 6
     bluray_bought: true
@@ -86,12 +87,14 @@ list:
   - title: 'Re:ZERO - Starting Life in Another World'
     image_url: https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
     list:
-      - title: 'Re:ZERO (2016)'
+      - title: 'Re:ZERO season 1 (2016)'
         number_of_episodes: 25
         number_of_movies: 1
-      - title: 'Re:ZERO Re-Edit (2020)'
+      - title: 'Re:ZERO season 1 Re-Edit (2020)'
         number_of_episodes: 13
         number_of_oavs: 2
+      - title: 'Re:ZERO season 2'
+        number_of_episodes: 25
 
   - title: Made in Abyss
     image_url: https://m.media-amazon.com/images/M/MV5BODNhNTYyODgtOWU5NS00Y2M4LTg5YzAtNzZlMTFiYjE0NTIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -351,9 +354,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYWViYWUwOGQtMzcxYi00ZmVhLWEyZGEtODhlOTQ1MTVmZTNmXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX1000_.jpg
     number_of_episodes: 77
 
-  - title: Yakusoku no Neverland
+  - title: Yakusoku no Neverland (The Promised Neverland)
     image_url: https://m.media-amazon.com/images/M/MV5BMTYwYjYyZDgtMTQ3My00YTI4LThmZTUtZmU1MjllOWRlOTdhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 12
+    number_of_episodes: 23
+    number_of_seasons: 2
 
   - title: Bakuman
     image_url: https://m.media-amazon.com/images/M/MV5BZDVjZGZlOTAtYjgwYS00NDU0LWJiODEtNmI5Y2YyNWRlN2Q0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -1309,10 +1313,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTM3NzUxZjctYzEzZC00OTY1LWI1NmYtOTY4NzkxNmJlNmRjXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_UX1000_.jpg
     number_of_episodes: 25
 
-  - title: Coppelion
-    image_url: https://m.media-amazon.com/images/M/MV5BNjMxOTE0NjAtNzI2Zi00YWI2LThhODItMGQ2MjU1OGRiMThhXkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_UX1000_.jpg
-    number_of_episodes: 13
-
   - title: Berserk
     image_url: https://m.media-amazon.com/images/M/MV5BYWE1YTU4NmYtMTY2Ni00NDIxLTgwMzYtNWJjYWE4MDE5OTE1XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
     number_of_episodes: 25
@@ -1341,10 +1341,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BOWJlYTA1YjItYjgxMy00ODhmLTkzZDItNzc4MWJmZDEwZTkyXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_UX1000_.jpg
     number_of_episodes: 26
 
-  - title: Zettai Karen Children
-    image_url: https://m.media-amazon.com/images/M/MV5BYjgyMTlmY2QtYzhmOS00MWZlLThlZmEtZmU5NjdjYWY2NmIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1Njc4MTE@._V1_UX1000_.jpg
-    number_of_episodes: 51
-
   - title: Trinity Seven
     image_url: https://m.media-amazon.com/images/M/MV5BYWQzNDc0NTktOWU2OC00MGMwLTgwYWQtMTc5OTU3NDhmOWYzL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 12
@@ -1357,9 +1353,17 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BOWM5YmUzZDMtY2NjNi00ZWJhLWFkMmUtZDc4YzY2ZTE0ODUwXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_UX1000_.jpg
     number_of_episodes: 13
 
+  - title: Coppelion
+    image_url: https://m.media-amazon.com/images/M/MV5BNjMxOTE0NjAtNzI2Zi00YWI2LThhODItMGQ2MjU1OGRiMThhXkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_UX1000_.jpg
+    number_of_episodes: 6
+
+  - title: Zettai Karen Children
+    image_url: https://m.media-amazon.com/images/M/MV5BYjgyMTlmY2QtYzhmOS00MWZlLThlZmEtZmU5NjdjYWY2NmIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1Njc4MTE@._V1_UX1000_.jpg
+    number_of_episodes: 8
+
   - title: Cromartie High School
     image_url: https://m.media-amazon.com/images/M/MV5BYmUxNDY1N2ItMjlmYS00NTNlLWJmYmMtMmIxNmUyMzI3MmFmXkEyXkFqcGdeQXVyNjUwMTQ4NjE@._V1_UX1000_.jpg
-    number_of_episodes: 12
+    number_of_episodes: 6
 
   - title: Pop Team Epic
     image_url: https://m.media-amazon.com/images/M/MV5BNzllNjZlNTAtYWM3Ny00NjZjLTkwYmMtMjU3YTExMTA3MzI1XkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_UX1000_.jpg
@@ -1367,11 +1371,11 @@ list:
 
   - title: 'Rainbow: Nishakubou no shichinin'
     image_url: https://m.media-amazon.com/images/M/MV5BMmI0ODEzMWItMThiMS00YzIyLTg5YjAtNTljNjUxMGU4NzBhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-    number_of_episodes: 7
+    number_of_episodes: 6
 
   - title: Kurokami
     image_url: https://m.media-amazon.com/images/M/MV5BMjEyMDA3NzAtZDBiYS00ZDNlLThhNTItYzFhNzAyZTJiNmE2XkEyXkFqcGdeQXVyMjI5MjU5OTI@._V1_UX1000_.jpg
-    number_of_episodes: 14
+    number_of_episodes: 5
 
 ---
 
