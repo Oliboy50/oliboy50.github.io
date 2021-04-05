@@ -84,28 +84,29 @@ list:
     number_of_episodes: 25
     number_of_seasons: 2
 
+  - title: One Piece
+    image_url: https://m.media-amazon.com/images/M/MV5BODNmZWRlN2ItMmRmYy00MWM1LTllMGQtMWY4NzgwNTU2MmY5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+    number_of_episodes: 931
+    currently_airing: true
+    number_of_movies: '?'
+    number_of_oavs: '?'
+
   - title: 'Re:ZERO - Starting Life in Another World'
     image_url: https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
     list:
-      - title: 'Re:ZERO season 1 (2016)'
+      - title: 'Re:ZERO saison 1'
         number_of_episodes: 25
         number_of_movies: 1
-      - title: 'Re:ZERO season 1 Re-Edit (2020)'
+      - title: 'Re:ZERO saison 1 Re-Edit'
         number_of_episodes: 13
         number_of_oavs: 2
-      - title: 'Re:ZERO season 2'
+      - title: 'Re:ZERO saison 2'
         number_of_episodes: 25
 
   - title: Made in Abyss
     image_url: https://m.media-amazon.com/images/M/MV5BODNhNTYyODgtOWU5NS00Y2M4LTg5YzAtNzZlMTFiYjE0NTIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 13
     bluray_bought: true
-
-  - title: One Piece
-    image_url: https://m.media-amazon.com/images/M/MV5BODNmZWRlN2ItMmRmYy00MWM1LTllMGQtMWY4NzgwNTU2MmY5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-    currently_airing: true
-    number_of_movies: '?'
-    number_of_oavs: '?'
 
   - title: Beelzebub
     image_url: https://m.media-amazon.com/images/M/MV5BNDE3NGU0ZTQtZTAxYy00Y2NjLWJhMWYtYjE4M2NmZGE2NTNiXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_UX1000_.jpg
@@ -198,36 +199,9 @@ list:
     number_of_episodes: 24
     bluray_bought: true
 
-  - title: Dr. Stone
-    image_url: https://m.media-amazon.com/images/M/MV5BZTU1ODAyN2UtZjdlOC00ODUwLWE3NjEtYjE3NmViNTAwMzMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 24
-
   - title: The Rising of the Shield Hero
     image_url: https://m.media-amazon.com/images/M/MV5BNTQ1ZGVjODAtNWYzZS00ZmZiLWExYjEtNmM1MjI2OTk1YWY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 25
-
-  - title: Fate/Stay Night
-    image_url: https://m.media-amazon.com/images/M/MV5BYTExZmM2ZjktM2E0NS00MjY4LWFkYTktYjc4OWMzMjNmOTgyXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_UX1000_.jpg
-    list:
-      - title: 'Fate/Stay Night: Unlimited Blade Works (2014)'
-        number_of_episodes: 25
-      - title: Fate/Stay Night (2006)
-        number_of_episodes: 24
-        number_of_movies: 1
-        bluray_bought: true
-
-  - title: Mirai Nikki
-    image_url: https://m.media-amazon.com/images/M/MV5BYWJkM2Q5MTYtZjg0Yy00YmQxLTg2ZTUtNDlhZGNiMDE2Y2FhXkEyXkFqcGdeQXVyNzA2Njk0NTk@._V1_UX1000_.jpg
-    number_of_episodes: 26
-    number_of_oavs: 1
-
-  - title: Death Note
-    image_url: https://m.media-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_UX1000_.jpg
-    number_of_episodes: 37
-
-  - title: Kabaneri of the Iron Fortress
-    image_url: https://m.media-amazon.com/images/M/MV5BYjVkMTI4YjktNzkxZC00NGI0LWIxZDEtNGVmNTcyYWY3NjJmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
-    number_of_episodes: 12
 
   - title: Erased
     image_url: https://m.media-amazon.com/images/M/MV5BNDFmYjRkZWYtNjgyZS00YTY5LWIyMmQtZTI0OGRiOGM5NGY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -248,6 +222,14 @@ list:
     number_of_oavs: 1
     bluray_bought: true
 
+  - title: Death Note
+    image_url: https://m.media-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_UX1000_.jpg
+    number_of_episodes: 37
+
+  - title: Kabaneri of the Iron Fortress
+    image_url: https://m.media-amazon.com/images/M/MV5BYjVkMTI4YjktNzkxZC00NGI0LWIxZDEtNGVmNTcyYWY3NjJmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
   - title: Baccano!
     image_url: https://m.media-amazon.com/images/M/MV5BOTYzMTA0NzUtNzA3ZC00YjM1LTkyOWQtOGUyMWE0ZTJhMTZlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     number_of_episodes: 16
@@ -266,6 +248,26 @@ list:
     number_of_episodes: 12
     number_of_oavs: 1
     bluray_bought: true
+
+  - title: Dr. Stone
+    image_url: https://m.media-amazon.com/images/M/MV5BZTU1ODAyN2UtZjdlOC00ODUwLWE3NjEtYjE3NmViNTAwMzMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 35
+    number_of_seasons: 2
+
+  - title: Fate/Stay Night
+    image_url: https://m.media-amazon.com/images/M/MV5BYTExZmM2ZjktM2E0NS00MjY4LWFkYTktYjc4OWMzMjNmOTgyXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_UX1000_.jpg
+    list:
+      - title: 'Fate/Stay Night: Unlimited Blade Works (2014)'
+        number_of_episodes: 25
+      - title: Fate/Stay Night (2006)
+        number_of_episodes: 24
+        number_of_movies: 1
+        bluray_bought: true
+
+  - title: Mirai Nikki
+    image_url: https://m.media-amazon.com/images/M/MV5BYWJkM2Q5MTYtZjg0Yy00YmQxLTg2ZTUtNDlhZGNiMDE2Y2FhXkEyXkFqcGdeQXVyNzA2Njk0NTk@._V1_UX1000_.jpg
+    number_of_episodes: 26
+    number_of_oavs: 1
 
   - title: Detroit Metal City
     image_url: https://m.media-amazon.com/images/M/MV5BMWE3MmY5YjktMmEwNC00NTIyLWJkNGQtZjA1MGU3ZWY2YmM0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -293,15 +295,15 @@ list:
 
   - title: Sword Art Online
     image_url: https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
-    number_of_episodes: 85
-    number_of_seasons: 3
+    number_of_episodes: 96
+    number_of_seasons: 4
     number_of_movies: 1
     bluray_bought: true
 
   - title: 'Food Wars: Shokugeki no Soma'
     image_url: https://m.media-amazon.com/images/M/MV5BODJhZDFjMTItZTZjZC00MGM0LWFlM2UtZTE2MTU4YjE0MzMxXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_UX1000_.jpg
-    number_of_episodes: 73
-    number_of_seasons: 4
+    number_of_episodes: 86
+    number_of_seasons: 5
 
   - title: Your Lie In April
     image_url: https://m.media-amazon.com/images/M/MV5BZjE0N2FhZDMtZTM0OS00ZGMyLWFhODItOGVmYzU0Yjg4ZWFlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
@@ -394,6 +396,7 @@ list:
   - title: Violet Evergarden
     image_url: https://m.media-amazon.com/images/M/MV5BZmUzMThjOTItZGY4ZS00ODcwLTliNTMtYjVkM2JmY2QxNmRhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 13
+    number_of_movies: 1
 
   - title: Black Butler
     image_url: https://m.media-amazon.com/images/M/MV5BNDEyNzhmOWEtNTRlYy00NGI3LWJhZTMtZDkzZTFkN2RhMWRlXkEyXkFqcGdeQXVyNjU3MzA0NjE@._V1_UX1000_.jpg
