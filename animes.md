@@ -13,11 +13,11 @@ list:
   - title: Hunter x Hunter
     image_url: https://m.media-amazon.com/images/M/MV5BZjNmZDhkN2QtNDYyZC00YzJmLTg0ODUtN2FjNjhhMzE3ZmUxXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
     list:
+      - title: Hunter x Hunter (1999)
+        number_of_episodes: 92
       - title: Hunter x Hunter (2011)
         number_of_episodes: 148
         number_of_movies: 2
-      - title: Hunter x Hunter (1999)
-        number_of_episodes: 92
 
   - title: Gintama
     image_url: https://m.media-amazon.com/images/M/MV5BMDkxZTJjZTEtMDRjMy00Yzk1LWI5YjItMjIwYmVlYzhlZWZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
@@ -94,13 +94,13 @@ list:
   - title: 'Re:ZERO - Starting Life in Another World'
     image_url: https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
     list:
-      - title: 'Re:ZERO saison 1'
+      - title: 'Re:ZERO s1'
         number_of_episodes: 25
         number_of_movies: 1
-      - title: 'Re:ZERO saison 1 Re-Edit'
+      - title: 'Re:ZERO s1 Re-Edit'
         number_of_episodes: 13
         number_of_oavs: 2
-      - title: 'Re:ZERO saison 2'
+      - title: 'Re:ZERO s2'
         number_of_episodes: 25
 
   - title: Made in Abyss
@@ -131,18 +131,24 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMmJhODNhZjgtMzk1Ny00MjYwLTlkMWYtZTkzMDJiOTEwNzM0XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
     number_of_episodes: 11
 
-  - title: Dragon Ball Z
+  - title: Dragon Ball
     image_url: https://m.media-amazon.com/images/M/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     list:
+      - title: Dragon Ball
+        number_of_episodes: 153
+        number_of_movies: '?'
+        number_of_oavs: '?'
+      - title: Dragon Ball Z
+        number_of_episodes: 291
+        number_of_movies: '?'
+        number_of_oavs: '?'
+      - title: Dragon Ball GT
+        number_of_episodes: 64
       - title: Dragon Ball Z Kai (2009)
         number_of_episodes: 159
       - title: Dragon Ball Super (2015)
         number_of_episodes: 131
         number_of_movies: 1
-      - title: Dragon Ball Z
-        number_of_episodes: 291
-        number_of_movies: '?'
-        number_of_oavs: '?'
 
   - title: Jojo's Bizarre Adventure
     image_url: https://m.media-amazon.com/images/M/MV5BZDc3NGQ3ZWQtYjNkOC00MjhiLTg2N2YtNmZlOGNiZTFkOWNhXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
@@ -179,7 +185,11 @@ list:
 
   - title: Soul Eater
     image_url: https://m.media-amazon.com/images/M/MV5BNTdiNTJmMzktZmE2MC00OWUxLWE1MjktMTdhN2Q1OWNlODY1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-    number_of_episodes: 51
+    list:
+      - title: Soul Eater
+        number_of_episodes: 51
+      - title: Soul Eater Not!
+        number_of_episodes: 12
 
   - title: Deadman Wonderland
     image_url: https://m.media-amazon.com/images/M/MV5BNWExOTUxYjQtYmNhOS00OGViLWI3N2ItMzBhMWY5NGJkYjlmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
@@ -257,12 +267,16 @@ list:
   - title: Fate/Stay Night
     image_url: https://m.media-amazon.com/images/M/MV5BYTExZmM2ZjktM2E0NS00MjY4LWFkYTktYjc4OWMzMjNmOTgyXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_UX1000_.jpg
     list:
-      - title: 'Fate/Stay Night: Unlimited Blade Works (2014)'
-        number_of_episodes: 25
       - title: Fate/Stay Night (2006)
         number_of_episodes: 24
         number_of_movies: 1
         bluray_bought: true
+      - title: 'Fate/Stay Night: Unlimited Blade Works (2014)'
+        number_of_episodes: 25
+      - title: Fate/Zero
+        number_of_episodes: 25
+      - title: Fate/Apocrypha
+        number_of_episodes: 25
 
   - title: Mirai Nikki
     image_url: https://m.media-amazon.com/images/M/MV5BYWJkM2Q5MTYtZjg0Yy00YmQxLTg2ZTUtNDlhZGNiMDE2Y2FhXkEyXkFqcGdeQXVyNzA2Njk0NTk@._V1_UX1000_.jpg
@@ -279,10 +293,13 @@ list:
 
   - title: Naruto
     image_url: https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
-    number_of_episodes: 720
-    number_of_seasons: 2
-    number_of_oavs: 1
-    number_of_movies: '?'
+    list:
+      - title: Naruto
+        number_of_episodes: 220
+        number_of_movies: '?'
+      - title: Naruto Shippuden
+        number_of_episodes: 500
+        number_of_movies: '?'
 
   - title: Bleach
     image_url: https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
@@ -295,10 +312,14 @@ list:
 
   - title: Sword Art Online
     image_url: https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
-    number_of_episodes: 96
-    number_of_seasons: 4
-    number_of_movies: 1
-    bluray_bought: true
+    list:
+      - title: Sword Art Online
+        number_of_episodes: 96
+        number_of_seasons: 4
+        number_of_movies: 1
+        bluray_bought: true
+      - title: 'Sword Art Online: Alternative Gun Gale Online'
+        number_of_episodes: 12
 
   - title: 'Food Wars: Shokugeki no Soma'
     image_url: https://m.media-amazon.com/images/M/MV5BODJhZDFjMTItZTZjZC00MGM0LWFlM2UtZTE2MTU4YjE0MzMxXkEyXkFqcGdeQXVyNTIxNDgzOTg@._V1_UX1000_.jpg
@@ -492,10 +513,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMzQwMjM3NmYtYzYyMi00Njc4LThiZjEtZjhlZWY2OWMwMGNkXkEyXkFqcGdeQXVyNjIyNDgwMzM@._V1_UX1000_.jpg
     number_of_episodes: 12
 
-  - title: Fate/Zero
-    image_url: https://m.media-amazon.com/images/M/MV5BMDNiZjIzMzYtMDg1Zi00ZjM3LWFlZjUtZmNhMTQ1MDU3ODU0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
-    number_of_episodes: 25
-
   - title: Assassination Classroom
     image_url: https://m.media-amazon.com/images/M/MV5BYzI0OWJlMjItYmE1NS00YzE2LWExNDAtMDM3MDA5MzM5NmExXkEyXkFqcGdeQXVyNzA5MDUyODA@._V1_UX1000_.jpg
     number_of_episodes: 47
@@ -585,10 +602,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZWQ2MTY2NGMtYjBjNC00MDMwLWI4NmItNjk3MmYzOGEzMmFlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 50
     number_of_seasons: 2
-
-  - title: Fate/Apocrypha
-    image_url: https://m.media-amazon.com/images/M/MV5BNmQwYTMzY2QtZTliMS00MGY0LTk0ODMtOWRlYjMyYzk0MjYxXkEyXkFqcGdeQXVyNzA2MTUzMzM@._V1_UX1000_.jpg
-    number_of_episodes: 25
 
   - title: Kyoukai no Kanata
     image_url: https://m.media-amazon.com/images/M/MV5BY2NmNTdmNDgtMjJmMS00YzQ1LTliN2ItMjQxOGRiMjAwODFhXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_UX1000_.jpg
@@ -704,16 +717,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYTdiYzM0YWQtNWMxZi00NGFiLWE4OTEtN2Y3MjY2YjNiMzM5XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX1000_.jpg
     number_of_episodes: 11
 
-  - title: Dragon Ball
-    image_url: https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
-    number_of_episodes: 153
-    number_of_oavs: '?'
-    number_of_movies: '?'
-
-  - title: Dragon Ball GT
-    image_url: https://m.media-amazon.com/images/M/MV5BYzY3YjhiYTMtNDQ4OS00ZGI0LWE0ODQtOGM1N2M5OTQyNjk1XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_UX1000_.jpg
-    number_of_episodes: 64
-
   - title: Saiyuki
     image_url: https://m.media-amazon.com/images/M/MV5BMDY2NTI0ZmUtNWU1Yy00YWNlLWEzN2YtYTUzMTlkMTIzOTcxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX1000_.jpg
     number_of_episodes: 50
@@ -783,13 +786,13 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTBjZDE3OGQtNWNhNC00NGRiLWIwOWItZDllMTQwMjRkY2I1XkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UX1000_.jpg
     number_of_episodes: 12
 
-  - title: Bakemonogatari
+  - title: Monogatari
     image_url: https://m.media-amazon.com/images/M/MV5BYTNlMWFmYjQtM2E2ZC00ZDEwLWI1NjktY2MxMmJkYzNkMzkzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 15
-
-  - title: Hanamonogatari
-    image_url: https://m.media-amazon.com/images/M/MV5BNDZhNmZiNzAtZDlhYi00ODJlLWE2NmMtMzZjNDM3YjYyYjMyXkEyXkFqcGdeQXVyNTc4NjQ5OTA@._V1_UX1000_.jpg
-    number_of_movies: 1
+    list:
+      - title: Bakemonogatari
+        number_of_episodes: 15
+      - title: Hanamonogatari
+        number_of_movies: 1
 
   - title: Chunibyo Demo Koi ga Shitai!
     image_url: https://m.media-amazon.com/images/M/MV5BOGJlZjU5YTAtYjkxMS00YWVhLWFjM2MtNDY3YTc2ZjJhMjM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
@@ -1024,10 +1027,6 @@ list:
     number_of_episodes: 50
     number_of_seasons: 2
 
-  - title: Soul Eater Not!
-    image_url: https://m.media-amazon.com/images/M/MV5BZWExMjQ0ZGYtZDFjZS00ODY5LWJlZGQtMDVjNzMxNTY0Mjg4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 12
-
   - title: Kill La Kill
     image_url: https://m.media-amazon.com/images/M/MV5BZTRlNTYwOWMtMDNhOC00NzQ3LTgzZDItNzEwZDY4ZWRlNjgzL2ltYWdlXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
     number_of_episodes: 24
@@ -1077,13 +1076,13 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNWRjYmQ4YmQtZGIxNi00MmZkLTlmZjgtODRmMTUxYTExYzY1XkEyXkFqcGdeQXVyNjIyNDgwMzM@._V1_UX1000_.jpg
     number_of_episodes: 24
 
-  - title: Chaos;Child
-    image_url: https://m.media-amazon.com/images/M/MV5BOWQ0YmQxYzgtYzMyZi00ODQyLWJlMGItZjY3MWZmMzI4YWNmXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_UX1000_.jpg
-    number_of_episodes: 12
-
-  - title: 'Sword Art Online: Alternative Gun Gale Online'
-    image_url: https://m.media-amazon.com/images/M/MV5BMzBjMDU3YTgtODY1Ny00MjI2LWE5N2ItNTZkZTI1NzliMGNlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 12
+  - title: Chaos;Head
+    image_url: https://m.media-amazon.com/images/M/MV5BYTY0ODlhNjUtMDI2NS00NjE1LTgyYjYtNzVjYjE1NGVkMDNlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UX1000_.jpg
+    list:
+      - title: Chaos;Head
+        number_of_episodes: 12
+      - title: Chaos;Child
+        number_of_episodes: 12
 
   - title: Afro Samurai
     image_url: https://m.media-amazon.com/images/M/MV5BY2I2MzU0ZmUtNWE5Mi00OWM3LWIyZDEtZTg0Y2U2N2FlZDUyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -1101,10 +1100,6 @@ list:
 
   - title: Devil May Cry
     image_url: https://m.media-amazon.com/images/M/MV5BMTI4NTY0MDY3NV5BMl5BanBnXkFtZTcwMjk5MjA3MQ@@._V1_UX1000_.jpg
-    number_of_episodes: 12
-
-  - title: Chaos;Head
-    image_url: https://m.media-amazon.com/images/M/MV5BYTY0ODlhNjUtMDI2NS00NjE1LTgyYjYtNzVjYjE1NGVkMDNlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: Goodbye, Mr. Despair
