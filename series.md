@@ -6,7 +6,7 @@ permalink: /series
 list:
   - title: Rick and Morty
     image_url: https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX1000_.jpg
-    number_of_seasons: 4
+    number_of_seasons: 5
 
   - title: South Park
     image_url: https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
@@ -36,13 +36,21 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNTEwYzNiMGUtNzRlYS00MTMzLTliNzgtOGUxZGZiNThlNWYwXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX1000_.jpg
     number_of_seasons: 5
 
+  - title: Love, Death & Robots
+    image_url: https://m.media-amazon.com/images/M/MV5BMTc1MjIyNDI3Nl5BMl5BanBnXkFtZTgwMjQ1OTI0NzM@._V1_UX1000_.jpg
+    number_of_seasons: 2
+
+  - title: The Cuphead Show!
+    image_url: https://m.media-amazon.com/images/M/MV5BYzEwNmQ0N2QtMzU3OS00N2JkLWE1ZTUtZjRjNjAzMDU5ZGVlXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_UX1000_.jpg
+    number_of_seasons: 1
+
   - title: Happy!
     image_url: https://m.media-amazon.com/images/M/MV5BNzk2NjYxMDMxMV5BMl5BanBnXkFtZTgwMzQxODcwNDI@._V1_UX1000_.jpg
     number_of_seasons: 2
 
   - title: The Walking Dead
     image_url: https://m.media-amazon.com/images/M/MV5BZmFlMTA0MmUtNWVmOC00ZmE1LWFmMDYtZTJhYjJhNGVjYTU5XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_UX1000_.jpg
-    number_of_seasons: 9
+    number_of_seasons: 10
 
   - title: Better Call Saul
     image_url: https://m.media-amazon.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1_UX1000_.jpg
@@ -60,10 +68,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX1000_.jpg
     number_of_seasons: 2
 
-  - title: Love, Death & Robots
-    image_url: https://m.media-amazon.com/images/M/MV5BMTc1MjIyNDI3Nl5BMl5BanBnXkFtZTgwMjQ1OTI0NzM@._V1_UX1000_.jpg
-    number_of_seasons: 1
-
   - title: The Simpsons
     image_url: https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
     number_of_seasons: 20
@@ -74,7 +78,11 @@ list:
 
   - title: Snowpiercer
     image_url: https://m.media-amazon.com/images/M/MV5BYTY1MDhjOWQtYWFkNS00ODA1LTg1YTUtZDhmZDE0MDJlMzIwXkEyXkFqcGdeQXVyMTI4MDc0NjU2._V1_UX1000_.jpg
-    number_of_seasons: 2
+    number_of_seasons: 3
+
+  - title: The Wheel Of Time
+    image_url: https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
+    number_of_seasons: 1
 
   - title: Sense8
     image_url: https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_UX1000_.jpg
