@@ -10,7 +10,7 @@ list:
 
   - title: South Park
     image_url: https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
-    number_of_seasons: 23
+    number_of_seasons: 24
 
   - title: Breaking Bad
     image_url: https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX1000_.jpg
@@ -51,6 +51,10 @@ list:
   - title: The Walking Dead
     image_url: https://m.media-amazon.com/images/M/MV5BZmFlMTA0MmUtNWVmOC00ZmE1LWFmMDYtZTJhYjJhNGVjYTU5XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_UX1000_.jpg
     number_of_seasons: 10
+
+  - title: Arcane (League of Legends)
+    image_url: https://m.media-amazon.com/images/M/MV5BNDMzMTBiYjgtN2VkOC00NDY0LThiN2MtMzk4ZTQyYWRkMWU4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UX1000_.jpg
+    number_of_seasons: 1
 
   - title: Better Call Saul
     image_url: https://m.media-amazon.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1_UX1000_.jpg

@@ -31,6 +31,9 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNjY2OWYyNmEtNzYwMy00OGU4LWI4YzgtMWZjZDUwYWZlYjA3XkEyXkFqcGdeQXVyODU2MDg1NzU@._V1_UX1000_.jpg
     bluray_bought: true
 
+  - title: I Want To Eat Your Pancreas
+    image_url: https://m.media-amazon.com/images/M/MV5BNDM4MWE3NGQtODlkYS00NWU5LTg3ZjMtMTEyNjljOWI4NWIxXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_UX1000_.jpg
+
   - title: Wolf Children (Les Enfants loups, Ame et Yuki)
     image_url: https://m.media-amazon.com/images/M/MV5BYzQxNDZhNDUtNDUwOC00NjQyLTg2OWUtZWVlYThjYjYyMTc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
     bluray_bought: true
@@ -72,9 +75,6 @@ list:
   - title: Children Who Chase Lost Voices (Voyage vers Agartha)
     image_url: https://m.media-amazon.com/images/M/MV5BMzZmZTQ4YjMtODgxYS00NDBlLTgyYWYtNWFkNjVhZGUyODRlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
 
-  - title: Time of Eve
-    image_url: https://m.media-amazon.com/images/M/MV5BMjA1MzkyMTcyNV5BMl5BanBnXkFtZTcwNzA3MDk2OA@@._V1_UX1000_.jpg
-
   - title: Pompoko
     image_url: https://m.media-amazon.com/images/M/MV5BNDM3MDc3OTk4MF5BMl5BanBnXkFtZTcwMzQ2ODIyNw@@._V1_UX1000_.jpg
 
@@ -89,6 +89,9 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZDNlYjMyN2YtYWI5OC00MTY0LTgxZWQtZDAwZWFjNzhlOGVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_UX1000_.jpg
     bluray_bought: true
 
+  - title: Time of Eve
+    image_url: https://m.media-amazon.com/images/M/MV5BMjA1MzkyMTcyNV5BMl5BanBnXkFtZTcwNzA3MDk2OA@@._V1_UX1000_.jpg
+
   - title: Dragon Quest - Your Story
     image_url: https://m.media-amazon.com/images/M/MV5BM2Q5YTI0NTQtOGFlOC00MTEzLTg2NDYtM2VhNDk1ZTllNTNiXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_UX1000_.jpg
 
@@ -101,6 +104,9 @@ list:
 
   - title: The Boy and the Beast (Le Garçon et la Bête)
     image_url: https://m.media-amazon.com/images/M/MV5BZGUxZGMzYTYtNjJlMS00OGQ5LTg5YjItN2JjM2Y2NjQzMzdkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+
+  - title: Nos Mots Comme Des Bulles
+    image_url: https://m.media-amazon.com/images/M/MV5BNTZkNTg4ZjktM2NmNC00NjA5LTgwZDktOWRjZjQyMDI1ZjIwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX1000_.jpg
 
   - title: Mary et la fleur de la sorcière
     image_url: https://m.media-amazon.com/images/M/MV5BNDVkYmFiNmQtMjc3Ni00YTY5LTk0NTAtZDc4YjZiZjU2YjNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX1000_.jpg
