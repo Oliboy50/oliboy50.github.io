@@ -105,6 +105,9 @@ list:
   - title: The Boy and the Beast (Le Garçon et la Bête)
     image_url: https://m.media-amazon.com/images/M/MV5BZGUxZGMzYTYtNjJlMS00OGQ5LTg5YjItN2JjM2Y2NjQzMzdkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
 
+  - title: Bubble
+    image_url: https://m.media-amazon.com/images/M/MV5BY2YwNTFkM2UtZmExZi00Mjg1LTljMjEtYThjZDY0YmI5YzZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX1000_.jpg
+
   - title: Nos Mots Comme Des Bulles
     image_url: https://m.media-amazon.com/images/M/MV5BNTZkNTg4ZjktM2NmNC00NjA5LTgwZDktOWRjZjQyMDI1ZjIwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX1000_.jpg
 

@@ -13,7 +13,7 @@ list:
     number_of_seasons: 24
 
   - title: Breaking Bad
-    image_url: https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZjRiOTAyNTAtZTQwZC00MjZkLTkwMGMtOWFlMjk2NjNmY2JjXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_UX1000_.jpg
     number_of_seasons: 5
 
   - title: Game of Thrones
@@ -82,6 +82,10 @@ list:
 
   - title: Snowpiercer
     image_url: https://m.media-amazon.com/images/M/MV5BYTY1MDhjOWQtYWFkNS00ODA1LTg1YTUtZDhmZDE0MDJlMzIwXkEyXkFqcGdeQXVyMTI4MDc0NjU2._V1_UX1000_.jpg
+    number_of_seasons: 3
+
+  - title: The Umbrella Academy
+    image_url: https://m.media-amazon.com/images/M/MV5BOTdlODM0MTAtMzRiZi00MTQxLWE0MGUtNTNjOGZjNjAzN2E0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
     number_of_seasons: 3
 
   - title: The Wheel Of Time
