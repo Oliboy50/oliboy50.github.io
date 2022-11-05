@@ -20,11 +20,17 @@ list:
         number_of_movies: 2
         bluray_bought: true
 
+  - title: Overlord
+    image_url: https://m.media-amazon.com/images/M/MV5BOTFlY2NkOWItNTI3Yy00NDA5LTkzOTQtZGVmNDJlMzM4OGJlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
+    number_of_episodes: 52
+    number_of_seasons: 4
+    bluray_bought: true
+
   - title: Gintama
     image_url: https://m.media-amazon.com/images/M/MV5BMDkxZTJjZTEtMDRjMy00Yzk1LWI5YjItMjIwYmVlYzhlZWZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
     number_of_episodes: 353
     number_of_movies: 1
-    number_of_oavs: '?'
+    number_of_oavs: 1
 
   - title: Fullmetal Alchemist
     image_url: https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
@@ -37,9 +43,12 @@ list:
         number_of_oavs: 4
         bluray_bought: true
 
-  - title: Overlord
-    image_url: https://m.media-amazon.com/images/M/MV5BOTFlY2NkOWItNTI3Yy00NDA5LTkzOTQtZGVmNDJlMzM4OGJlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
-    number_of_episodes: 39
+  - title: Made in Abyss
+    image_url: https://m.media-amazon.com/images/M/MV5BODNhNTYyODgtOWU5NS00Y2M4LTg5YzAtNzZlMTFiYjE0NTIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 25
+    number_of_movies: 3
+    number_of_seasons: 2
+    bluray_bought: true
 
   - title: Attack on Titan
     image_url: https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_UX1000_.jpg
@@ -67,35 +76,12 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTlkNzg4NzktNjgxZC00ZjUwLWFjOGYtNmJkMzY4Y2U4NzNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjM1ODczNDE@._V1_UX1000_.jpg
     number_of_episodes: 56
 
-  - title: GTO
-    image_url: https://m.media-amazon.com/images/M/MV5BMjA4NTUzMTg2OV5BMl5BanBnXkFtZTcwMDgyMDMyMQ@@._V1_UX1000_.jpg
-    number_of_episodes: 43
-
-  - title: Clannad
-    image_url: https://m.media-amazon.com/images/M/MV5BN2VmM2NmMGUtOGQ2OC00Y2ZjLTljNTctYjhmMDJjZjM1NTY3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
-    number_of_episodes: 44
-    number_of_seasons: 2
-    number_of_oavs: 5
-    bluray_bought: true
-
   - title: Tokyo Ghoul
     image_url: https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 48
     number_of_seasons: 4
     number_of_oavs: 1
     bluray_bought: true
-
-  - title: Mob Psycho 100
-    image_url: https://m.media-amazon.com/images/M/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
-    number_of_episodes: 25
-    number_of_seasons: 2
-
-  - title: One Piece
-    image_url: https://m.media-amazon.com/images/M/MV5BODNmZWRlN2ItMmRmYy00MWM1LTllMGQtMWY4NzgwNTU2MmY5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-    number_of_episodes: 931
-    currently_airing: true
-    number_of_movies: '?'
-    number_of_oavs: '?'
 
   - title: 'Re:ZERO - Starting Life in Another World'
     image_url: https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
@@ -109,11 +95,30 @@ list:
       - title: 'Re:ZERO s2'
         number_of_episodes: 25
 
-  - title: Made in Abyss
-    image_url: https://m.media-amazon.com/images/M/MV5BODNhNTYyODgtOWU5NS00Y2M4LTg5YzAtNzZlMTFiYjE0NTIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 13
-    number_of_movies: 3
+  - title: GTO (version française)
+    image_url: https://m.media-amazon.com/images/M/MV5BMjA4NTUzMTg2OV5BMl5BanBnXkFtZTcwMDgyMDMyMQ@@._V1_UX1000_.jpg
+    number_of_episodes: 43
+
+  - title: Clannad
+    image_url: https://m.media-amazon.com/images/M/MV5BN2VmM2NmMGUtOGQ2OC00Y2ZjLTljNTctYjhmMDJjZjM1NTY3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
+    number_of_episodes: 44
+    number_of_seasons: 2
+    number_of_oavs: 5
     bluray_bought: true
+
+  - title: Mob Psycho 100
+    image_url: https://m.media-amazon.com/images/M/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
+    number_of_episodes: 25
+    number_of_seasons: 2
+
+  - title: One Piece
+    image_url: https://m.media-amazon.com/images/M/MV5BODNmZWRlN2ItMmRmYy00MWM1LTllMGQtMWY4NzgwNTU2MmY5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+    number_of_episodes: 1038
+    number_of_movies: 4
+
+  - title: Spy x Family
+    image_url: https://m.media-amazon.com/images/M/MV5BMWM4Njg2MjUtODU3OS00MGNmLWIyNTctZGZkNTdjN2JhNmU2XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_UX1000_.jpg
+    number_of_episodes: 12
 
   - title: Beelzebub
     image_url: https://m.media-amazon.com/images/M/MV5BNDE3NGU0ZTQtZTAxYy00Y2NjLWJhMWYtYjE4M2NmZGE2NTNiXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_UX1000_.jpg
@@ -151,12 +156,12 @@ list:
     list:
       - title: Dragon Ball
         number_of_episodes: 153
-        number_of_movies: '?'
-        number_of_oavs: '?'
+        number_of_movies: 4
+        number_of_oavs: 2
       - title: Dragon Ball Z
         number_of_episodes: 291
-        number_of_movies: '?'
-        number_of_oavs: '?'
+        number_of_movies: 10
+        number_of_oavs: 2
       - title: Dragon Ball GT
         number_of_episodes: 64
       - title: Dragon Ball Z Kai (2009)
@@ -181,7 +186,7 @@ list:
       - title: Golden Wind
         number_of_episodes: 39
       - title: Stone Ocean
-        number_of_episodes: 12
+        number_of_episodes: 24
 
   - title: Nanatsu no Taizai
     image_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTY3NjAxMF5BMl5BanBnXkFtZTgwMzE4NDAzNzE@._V1_UX1000_.jpg
@@ -211,7 +216,7 @@ list:
         number_of_episodes: 12
 
   - title: Deadman Wonderland
-    image_url: https://m.media-amazon.com/images/M/MV5BNWExOTUxYjQtYmNhOS00OGViLWI3N2ItMzBhMWY5NGJkYjlmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BODQ1NmZkYzEtZDQ3MS00MWI1LWE5NTktYWU1NTIzMTMwMjkzXkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_UX1000_.jpg
     number_of_episodes: 12
     bluray_bought: true
 
@@ -230,14 +235,15 @@ list:
 
   - title: The Rising of the Shield Hero
     image_url: https://m.media-amazon.com/images/M/MV5BNTQ1ZGVjODAtNWYzZS00ZmZiLWExYjEtNmM1MjI2OTk1YWY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 25
+    number_of_episodes: 38
+    number_of_seasons: 2
 
   - title: Ranking of Kings
     image_url: https://m.media-amazon.com/images/M/MV5BODhkNTM5YzYtNDA1Ny00MTIwLWI5Y2ItZDZkMDU4OTI5NTMzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_UX1000_.jpg
     number_of_episodes: 23
 
   - title: Erased
-    image_url: https://m.media-amazon.com/images/M/MV5BNDFmYjRkZWYtNjgyZS00YTY5LWIyMmQtZTI0OGRiOGM5NGY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BYzJmZjZkMjQtZjJmZC00M2JkLTg5MzktN2FkOTllNTc5MmMzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: Samurai Champloo
@@ -317,15 +323,24 @@ list:
     list:
       - title: Naruto
         number_of_episodes: 220
-        number_of_movies: '?'
+        number_of_movies: 3
       - title: Naruto Shippuden
         number_of_episodes: 500
-        number_of_movies: '?'
+        number_of_movies: 3
 
   - title: Bleach
     image_url: https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     number_of_episodes: 366
-    number_of_movies: '?'
+    number_of_movies: 2
+
+  - title: That Time I Got Reincarnated as a Slime
+    image_url: https://m.media-amazon.com/images/M/MV5BM2M2NDIzOTItZDA1Yy00M2Q4LTk3ZjctZjZmZjUyZWMxM2YyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 48
+    number_of_seasons: 2
+
+  - title: Bofuri - I Don't Want To Get Hurt So I'll Max Out My Defense
+    image_url: https://m.media-amazon.com/images/M/MV5BOGJmNTMzNjctYzMyZC00NWNmLWJiZGItYWVjODdkNzNmZTI2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 12
 
   - title: Cautious Hero
     image_url: https://m.media-amazon.com/images/M/MV5BMWI2NTMzZTUtNzAyYS00Y2U4LTliMzItMDU1YzA0N2YzNGI2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -351,6 +366,15 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZjE0N2FhZDMtZTM0OS00ZGMyLWFhODItOGVmYzU0Yjg4ZWFlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
     number_of_episodes: 22
 
+  - title: Cells at Work! (Les Brigades Immunitaires)
+    image_url: https://m.media-amazon.com/images/M/MV5BYWUzMzU4MjAtNjY0Yi00NzliLThmY2QtODViZWY0Y2NjOWM4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 22
+    number_of_seasons: 2
+
+  - title: Parallel World Pharmacy
+    image_url: https://m.media-amazon.com/images/M/MV5BNmFiZjY4NzMtMzM0Ny00ODYzLThiOGUtZmE5OTY2YjZmOTA3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
   - title: 'Parasyte: The Maxim'
     image_url: https://m.media-amazon.com/images/M/MV5BZTViMTZlMjgtNjVmZC00NjEzLWJlN2QtMjQ4ZTYxNzBiZmMyXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
     number_of_episodes: 24
@@ -375,8 +399,12 @@ list:
     number_of_seasons: 2
     number_of_oavs: 2
 
-  - title: Golden Kamuy
-    image_url: https://m.media-amazon.com/images/M/MV5BNWE3YWVhMDEtZmViNy00ZmM3LWIxYWItZjdkZGFkNTQ4NzMxXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
+  - title: Arifureta - From Commonplace To World's Strongest
+    image_url: https://m.media-amazon.com/images/M/MV5BNjhmZTYzNTUtMjM3My00MTFjLTk5MDQtMGI2ZDlkNjk4ZTMzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 26
+
+  - title: The Strongest Sage With The Weakest Crest
+    image_url: https://m.media-amazon.com/images/M/MV5BZGFjMjU3OWMtZTQ4ZC00Nzg2LWFkZDQtOTU5ZjYyMThiYTVhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: Brynhildr in the Darkness
@@ -392,7 +420,8 @@ list:
 
   - title: The Devil is a Part-Timer!
     image_url: https://m.media-amazon.com/images/M/MV5BMGQyMTkxNjAtN2YxNC00YjgyLWE0YmQtZTY4ODczMDhmNzNkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 13
+    number_of_episodes: 25
+    number_of_seasons: 2
 
   - title: Sket Dance
     image_url: https://m.media-amazon.com/images/M/MV5BYWViYWUwOGQtMzcxYi00ZmVhLWEyZGEtODhlOTQ1MTVmZTNmXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX1000_.jpg
@@ -405,7 +434,7 @@ list:
 
   - title: Shaman King (2021)
     image_url: https://m.media-amazon.com/images/M/MV5BMGM0NTM4YjMtZDFjNS00MWYxLThlZmQtMzZmZWVjMzQxNWJjXkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_UX1000_.jpg
-    number_of_episodes: 38
+    number_of_episodes: 52
 
   - title: Bakuman
     image_url: https://m.media-amazon.com/images/M/MV5BZDVjZGZlOTAtYjgwYS00NDU0LWJiODEtNmI5Y2YyNWRlN2Q0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -496,6 +525,10 @@ list:
       - title: Baki Hanma - Son of Ogre (2021)
         number_of_episodes: 12
 
+  - title: Golden Kamuy
+    image_url: https://m.media-amazon.com/images/M/MV5BNWE3YWVhMDEtZmViNy00ZmM3LWIxYWItZjdkZGFkNTQ4NzMxXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
   - title: World Trigger
     image_url: https://m.media-amazon.com/images/M/MV5BMjk2Y2VkNTktY2ViMS00ZjE2LWFjMDgtZDBhODA2OWRlMWI3XkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_UX1000_.jpg
     number_of_episodes: 73
@@ -511,8 +544,9 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BY2JhZThjMjAtMjA5Yi00ZTIxLTljODctZDgxMzdlMzA2YjllXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     list:
       - title: DanMachi
-        number_of_episodes: 37
-        number_of_seasons: 3
+        number_of_episodes: 48
+        number_of_oavs: 3
+        number_of_seasons: 4
       - title: 'DanMachi Gaiden: Sword Oratoria'
         number_of_episodes: 12
       - title: 'DanMachi: Arrow of The Orion'
@@ -550,6 +584,10 @@ list:
     number_of_oavs: 1
     bluray_bought: true
 
+  - title: Kaguya-sama - Love Is War
+    image_url: https://m.media-amazon.com/images/M/MV5BYjEwNjEwYzgtZGZkMy00MTBjLTg2MmYtNDk0MzY2NmU0MmNiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 37
+
   - title: Toradora!
     image_url: https://m.media-amazon.com/images/M/MV5BNWEwMjE2MjQtZTQ3NC00OTUxLWEwMWUtMThjZjg4Zjc5ZDYwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 25
@@ -566,6 +604,10 @@ list:
   - title: Gangsta
     image_url: https://m.media-amazon.com/images/M/MV5BMzQ1NWZlNDgtN2RmNi00OGViLTk5NTMtYzAxZTE0YTZhOGNiXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
     number_of_episodes: 12
+
+  - title: Ascendance of a Bookworm
+    image_url: https://m.media-amazon.com/images/M/MV5BNGFhNjAyZWUtZjY3OC00OTA3LTk2ZjItMTRlZDVhZGZhMzNhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 36
 
   - title: The Rolling Girls
     image_url: https://m.media-amazon.com/images/M/MV5BMzQwMjM3NmYtYzYyMi00Njc4LThiZjEtZjhlZWY2OWMwMGNkXkEyXkFqcGdeQXVyNjIyNDgwMzM@._V1_UX1000_.jpg
@@ -626,6 +668,10 @@ list:
     number_of_seasons: 2
     number_of_movies: 1
 
+  - title: Radiant
+    image_url: https://m.media-amazon.com/images/M/MV5BMzhiZmI2ZWItMjE2Mi00YjQ2LTkyZTMtY2E2ODFlNmRhOTI1XkEyXkFqcGdeQXVyOTU2NzIyNzE@._V1_UX1000_.jpg
+    number_of_episodes: 42
+
   - title: Terra Formars
     image_url: https://m.media-amazon.com/images/M/MV5BODc0NzdiMWItYTY0Zi00MTlkLWJkZTYtMTFhYTZiM2Y2MjEyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
     number_of_episodes: 26
@@ -638,6 +684,10 @@ list:
   - title: The Case Study of Vanitas (Vanitas no Carte)
     image_url: https://m.media-amazon.com/images/M/MV5BYzM4ODUyNzItMjM0NC00MjVlLWFhZWMtMmFlNGFiYTQxZmVkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 24
+
+  - title: 'Cyberpunk: Edgerunners'
+    image_url: https://m.media-amazon.com/images/M/MV5BMTQ0MGI4NTgtZTlkNy00YTU5LThjM2ItNDczMGFlZWY2ZWM3XkEyXkFqcGdeQXVyMTM3NDc1OTM2._V1_UX1000_.jpg
+    number_of_episodes: 10
 
   - title: Seraph of the End
     image_url: https://m.media-amazon.com/images/M/MV5BZTNlYmU1MmItMGFiNi00MjUxLThlOWMtMzgxMzIyNzk3ODgwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
@@ -654,7 +704,7 @@ list:
     number_of_episodes: 12
 
   - title: 'Beck: Mongolian Chop Squad'
-    image_url: https://m.media-amazon.com/images/M/MV5BZjBiM2E0NTItNjQwZS00Y2JlLWJjNjktNTM4Zjg1YWE2MDNhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZDA3NWZkMDUtNmMxMS00NjE5LThkZmQtZGIzZGU5N2I4NGM1XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX1000_.jpg
     number_of_episodes: 26
 
   - title: The Way of The Househusband
@@ -1039,6 +1089,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZmVjMWZmNTMtNWFkNC00ODNmLWE4MzMtZjhkYzgxY2E3ZmRlXkEyXkFqcGdeQXVyNDQxNjIwNTI@._V1_UX1000_.jpg
     number_of_episodes: 24
 
+  - title: Island
+    image_url: https://m.media-amazon.com/images/M/MV5BMTY2Y2Y2ZjYtZGRlZi00OTA0LWIwYTMtOTA2MTI4NGY5OWU3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
   - title: No. 6
     image_url: https://m.media-amazon.com/images/M/MV5BNmQ2MjZlZDQtOTE4Yi00OGJiLThhYTQtZjE3ZDVlZmFiNTQ3XkEyXkFqcGdeQXVyNTk2MzQ0NDY@._V1_UX1000_SY1000_CR200,10,640,960_AL_.jpg
     number_of_episodes: 11
@@ -1107,6 +1161,10 @@ list:
   - title: Police in a Pod
     image_url: https://m.media-amazon.com/images/M/MV5BMmI1ZDIwNDAtMzkwZC00NTUzLWIyNTktYWI0YjBhZGZkNWUzXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX1000_.jpg
     number_of_episodes: 13
+
+  - title: Bastard!! Heavy Metal, Dark Fantasy (2022)
+    image_url: https://m.media-amazon.com/images/M/MV5BZTBlMzM1ZDYtMDgwNS00OGY4LWFkMGYtYWM1ZWM1NWU5OWYxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX1000_.jpg
+    number_of_episodes: 24
 
   - title: Letter Bee (Tegamibachi)
     image_url: https://m.media-amazon.com/images/M/MV5BNWM3NzI4YjMtODI4Mi00M2FiLWI4MjktMzgyOGExYWUyYWY3XkEyXkFqcGdeQXVyNTk1MjM3OTQ@._V1_UX1000_.jpg
@@ -1389,6 +1447,14 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTM4ODQ3MTM5MV5BMl5BanBnXkFtZTYwNTQ3NzI5._V1_UX1000_.jpg
     number_of_movies: 1
 
+  - title: Aharen-san wa Hakarenai
+    image_url: https://m.media-amazon.com/images/M/MV5BMzg0OGY3ZjgtZThiMi00ZGMzLTgyYTUtZWI3YTRhYzRjODJiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 7
+
+  - title: Komi Can't Communicate
+    image_url: https://m.media-amazon.com/images/M/MV5BZmQzNTdjYjctYzM5OS00ZjFmLWJjYmYtZDYwZGYyYjkwODRhXkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_UX1000_.jpg
+    number_of_episodes: 4
+
   - title: Laughing Under the Clouds
     image_url: https://m.media-amazon.com/images/M/MV5BM2JjZjQ2ZjktZmM3NC00NWExLWJmMDQtM2U4MmZhZGRiNTVkXkEyXkFqcGdeQXVyNjQ4OTExMzc@._V1_UX1000_.jpg
     number_of_episodes: 12
@@ -1443,6 +1509,51 @@ list:
 
 ---
 
+{% assign total_number_of_items = 0 %}
+{% assign total_number_of_episodes = 0 %}
+{% assign total_number_of_oavs = 0 %}
+{% assign total_number_of_movies = 0 %}
+{% for item in page.list %}
+    {%- if item.list -%}
+        {%- for subitem in item.list %}
+            {% assign total_number_of_items = total_number_of_items | plus: 1 %}
+            {%- if subitem.number_of_episodes %}
+                {% assign total_number_of_episodes = total_number_of_episodes | plus: subitem.number_of_episodes %}
+            {%- endif -%}
+            {%- if subitem.number_of_oavs %}
+                {% assign total_number_of_oavs = total_number_of_oavs | plus: subitem.number_of_oavs %}
+            {%- endif -%}
+            {%- if subitem.number_of_movies %}
+                {% assign total_number_of_movies = total_number_of_movies | plus: subitem.number_of_movies %}
+            {%- endif -%}
+        {%- endfor -%}
+    {%- else -%}
+        {% assign total_number_of_items = total_number_of_items | plus: 1 %}
+        {%- if item.number_of_episodes %}
+            {% assign total_number_of_episodes = total_number_of_episodes | plus: item.number_of_episodes %}
+        {%- endif -%}
+        {%- if item.number_of_oavs %}
+            {% assign total_number_of_oavs = total_number_of_oavs | plus: item.number_of_oavs %}
+        {%- endif -%}
+        {%- if item.number_of_movies %}
+            {% assign total_number_of_movies = total_number_of_movies | plus: item.number_of_movies %}
+        {%- endif -%}
+    {%- endif -%}
+{% endfor %}
+
+{% assign total_time_of_episodes_in_minutes = total_number_of_episodes | times: 20 %}
+{% assign total_time_of_oavs_in_minutes = total_number_of_oavs | times: 40 %}
+{% assign total_time_of_movies_in_minutes = total_number_of_movies | times: 90 %}
+{% assign total_time_of_items_in_minutes = total_time_of_episodes_in_minutes | plus: total_time_of_oavs_in_minutes | plus: total_time_of_movies_in_minutes %}
+
+|   | Quantité | Durée de visionnage |
+|---|----------|---------------------|
+| **Total**   | **{{ total_number_of_items }} animes** | **{{ total_time_of_items_in_minutes | divided_by: 1440 }} jours** |
+| Episodes | {{ total_number_of_episodes }} | {{ total_time_of_episodes_in_minutes | divided_by: 60 }} heures |
+| OAVs     | {{ total_number_of_oavs }} | {{ total_time_of_oavs_in_minutes | divided_by: 60 }} heures   |
+| Films    | {{ total_number_of_movies }} | {{ total_time_of_movies_in_minutes | divided_by: 60 }} heures   |
+
+
 {% for item in page.list %}
 1. ![{{ item.title }}]({{ item.image_url }})
 ### {{ item.title }}
@@ -1453,10 +1564,6 @@ list:
 
             {%- if subitem.number_of_episodes %}
         + {{ subitem.number_of_episodes }} épisodes {%- if subitem.number_of_seasons %} ({{ subitem.number_of_seasons }} saisons) {% endif -%}
-            {%- endif -%}
-
-            {%- if subitem.currently_airing %}
-        + en cours
             {%- endif -%}
 
             {%- if subitem.number_of_oavs %}
@@ -1476,10 +1583,6 @@ list:
 
         {%- if item.number_of_episodes %}
     + {{ item.number_of_episodes }} épisodes {%- if item.number_of_seasons %} ({{ item.number_of_seasons }} saisons) {% endif -%}
-        {%- endif -%}
-
-        {%- if item.currently_airing %}
-    + en cours
         {%- endif -%}
 
         {%- if item.number_of_oavs %}
