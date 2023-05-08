@@ -38,6 +38,21 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYzQxNDZhNDUtNDUwOC00NjQyLTg2OWUtZWVlYThjYjYyMTc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
     bluray_bought: true
 
+  - title: Perfect Blue
+    image_url: https://m.media-amazon.com/images/M/MV5BODNkMDdkYjgtMGMwNy00OGRkLWJjYTUtMjMwMWE1N2E2ZTc0XkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_UX1000_.jpg
+
+  - title: Ghost in the Shell
+    image_url: https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+
+  - title: 'Ghost in the Shell 2: Innocence'
+    image_url: https://m.media-amazon.com/images/M/MV5BMTE5NTgwNzQ2NV5BMl5BanBnXkFtZTYwOTM4MTY3._V1_UX1000_.jpg
+
+  - title: Akira
+    image_url: https://m.media-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_UX1000_.jpg
+
+  - title: Drifting Home (Les Murs Vagabonds)
+    image_url: https://m.media-amazon.com/images/M/MV5BYWQ0YTc0OGItNjA0Ny00NzBiLWFjZWMtZmQwYmEwYzg5NjVkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX1000_.jpg
+
   - title: Patema Inverted (Patéma et le monde inversé)
     image_url: https://m.media-amazon.com/images/M/MV5BYjE1ZDUwNGYtYzM2Ni00NzhiLWFjOTAtMDM4ZDRiNzM5NTkxXkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_UX1000_.jpg
 
@@ -56,18 +71,6 @@ list:
 
   - title: Castle in the Sky (Le Château dans le ciel)
     image_url: https://m.media-amazon.com/images/M/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UX1000_.jpg
-
-  - title: Perfect Blue
-    image_url: https://m.media-amazon.com/images/M/MV5BODNkMDdkYjgtMGMwNy00OGRkLWJjYTUtMjMwMWE1N2E2ZTc0XkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_UX1000_.jpg
-
-  - title: Ghost in the Shell
-    image_url: https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-
-  - title: 'Ghost in the Shell 2: Innocence'
-    image_url: https://m.media-amazon.com/images/M/MV5BMTE5NTgwNzQ2NV5BMl5BanBnXkFtZTYwOTM4MTY3._V1_UX1000_.jpg
-
-  - title: Akira
-    image_url: https://m.media-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_UX1000_.jpg
 
   - title: Summer Wars
     image_url: https://m.media-amazon.com/images/M/MV5BMTYyOTk3OTQzM15BMl5BanBnXkFtZTcwMjU4NDYyNA@@._V1_UX1000_.jpg

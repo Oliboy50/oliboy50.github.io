@@ -20,9 +20,17 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_UX1000_.jpg
     number_of_seasons: 8
 
+  - title: After Life
+    image_url: https://m.media-amazon.com/images/M/MV5BZjdjOWIxMDgtYTgwNS00MjE4LTliZWYtZGI1NDhhZmIyYjM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
+    number_of_seasons: 3
+
   - title: The IT Crowd
     image_url: https://m.media-amazon.com/images/M/MV5BMjE5MThjMzAtNWVmNC00YThkLTlmNzktMTM3Yzk4YTZhMTgwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
     number_of_seasons: 4
+
+  - title: The Office (USA version)
+    image_url: https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX1000_.jpg
+    number_of_seasons: 9
 
   - title: Scrubs
     image_url: https://m.media-amazon.com/images/M/MV5BODE1MGVjZjMtODc5My00ODBjLTg0NWItMDllNTNlM2Y3ZGYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
@@ -56,6 +64,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNDMzMTBiYjgtN2VkOC00NDY0LThiN2MtMzk4ZTQyYWRkMWU4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UX1000_.jpg
     number_of_seasons: 1
 
+  - title: 'Orelsan : Montre jamais ça à personne'
+    image_url: https://m.media-amazon.com/images/M/MV5BYjFjMjc5OGMtYmM0OS00ZTBjLWJiYjMtZDA4YzI2NmQwYjdiXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_UX1000_.jpg
+    number_of_seasons: 2
+
   - title: Better Call Saul
     image_url: https://m.media-amazon.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1_UX1000_.jpg
     number_of_seasons: 4
@@ -83,6 +95,14 @@ list:
   - title: Snowpiercer
     image_url: https://m.media-amazon.com/images/M/MV5BYTY1MDhjOWQtYWFkNS00ODA1LTg1YTUtZDhmZDE0MDJlMzIwXkEyXkFqcGdeQXVyMTI4MDc0NjU2._V1_UX1000_.jpg
     number_of_seasons: 3
+
+  - title: House of the Dragon
+    image_url: https://m.media-amazon.com/images/M/MV5BZjBiOGIyY2YtOTA3OC00YzY1LThkYjktMGRkYTNhNTExY2I2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX1000_.jpg
+    number_of_seasons: 1
+
+  - title: 'Le Seigneur des anneaux : Les Anneaux de pouvoir'
+    image_url: https://m.media-amazon.com/images/M/MV5BMzIzMzNiNzUtZDY3NC00NjY0LWI1MTUtMjU1YmNmOTQ0NWZhXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UX1000_.jpg
+    number_of_seasons: 1
 
   - title: The Umbrella Academy
     image_url: https://m.media-amazon.com/images/M/MV5BOTdlODM0MTAtMzRiZi00MTQxLWE0MGUtNTNjOGZjNjAzN2E0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
@@ -136,6 +156,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTc3MjEwMTc5N15BMl5BanBnXkFtZTcwNzQ2NjQ4NA@@._V1_UX1000_.jpg
     number_of_seasons: 4
 
+  - title: Cunk on Earth
+    image_url: https://m.media-amazon.com/images/M/MV5BMDJiZjM0YWItZWIzMi00MDFhLTg4YjgtYmFkOTUzODlmMzhmXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_UX1000_.jpg
+    number_of_seasons: 1
+
   - title: Dr House
     image_url: https://m.media-amazon.com/images/M/MV5BMDA4NjQzN2ItZDhhNC00ZjVlLWFjNTgtMTEyNDQyOGNjMDE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     number_of_seasons: 5
@@ -156,7 +180,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     number_of_seasons: 10
 
-  - title: 'NCIS'
+  - title: NCIS
     image_url: https://m.media-amazon.com/images/M/MV5BYjVlMjZhYzYtOGQxNC00OTQxLTk2NzEtMWFmMmNhODA4YjYzXkEyXkFqcGdeQXVyNjQ3MDgwNjY@._V1_UX1000_.jpg
     number_of_seasons: 8
 
