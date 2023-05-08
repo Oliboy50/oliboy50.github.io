@@ -1599,7 +1599,7 @@ list:
             {%- endif -%}
 
             {%- if subitem.number_of_oavs %}
-        + {{ item.number_of_oavs }} OAV
+        + {{ subitem.number_of_oavs }} OAV
             {%- endif -%}
 
             {%- if subitem.number_of_movies %}
