@@ -192,7 +192,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTY3NjAxMF5BMl5BanBnXkFtZTgwMzE4NDAzNzE@._V1_UX1000_.jpg
     number_of_episodes: 100
     number_of_oavs: 6
-    number_of_movies: 1
+    number_of_movies: 2
     bluray_bought: true
 
   - title: The Melancholy of Haruhi Suzumiya
@@ -241,6 +241,7 @@ list:
   - title: Ranking of Kings
     image_url: https://m.media-amazon.com/images/M/MV5BODhkNTM5YzYtNDA1Ny00MTIwLWI5Y2ItZDZkMDU4OTI5NTMzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_UX1000_.jpg
     number_of_episodes: 23
+    number_of_oavs: 6
 
   - title: Erased
     image_url: https://m.media-amazon.com/images/M/MV5BYzJmZjZkMjQtZjJmZC00M2JkLTg5MzktN2FkOTllNTc5MmMzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX1000_.jpg
