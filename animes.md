@@ -273,7 +273,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZDE0ZTRhMTQtMTIzNC00NjY4LTllMmEtYjY4Y2ZlZmZlODU0XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_UX1000_.jpg
     number_of_episodes: 13
 
-  - title: 'Bofuri: I Don't Want To Get Hurt So I'll Max Out My Defense'
+  - title: "Bofuri: I Don't Want To Get Hurt So I'll Max Out My Defense"
     image_url: https://m.media-amazon.com/images/M/MV5BOGJmNTMzNjctYzMyZC00NWNmLWJiZGItYWVjODdkNzNmZTI2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 24
     number_of_seasons: 2
@@ -503,7 +503,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZTYxZjVmNjctNWVjNi00ZGUyLTliYmQtNWVhMWE2YzIyODg1XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 12
 
-  - title: Arifureta - From Commonplace To World's Strongest
+  - title: "Arifureta - From Commonplace To World's Strongest"
     image_url: https://m.media-amazon.com/images/M/MV5BNjhmZTYzNTUtMjM3My00MTFjLTk5MDQtMGI2ZDlkNjk4ZTMzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 26
 
@@ -884,7 +884,7 @@ list:
     number_of_episodes: 26
     bluray_bought: true
 
-  - title: My Little Monster (Le Garçon d'à côté)
+  - title: "My Little Monster (Le Garçon d'à côté)"
     image_url: https://m.media-amazon.com/images/M/MV5BYmY3NTgxYmMtZmZkZC00NzM5LTk3NWYtMGYxNGU1MmVlZjMyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 13
 
@@ -1363,7 +1363,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYWY2NzEwYWMtMTk2NS00MTQ1LWI4M2EtN2I5NjMzOGUyYmM0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
     number_of_episodes: 114
 
-  - title: Wolf's Rain
+  - title: "Wolf's Rain"
     image_url: https://m.media-amazon.com/images/M/MV5BMTI3MzYwOTMyMl5BMl5BanBnXkFtZTcwODc2MzcyMQ@@._V1_UX1000_.jpg
     number_of_episodes: 30
 
@@ -1416,7 +1416,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYjM2ZThlNjctZmVjZC00ZjllLWE2YjctODEwMmMwMmZlMDI1XkEyXkFqcGdeQXVyNzgzNjM4NTE@._V1_UX1000_.jpg
     number_of_episodes: 56
 
-  - title: Moero! Top Striker (L'École des Champions)
+  - title: "Moero! Top Striker (L'École des Champions)"
     image_url: https://m.media-amazon.com/images/M/MV5BZGI2NTRlZGEtYjQ0Zi00NjliLThkNmYtOGE5NzQ2NjdmYmE3XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX1000_.jpg
     number_of_episodes: 52
 
@@ -1556,7 +1556,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMzg0OGY3ZjgtZThiMi00ZGMzLTgyYTUtZWI3YTRhYzRjODJiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 7
 
-  - title: Komi Can't Communicate
+  - title: "Komi Can't Communicate"
     image_url: https://m.media-amazon.com/images/M/MV5BZmQzNTdjYjctYzM5OS00ZjFmLWJjYmYtZDYwZGYyYjkwODRhXkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_UX1000_.jpg
     number_of_episodes: 4
 
