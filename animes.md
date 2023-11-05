@@ -26,12 +26,6 @@ list:
     number_of_seasons: 4
     bluray_bought: true
 
-  - title: Gintama
-    image_url: https://m.media-amazon.com/images/M/MV5BMDkxZTJjZTEtMDRjMy00Yzk1LWI5YjItMjIwYmVlYzhlZWZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
-    number_of_episodes: 353
-    number_of_movies: 1
-    number_of_oavs: 1
-
   - title: Fullmetal Alchemist
     image_url: https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     list:
@@ -43,6 +37,17 @@ list:
         number_of_oavs: 4
         bluray_bought: true
 
+  - title: Gintama
+    image_url: https://m.media-amazon.com/images/M/MV5BMDkxZTJjZTEtMDRjMy00Yzk1LWI5YjItMjIwYmVlYzhlZWZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX1000_.jpg
+    number_of_episodes: 353
+    number_of_movies: 1
+    number_of_oavs: 1
+
+  - title: Demon Slayer (Kimetsu no Yaiba)
+    image_url: https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX1000_.jpg
+    number_of_episodes: 55
+    number_of_seasons: 3
+
   - title: Made in Abyss
     image_url: https://m.media-amazon.com/images/M/MV5BODNhNTYyODgtOWU5NS00Y2M4LTg5YzAtNzZlMTFiYjE0NTIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 25
@@ -52,43 +57,9 @@ list:
 
   - title: Attack on Titan (Shingeki no Kyojin)
     image_url: https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_UX1000_.jpg
-    number_of_episodes: 88
+    number_of_episodes: 91
     number_of_seasons: 4
     number_of_oavs: 8
-
-  - title: Demon Slayer (Kimetsu no Yaiba)
-    image_url: https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX1000_.jpg
-    number_of_episodes: 55
-    number_of_seasons: 3
-
-  - title: One Punch Man
-    image_url: https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UX1000_.jpg
-    number_of_episodes: 24
-    number_of_oavs: 6
-    bluray_bought: true
-
-  - title: Ajin
-    image_url: https://m.media-amazon.com/images/M/MV5BMTc5MTE1ZWItMjRlOC00OGI0LTkyNGMtZjYyMzJkN2E5ZTMzXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_UX1000_.jpg
-    number_of_episodes: 26
-    number_of_seasons: 2
-    bluray_bought: true
-
-  - title: Saiki Kusuo no Psi Nan (The Disastrous Life of Saiki Kusuo)
-    image_url: https://m.media-amazon.com/images/M/MV5BMTlkNzg4NzktNjgxZC00ZjUwLWFjOGYtNmJkMzY4Y2U4NzNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjM1ODczNDE@._V1_UX1000_.jpg
-    number_of_episodes: 56
-    number_of_seasons: 2
-
-  - title: 'Mushoku Tensei: Jobless Reincarnation'
-    image_url: https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 36
-    number_of_seasons: 2
-
-  - title: Tokyo Ghoul
-    image_url: https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 48
-    number_of_seasons: 4
-    number_of_oavs: 1
-    bluray_bought: true
 
   - title: 'Re:ZERO - Starting Life in Another World'
     image_url: https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX1000_.jpg
@@ -102,10 +73,39 @@ list:
       - title: 'Re:ZERO season 2'
         number_of_episodes: 25
 
+  - title: One Punch Man
+    image_url: https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UX1000_.jpg
+    number_of_episodes: 24
+    number_of_oavs: 6
+    bluray_bought: true
+
   - title: Mob Psycho 100
     image_url: https://m.media-amazon.com/images/M/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
     number_of_episodes: 37
     number_of_seasons: 3
+
+  - title: 'Mushoku Tensei: Jobless Reincarnation'
+    image_url: https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 36
+    number_of_seasons: 2
+
+  - title: Ajin
+    image_url: https://m.media-amazon.com/images/M/MV5BMTc5MTE1ZWItMjRlOC00OGI0LTkyNGMtZjYyMzJkN2E5ZTMzXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_UX1000_.jpg
+    number_of_episodes: 26
+    number_of_seasons: 2
+    bluray_bought: true
+
+  - title: Saiki Kusuo no Psi Nan (The Disastrous Life of Saiki Kusuo)
+    image_url: https://m.media-amazon.com/images/M/MV5BMTlkNzg4NzktNjgxZC00ZjUwLWFjOGYtNmJkMzY4Y2U4NzNkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjM1ODczNDE@._V1_UX1000_.jpg
+    number_of_episodes: 56
+    number_of_seasons: 2
+
+  - title: Tokyo Ghoul
+    image_url: https://m.media-amazon.com/images/M/MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 48
+    number_of_seasons: 4
+    number_of_oavs: 1
+    bluray_bought: true
 
   - title: Spy x Family
     image_url: https://m.media-amazon.com/images/M/MV5BMWM4Njg2MjUtODU3OS00MGNmLWIyNTctZGZkNTdjN2JhNmU2XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_UX1000_.jpg
