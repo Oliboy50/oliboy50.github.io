@@ -212,7 +212,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
     number_of_episodes: 138
     number_of_seasons: 6
-    number_of_oavs: 1
+    number_of_oavs: 2
 
   - title: Soul Eater
     image_url: https://m.media-amazon.com/images/M/MV5BNTdiNTJmMzktZmE2MC00OWUxLWE1MjktMTdhN2Q1OWNlODY1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -482,8 +482,9 @@ list:
 
   - title: That Time I Got Reincarnated as a Slime
     image_url: https://m.media-amazon.com/images/M/MV5BM2M2NDIzOTItZDA1Yy00M2Q4LTk3ZjctZjZmZjUyZWMxM2YyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 48
+    number_of_episodes: 51
     number_of_seasons: 2
+    number_of_oavs: 8
 
   - title: ReLIFE
     image_url: https://m.media-amazon.com/images/M/MV5BZjk3ZmM0NmMtYzY1MC00Y2MyLTkxZjYtNjA2MDlhNTRhNWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
