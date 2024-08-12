@@ -20,7 +20,7 @@ list:
         number_of_movies: 2
         bluray_bought: true
 
-  - title: 'Frieren: Beyond Journey's End'
+  - title: "Frieren: Beyond Journey's End"
     image_url: https://m.media-amazon.com/images/M/MV5BMjVjZGU5ZTktYTZiNC00N2Q1LThiZjMtMDVmZDljN2I3ZWIwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX1000_.jpg
     number_of_episodes: 28
 
