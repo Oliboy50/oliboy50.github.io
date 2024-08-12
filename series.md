@@ -108,9 +108,9 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BOTdlODM0MTAtMzRiZi00MTQxLWE0MGUtNTNjOGZjNjAzN2E0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
     number_of_seasons: 3
 
-  - title: The Wheel Of Time
+  - title: The Wheel Of Time (La Roue du Temps)
     image_url: https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
-    number_of_seasons: 1
+    number_of_seasons: 2
 
   - title: Sense8
     image_url: https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_UX1000_.jpg

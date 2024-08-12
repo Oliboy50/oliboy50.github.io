@@ -16,6 +16,9 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNmU5OTQ0OWQtOTY0OS00Yjg4LWE1NDYtNDRhYWMxYWY4OTMwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX1000_.jpg
     bluray_bought: true
 
+  - title: Suzume
+    image_url: https://m.media-amazon.com/images/M/MV5BNGVkNDc3NjUtNTY5ZS00ZmE0LWE3YzctMDk2OTRlNTdiZWQwXkEyXkFqcGdeQXVyMTU3NDg0OTgx._V1_UX1000_.jpg
+
   - title: The Girl Who Leapt Through Time (La Traversée du temps)
     image_url: https://m.media-amazon.com/images/M/MV5BNjhiN2FjMWUtMDAyMi00ODJkLWE3MDgtODJlYTA1NDk5M2MyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
 
@@ -33,6 +36,9 @@ list:
 
   - title: I Want To Eat Your Pancreas
     image_url: https://m.media-amazon.com/images/M/MV5BNDM4MWE3NGQtODlkYS00NWU5LTg3ZjMtMTEyNjljOWI4NWIxXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_UX1000_.jpg
+
+  - title: Tunnel to Summer
+    image_url: https://m.media-amazon.com/images/M/MV5BZGQxYTY2ODItM2ViYi00NjJjLTk4MTAtMGJiMGRjODMxMjU3XkEyXkFqcGdeQXVyOTI4MzgyNTk@._V1_UX1000_.jpg
 
   - title: Wolf Children (Les Enfants loups, Ame et Yuki)
     image_url: https://m.media-amazon.com/images/M/MV5BYzQxNDZhNDUtNDUwOC00NjQyLTg2OWUtZWVlYThjYjYyMTc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -87,6 +93,9 @@ list:
 
   - title: Whisper of the Heart (Si tu tends l'oreille)
     image_url: https://m.media-amazon.com/images/M/MV5BNmQ3N2U5NGMtNjU0MS00YTQzLWE1ZDctZDU5M2M5NTNjOGRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+
+  - title: Le Garçon et le Héron
+    image_url: https://m.media-amazon.com/images/M/MV5BYTM4Nzg5YzUtYTE3Ni00ZjE0LWFmYzYtN2MwYWI0MzZlMjk0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX1000_.jpg
 
   - title: Okko et les fantômes
     image_url: https://m.media-amazon.com/images/M/MV5BZDNlYjMyN2YtYWI5OC00MTY0LTgxZWQtZDAwZWFjNzhlOGVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_UX1000_.jpg
