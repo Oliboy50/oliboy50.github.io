@@ -6,7 +6,7 @@ permalink: /series
 list:
   - title: Rick and Morty
     image_url: https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX1000_.jpg
-    number_of_seasons: 5
+    number_of_seasons: 7
 
   - title: South Park
     image_url: https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
