@@ -481,9 +481,8 @@ list:
 
   - title: Konosuba
     image_url: https://m.media-amazon.com/images/M/MV5BNDNiOWM5NGItNzY4NC00MDg1LTljZjctYzViNmRlOTNhOWM2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
-    number_of_episodes: 32
+    number_of_episodes: 33
     number_of_seasons: 3
-    number_of_oavs: 1
     number_of_movies: 1
 
   - title: Handyman Saitou in Another World (Benriya Saitou-san)
