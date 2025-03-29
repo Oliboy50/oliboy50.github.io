@@ -12,16 +12,16 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     number_of_seasons: 24
 
-  - title: Breaking Bad
-    image_url: https://m.media-amazon.com/images/M/MV5BZjRiOTAyNTAtZTQwZC00MjZkLTkwMGMtOWFlMjk2NjNmY2JjXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_UX1000_.jpg
-    number_of_seasons: 5
-
   - title: Game of Thrones
     image_url: https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_UX1000_.jpg
     number_of_seasons: 8
 
+  - title: Breaking Bad
+    image_url: https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_seasons: 5
+
   - title: After Life
-    image_url: https://m.media-amazon.com/images/M/MV5BZjdjOWIxMDgtYTgwNS00MjE4LTliZWYtZGI1NDhhZmIyYjM1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNDVkNzU5ZjAtNjE5MC00YjBmLTk0NjAtYmFiOTk3MGIwZDlmXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 3
 
   - title: The IT Crowd
@@ -41,7 +41,7 @@ list:
     number_of_seasons: 6
 
   - title: Black Mirror
-    image_url: https://m.media-amazon.com/images/M/MV5BNTEwYzNiMGUtNzRlYS00MTMzLTliNzgtOGUxZGZiNThlNWYwXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMWY3ZjgwMTctZTZmMS00ZTMwLTkwYWEtNTVkMDgwNjA5ODBiXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 5
 
   - title: Love, Death & Robots
@@ -57,11 +57,11 @@ list:
     number_of_seasons: 2
 
   - title: The Walking Dead
-    image_url: https://m.media-amazon.com/images/M/MV5BZmFlMTA0MmUtNWVmOC00ZmE1LWFmMDYtZTJhYjJhNGVjYTU5XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMTMxMWM5NzEtZWM5My00ZGY4LWI3ODctMTJiYzYyNTQwYTEwXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 10
 
   - title: Arcane (League of Legends)
-    image_url: https://m.media-amazon.com/images/M/MV5BNDMzMTBiYjgtN2VkOC00NDY0LThiN2MtMzk4ZTQyYWRkMWU4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNDAyZmNlNTUtM2VlMC00ZTkyLWIyNzMtY2RiM2E2ZjA5NTIzXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 1
 
   - title: 'Orelsan : Montre jamais ça à personne'
@@ -72,12 +72,8 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1_UX1000_.jpg
     number_of_seasons: 4
 
-  - title: Westworld
-    image_url: https://m.media-amazon.com/images/M/MV5BNThjM2Y3MDUtYTIyNC00ZDliLWJlMmItNWY1N2E5NjhmMGM4XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_UX1000_.jpg
-    number_of_seasons: 1
-
   - title: Stranger Things
-    image_url: https://m.media-amazon.com/images/M/MV5BZGExYjQzNTQtNGNhMi00YmY1LTlhY2MtMTRjODg3MjU4YTAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 3
 
   - title: Mr. Robot
@@ -92,6 +88,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNjE0YjkzNDAtMDQ1MC00MmQ5LTgxNDktNmQ0ODU2MGY0Njk1XkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_UX1000_.jpg
     number_of_seasons: 5
 
+  - title: The Nanny (Une nounou d'enfer)
+    image_url: https://m.media-amazon.com/images/M/MV5BM2VlZTE4N2MtYjhhYy00ZWY2LThkMWYtMWFhMGQ1YTA5NTgwXkEyXkFqcGdeQXVyODQwNjgyMw@@._V1_UX1000_.jpg
+    number_of_seasons: 6
+
   - title: Snowpiercer
     image_url: https://m.media-amazon.com/images/M/MV5BYTY1MDhjOWQtYWFkNS00ODA1LTg1YTUtZDhmZDE0MDJlMzIwXkEyXkFqcGdeQXVyMTI4MDc0NjU2._V1_UX1000_.jpg
     number_of_seasons: 3
@@ -101,16 +101,28 @@ list:
     number_of_seasons: 1
 
   - title: 'Le Seigneur des anneaux : Les Anneaux de pouvoir'
-    image_url: https://m.media-amazon.com/images/M/MV5BMzIzMzNiNzUtZDY3NC00NjY0LWI1MTUtMjU1YmNmOTQ0NWZhXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZGZkY2NkYzUtNTQzZC00NjM3LWE1MWMtZjY2YzVlOTFhYmM3XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 1
 
   - title: The Umbrella Academy
-    image_url: https://m.media-amazon.com/images/M/MV5BOTdlODM0MTAtMzRiZi00MTQxLWE0MGUtNTNjOGZjNjAzN2E0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMzlmMmIxODItYzBjNC00YjMwLWIwOTAtNzVlMTBlNTNkMjZjXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 3
+
+  - title: Westworld
+    image_url: https://m.media-amazon.com/images/M/MV5BMjM2MTA5NjIwNV5BMl5BanBnXkFtZTgwNjI2OTMxNTM@._V1_UX1000_.jpg
+    number_of_seasons: 1
 
   - title: The Wheel Of Time (La Roue du Temps)
     image_url: https://m.media-amazon.com/images/M/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX1000_.jpg
     number_of_seasons: 2
+
+  - title: Vampire Diaries
+    image_url: https://m.media-amazon.com/images/M/MV5BMmNjOWQzYmYtNGYxOS00MjVkLTg1MWUtMTkzMGE0MDgwNzQ5XkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_seasons: 8
+
+  - title: Daredevil
+    image_url: https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_UX1000_.jpg
+    number_of_seasons: 3
 
   - title: Sense8
     image_url: https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_UX1000_.jpg
@@ -129,16 +141,8 @@ list:
     number_of_seasons: 3
 
   - title: The Defenders
-    image_url: https://m.media-amazon.com/images/M/MV5BNWU4NmY3MTMtMTBmMi00NjFjLTkwMmItYWZhZWUwNDg5M2ExXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMTUwMjA5NTg4MF5BMl5BanBnXkFtZTgwODUyODkwMzI@._V1_UX1000_.jpg
     number_of_seasons: 1
-
-  - title: Daredevil
-    image_url: https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_UX1000_.jpg
-    number_of_seasons: 3
-
-  - title: The Nanny (Une nounou d'enfer)
-    image_url: https://m.media-amazon.com/images/M/MV5BM2VlZTE4N2MtYjhhYy00ZWY2LThkMWYtMWFhMGQ1YTA5NTgwXkEyXkFqcGdeQXVyODQwNjgyMw@@._V1_UX1000_.jpg
-    number_of_seasons: 6
 
   - title: Hero Corp
     image_url: https://m.media-amazon.com/images/M/MV5BMjQyMzYxNTU4Ml5BMl5BanBnXkFtZTgwNjk5Nzc0NDE@._V1_UX1000_.jpg
@@ -149,7 +153,7 @@ list:
     number_of_seasons: 4
 
   - title: The 4400
-    image_url: https://m.media-amazon.com/images/M/MV5BOWM4ZWYzMTQtMzQ2ZS00ZDQzLWFhNDItZDEyNjhmYjdmNjNjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNjU5NDgxYmEtZjgzMy00Nzc1LWE5ZDMtZjFhMzZlNTFjZjdlXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 4
 
   - title: Stargate SG-1
@@ -157,7 +161,7 @@ list:
     number_of_seasons: 4
 
   - title: Cunk on Earth
-    image_url: https://m.media-amazon.com/images/M/MV5BMDJiZjM0YWItZWIzMi00MDFhLTg4YjgtYmFkOTUzODlmMzhmXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BOGEwMjNlZTYtNWRkNi00MTc0LWJlZWUtNjMyOWU3N2ZiMzZjXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 1
 
   - title: Dr House
