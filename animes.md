@@ -61,6 +61,12 @@ list:
     number_of_seasons: 2
     bluray_bought: true
 
+  - title: One Piece
+    image_url: https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 1122
+    number_of_oavs: 14
+    number_of_movies: 4
+
   - title: Attack on Titan (Shingeki no Kyojin)
     image_url: https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_UX1000_.jpg
     number_of_episodes: 91
@@ -88,6 +94,12 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZmE1NjIyNjYtMTVmMy00M2YyLTljMjMtZGQwYmUxOTU4NjRlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
     number_of_episodes: 37
     number_of_seasons: 3
+
+  - title: Jujutsu Kaisen
+    image_url: https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX1000_.jpg
+    number_of_episodes: 48
+    number_of_seasons: 2
+    number_of_movies: 1
 
   - title: 'Mushoku Tensei: Jobless Reincarnation'
     image_url: https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -121,7 +133,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMGZiNWNlZDYtNjVhOS00MjMxLWFjZDgtYmE1NjI5YjA4MzdkXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 13
 
-  - title: GTO (version française)
+  - title: GTO
     image_url: https://m.media-amazon.com/images/M/MV5BMjA4NTUzMTg2OV5BMl5BanBnXkFtZTcwMDgyMDMyMQ@@._V1_UX1000_.jpg
     number_of_episodes: 43
 
@@ -131,18 +143,6 @@ list:
     number_of_seasons: 2
     number_of_oavs: 5
     bluray_bought: true
-
-  - title: One Piece
-    image_url: https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_UX1000_.jpg
-    number_of_episodes: 1122
-    number_of_oavs: 14
-    number_of_movies: 4
-
-  - title: Jujutsu Kaisen
-    image_url: https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX1000_.jpg
-    number_of_episodes: 48
-    number_of_seasons: 2
-    number_of_movies: 1
 
   - title: 'Mashle: Magic and Muscles'
     image_url: https://m.media-amazon.com/images/M/MV5BZDE0ZTRhMTQtMTIzNC00NjY4LTllMmEtYjY4Y2ZlZmZlODU0XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_UX1000_.jpg
