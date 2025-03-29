@@ -49,8 +49,10 @@ list:
 
   - title: Demon Slayer (Kimetsu no Yaiba)
     image_url: https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX1000_.jpg
-    number_of_episodes: 55
-    number_of_seasons: 3
+    number_of_episodes: 63
+    number_of_seasons: 4
+    number_of_movies: 1
+    bluray_bought: true
 
   - title: Made in Abyss
     image_url: https://m.media-amazon.com/images/M/MV5BODNhNTYyODgtOWU5NS00Y2M4LTg5YzAtNzZlMTFiYjE0NTIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -182,6 +184,8 @@ list:
   - title: Charlotte
     image_url: https://m.media-amazon.com/images/M/MV5BNDYwNjdjYjktOWMyYS00NmNlLTgwYWItYzNjZGNmNjFjNDk2L2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 13
+    number_of_oavs: 1
+    bluray_bought: true
 
   - title: The Day I Became a God
     image_url: https://m.media-amazon.com/images/M/MV5BNzU2MjNmMWQtZGNmMC00NWNkLTgwZTUtMTI5YjUwMjhkMmVkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
