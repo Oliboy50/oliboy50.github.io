@@ -137,7 +137,7 @@ list:
     number_of_seasons: 1
 
   - title: Magic for Humans
-    image_url: https://m.media-amazon.com/images/M/MV5BMzc4Y2JlYWEtMmE4MS00Yjk5LThjYjYtNDRiN2FlMTAwOWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMWMxYTFlYWEtNjgzNy00NjlkLTg1ZjctNTFmNTcxMjJkOWIxXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 3
 
   - title: The Defenders

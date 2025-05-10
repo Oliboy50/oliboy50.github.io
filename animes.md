@@ -246,11 +246,18 @@ list:
     number_of_movies: 2
     bluray_bought: true
 
-  - title: The Melancholy of Haruhi Suzumiya
+  - title: Haruhi Suzumiya
     image_url: https://m.media-amazon.com/images/M/MV5BNWMxMGUzOTktYjliYS00MGMyLWJlNWYtYzljMzZhNDRmODIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 24
-    number_of_seasons: 2
-    number_of_movies: 1
+    list:
+      - title: The Melancholy of Haruhi Suzumiya
+        number_of_episodes: 24
+        number_of_seasons: 2
+      - title: The Disappearance of Haruhi Suzumiya
+        number_of_movies: 1
+      - title: The Disappearance of Nagato Yuki
+        number_of_episodes: 16
+        number_of_oavs: 1
+        bluray_bought: true
 
   - title: Soul Eater
     image_url: https://m.media-amazon.com/images/M/MV5BNTdiNTJmMzktZmE2MC00OWUxLWE1MjktMTdhN2Q1OWNlODY1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -269,11 +276,12 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYmQ5Y2RiOTAtMzg2Ni00MzE0LWE0NTItNzExNmMzOGQyY2NjL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 11
 
-  - title: That Time I Got Reincarnated as a Slime
+  - title: Moi, quand je me réincarne en Slime (That Time I Got Reincarnated as a Slime)
     image_url: https://m.media-amazon.com/images/M/MV5BM2M2NDIzOTItZDA1Yy00M2Q4LTk3ZjctZjZmZjUyZWMxM2YyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 85
     number_of_seasons: 3
     number_of_oavs: 8
+    bluray_bought: true
 
   - title: Grimgar of Fantasy and Ash
     image_url: https://m.media-amazon.com/images/M/MV5BYWUwZTU2ZjEtMmU1YS00ODdmLWIwNDktZDExMzhlNmRmZDczL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -1303,12 +1311,6 @@ list:
   - title: Cannon Busters
     image_url: https://m.media-amazon.com/images/M/MV5BMGJhMWQ5NzItYjVkYy00ZmYxLWJkOWItNTE3MDY1NDNlODk2XkEyXkFqcGdeQXVyMTY4OTY5OTk@._V1_UX1000_.jpg
     number_of_episodes: 12
-
-  - title: The Disappearance of Nagato Yuki
-    image_url: https://m.media-amazon.com/images/M/MV5BYjc3OTE5NTktOTI4My00MjBjLThmZTktMDBmNTBhNDYwZDVjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX1000_.jpg
-    number_of_episodes: 16
-    number_of_oavs: 1
-    bluray_bought: true
 
   - title: Megalo Box
     image_url: https://m.media-amazon.com/images/M/MV5BYmViNGU2YTUtYmNhNy00ZTVmLWExNDAtY2M0MzNhZjFiMTYxXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
