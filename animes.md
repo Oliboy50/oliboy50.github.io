@@ -128,6 +128,8 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 38
     number_of_seasons: 2
+    number_of_movies: 1
+    bluray_bought: true
 
   - title: Odd Taxi
     image_url: https://m.media-amazon.com/images/M/MV5BMGZiNWNlZDYtNjVhOS00MjMxLWFjZDgtYmE1NjI5YjA4MzdkXkEyXkFqcGc@._V1_UX1000_.jpg
@@ -147,6 +149,7 @@ list:
   - title: 'Mashle: Magic and Muscles'
     image_url: https://m.media-amazon.com/images/M/MV5BMjMyNjg4MzItMGI3MS00MGVmLWE5MDMtODk4NjIyNzFlOWZlXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 13
+    bluray_bought: true
 
   - title: My Hero Academia
     image_url: https://m.media-amazon.com/images/M/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
@@ -319,6 +322,7 @@ list:
     number_of_episodes: 70
     number_of_seasons: 4
     number_of_oavs: 1
+    bluray_bought: true
 
   - title: "Bofuri: I Don't Want To Get Hurt So I'll Max Out My Defense"
     image_url: https://m.media-amazon.com/images/M/MV5BOGJmNTMzNjctYzMyZC00NWNmLWJiZGItYWVjODdkNzNmZTI2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
