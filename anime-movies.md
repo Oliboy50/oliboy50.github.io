@@ -98,14 +98,14 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BODYxZTg0ZmEtZjY5Yy00N2ZkLWIzZWItNzRlNjRhOGNlNTM3XkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Okko et les fantômes
-    image_url: https://m.media-amazon.com/images/M/MV5BZDNlYjMyN2YtYWI5OC00MTY0LTgxZWQtZDAwZWFjNzhlOGVjXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNzA5ZTYwYzEtYmE5My00YjdlLWJhMmQtMzExYjkwNDNhMWJiXkEyXkFqcGc@._V1_UX1000_.jpg
     bluray_bought: true
 
   - title: Time of Eve
     image_url: https://m.media-amazon.com/images/M/MV5BMjA1MzkyMTcyNV5BMl5BanBnXkFtZTcwNzA3MDk2OA@@._V1_UX1000_.jpg
 
   - title: Dragon Quest - Your Story
-    image_url: https://m.media-amazon.com/images/M/MV5BM2Q5YTI0NTQtOGFlOC00MTEzLTg2NDYtM2VhNDk1ZTllNTNiXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNGM4YmYyYzQtN2QzMi00Yzk3LThiMDUtYWZjYWQ5OGIyYzk0XkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Ni no Kuni
     image_url: https://m.media-amazon.com/images/M/MV5BZWJkZWU4ODMtZjQzOS00YzljLTkxZjYtY2Q0YzcxY2MwMjc0XkEyXkFqcGc@._V1_UX1000_.jpg

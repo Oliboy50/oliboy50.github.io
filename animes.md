@@ -87,6 +87,7 @@ list:
         number_of_episodes: 95
         number_of_movies: 1
         number_of_seasons: 3
+        bluray_bought: true
       - title: 'Re:ZERO season 1 Re-Edit'
         number_of_episodes: 13
         number_of_oavs: 2
@@ -101,6 +102,7 @@ list:
     number_of_episodes: 48
     number_of_seasons: 2
     number_of_movies: 1
+    bluray_bought: true
 
   - title: Saiki Kusuo no Psi Nan (The Disastrous Life of Saiki Kusuo)
     image_url: https://m.media-amazon.com/images/M/MV5BMzJhYWEyMWUtZDYwNS00NTU4LTgwODItYjBlNzEwMTc5MTc2XkEyXkFqcGc@._V1_UX1000_.jpg
@@ -166,7 +168,8 @@ list:
 
   - title: 'Mashle: Magic and Muscles'
     image_url: https://m.media-amazon.com/images/M/MV5BMjMyNjg4MzItMGI3MS00MGVmLWE5MDMtODk4NjIyNzFlOWZlXkEyXkFqcGc@._V1_UX1000_.jpg
-    number_of_episodes: 13
+    number_of_episodes: 25
+    number_of_seasons: 2
     bluray_bought: true
 
   - title: Beelzebub
@@ -297,7 +300,7 @@ list:
       - title: Stone Ocean
         number_of_episodes: 38
 
-  - title: Nanatsu no Taizai
+  - title: The Seven Deadly Sins (Nanatsu no Taizai)
     image_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTY3NjAxMF5BMl5BanBnXkFtZTgwMzE4NDAzNzE@._V1_UX1000_.jpg
     number_of_episodes: 100
     number_of_oavs: 6
@@ -327,6 +330,7 @@ list:
     number_of_episodes: 25
     number_of_seasons: 2
     number_of_movies: 1
+    bluray_bought: true
 
   - title: Dr. Stone
     image_url: https://m.media-amazon.com/images/M/MV5BYzZkYjM1MWMtNTY3Mi00MTMzLTlhNmQtN2ExZjFkYzdjZmFjXkEyXkFqcGc@._V1_UX1000_.jpg
@@ -346,7 +350,7 @@ list:
     number_of_oavs: 1
     bluray_bought: true
 
-  - title: Akame ga Kill!
+  - title: 'Red Eyes Sword: Akame ga Kill!'
     image_url: https://m.media-amazon.com/images/M/MV5BZjU2ZDZkYmMtYTA3Yi00NTZkLTgzYjgtOTRhMTFiOWFkODZmXkEyXkFqcGdeQXVyNjkyODc3NjQ@._V1_UX1000_.jpg
     number_of_episodes: 24
     bluray_bought: true
@@ -407,7 +411,7 @@ list:
     number_of_episodes: 366
     number_of_movies: 2
 
-  - title: Sword Art Online
+  - title: Sword Art Online (SAO)
     image_url: https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
     list:
       - title: Sword Art Online
@@ -446,6 +450,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTYwYjYyZDgtMTQ3My00YTI4LThmZTUtZmU1MjllOWRlOTdhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 23
     number_of_seasons: 2
+    bluray_bought: true
 
   - title: Sket Dance
     image_url: https://m.media-amazon.com/images/M/MV5BZDI3ZmUzYmMtZjkzMS00Njc1LTg5MGItZWI4YjIwZmQwMzZhXkEyXkFqcGc@._V1_UX1000_.jpg
@@ -574,6 +579,7 @@ list:
         number_of_seasons: 5
       - title: 'DanMachi Gaiden: Sword Oratoria'
         number_of_episodes: 12
+        bluray_bought: true
       - title: 'DanMachi: Arrow of The Orion'
         number_of_movies: 1
 
@@ -639,7 +645,6 @@ list:
     number_of_seasons: 2
     number_of_oavs: 1
     bluray_bought: true
-    number_of_seasons: 2
 
   - title: Classroom of the Elite
     image_url: https://m.media-amazon.com/images/M/MV5BMDg3MGVhNWUtYTQ2NS00ZDdiLTg5MTMtZmM5MjUzN2IxN2I4XkEyXkFqcGc@._V1_UX1000_.jpg
@@ -888,6 +893,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNTQ1ZGVjODAtNWYzZS00ZmZiLWExYjEtNmM1MjI2OTk1YWY3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 62
     number_of_seasons: 4
+    bluray_bought: true
 
   - title: The Wrong Way to Use Healing Magic
     image_url: https://m.media-amazon.com/images/M/MV5BMDEzZDU2ZTgtZTIxMS00NTg4LWE4OTAtYWUxMzQzODkyNjMwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -1099,6 +1105,7 @@ list:
   - title: Samurai 7
     image_url: https://m.media-amazon.com/images/M/MV5BMTI0NDQ1OTIyOV5BMl5BanBnXkFtZTcwMjA5MDE0MQ@@._V1_UX1000_.jpg
     number_of_episodes: 26
+    bluray_bought: true
 
   - title: The Case Study of Vanitas (Vanitas no Carte)
     image_url: https://m.media-amazon.com/images/M/MV5BYzM4ODUyNzItMjM0NC00MjVlLWFhZWMtMmFlNGFiYTQxZmVkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
@@ -1574,6 +1581,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZDdhNjRhN2ItZjQzNy00NzdlLTllYzEtYjI5NzYwMjY0ZjZjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX1000_.jpg
     number_of_episodes: 37
     number_of_seasons: 2
+    bluray_bought: true
 
   - title: Bastard!! Heavy Metal, Dark Fantasy (2022)
     image_url: https://m.media-amazon.com/images/M/MV5BZTBlMzM1ZDYtMDgwNS00OGY4LWFkMGYtYWM1ZWM1NWU5OWYxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX1000_.jpg
@@ -1745,6 +1753,12 @@ list:
     number_of_episodes: 52
     number_of_movies: 1
     number_of_oavs: 5
+    bluray_bought: true
+
+  - title: Cardcaptor Sakura
+    image_url: https://m.media-amazon.com/images/M/MV5BZTllNzI2NTQtZWJlYi00YTJlLWFlZDYtODZmMGJkN2NmMWY1XkEyXkFqcGc@.jpg
+    number_of_episodes: 70
+    bluray_bought: true
 
   - title: Spice and Wolf
     image_url: https://m.media-amazon.com/images/M/MV5BZWI1ZTYzYWMtMWRlMy00MWVlLWIwY2QtZDIzYzk1Nzk2NjI5XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_UX1000_.jpg
