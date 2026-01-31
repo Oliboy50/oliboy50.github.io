@@ -48,8 +48,16 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTc1MjIyNDI3Nl5BMl5BanBnXkFtZTgwMjQ1OTI0NzM@._V1_UX1000_.jpg
     number_of_seasons: 2
 
+  - title: Arcane (League of Legends)
+    image_url: https://m.media-amazon.com/images/M/MV5BNDAyZmNlNTUtM2VlMC00ZTkyLWIyNzMtY2RiM2E2ZjA5NTIzXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_seasons: 2
+
   - title: The Cuphead Show!
-    image_url: https://m.media-amazon.com/images/M/MV5BYzEwNmQ0N2QtMzU3OS00N2JkLWE1ZTUtZjRjNjAzMDU5ZGVlXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BN2MxZDZiMmQtMzljOS00M2RiLTliYTUtZGUxN2IwY2ZkNTVhXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_seasons: 2
+
+  - title: 'Astérix & Obélix: Le Combat des chefs'
+    image_url: https://m.media-amazon.com/images/M/MV5BMDc1MjYyYWYtZTYzNy00OTk5LWFkYWMtMGIwOWRjNTJjZWQ4XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 1
 
   - title: Happy!
@@ -60,12 +68,8 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTMxMWM5NzEtZWM5My00ZGY4LWI3ODctMTJiYzYyNTQwYTEwXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 10
 
-  - title: Arcane (League of Legends)
-    image_url: https://m.media-amazon.com/images/M/MV5BNDAyZmNlNTUtM2VlMC00ZTkyLWIyNzMtY2RiM2E2ZjA5NTIzXkEyXkFqcGc@._V1_UX1000_.jpg
-    number_of_seasons: 1
-
   - title: 'Orelsan : Montre jamais ça à personne'
-    image_url: https://m.media-amazon.com/images/M/MV5BYjFjMjc5OGMtYmM0OS00ZTBjLWJiYjMtZDA4YzI2NmQwYjdiXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BODIzZTBjOGYtYmEzNC00ZDhhLTk1NWEtZDU5NWIxMzJkNmQzXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_seasons: 2
 
   - title: Better Call Saul
@@ -160,10 +164,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTc3MjEwMTc5N15BMl5BanBnXkFtZTcwNzQ2NjQ4NA@@._V1_UX1000_.jpg
     number_of_seasons: 4
 
-  - title: Cunk on Earth
-    image_url: https://m.media-amazon.com/images/M/MV5BOGEwMjNlZTYtNWRkNi00MTc0LWJlZWUtNjMyOWU3N2ZiMzZjXkEyXkFqcGc@._V1_UX1000_.jpg
-    number_of_seasons: 1
-
   - title: Dr House
     image_url: https://m.media-amazon.com/images/M/MV5BMDA4NjQzN2ItZDhhNC00ZjVlLWFjNTgtMTEyNDQyOGNjMDE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     number_of_seasons: 5
@@ -187,6 +187,22 @@ list:
   - title: NCIS
     image_url: https://m.media-amazon.com/images/M/MV5BYjVlMjZhYzYtOGQxNC00OTQxLTk2NzEtMWFmMmNhODA4YjYzXkEyXkFqcGdeQXVyNjQ3MDgwNjY@._V1_UX1000_.jpg
     number_of_seasons: 8
+
+  - title: Cunk on Earth
+    image_url: https://m.media-amazon.com/images/M/MV5BOGEwMjNlZTYtNWRkNi00MTc0LWJlZWUtNjMyOWU3N2ZiMzZjXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_seasons: 1
+
+  - title: Mentalist
+    image_url: https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_UX1000_.jpg
+    number_of_seasons: 4
+
+  - title: La chronique des Bridgerton
+    image_url: https://m.media-amazon.com/images/M/MV5BNjk2Nzc0Y2UtYTRmMi00MzA4LWFhNjYtOTU2MzIwOTA5NDc4XkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_seasons: 2
+
+  - title: Poldark
+    image_url: https://m.media-amazon.com/images/M/MV5BOWE4MmQ2ZjktMmQ4Yy00ZTExLTkyNmUtODA0ODI4YmE0NDA3XkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_seasons: 4
 
 ---
 

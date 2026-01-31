@@ -23,12 +23,7 @@ list:
   - title: "Frieren: Beyond Journey's End"
     image_url: https://m.media-amazon.com/images/M/MV5BZTI4ZGMxN2UtODlkYS00MTBjLWE1YzctYzc3NDViMGI0ZmJmXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 28
-
-  - title: One Punch Man
-    image_url: https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UX1000_.jpg
-    number_of_episodes: 24
-    number_of_oavs: 13
-    number_of_seasons: 2
+    number_of_seasons: 1
     bluray_bought: true
 
   - title: Demon Slayer (Kimetsu no Yaiba)
@@ -129,9 +124,16 @@ list:
 
   - title: Spy x Family
     image_url: https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_UX1000_.jpg
-    number_of_episodes: 38
-    number_of_seasons: 2
+    number_of_episodes: 50
+    number_of_seasons: 3
     number_of_movies: 1
+    bluray_bought: true
+
+  - title: One Punch Man
+    image_url: https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UX1000_.jpg
+    number_of_episodes: 36
+    number_of_oavs: 13
+    number_of_seasons: 3
     bluray_bought: true
 
   - title: GTO
@@ -147,8 +149,8 @@ list:
 
   - title: My Hero Academia
     image_url: https://m.media-amazon.com/images/M/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-    number_of_episodes: 167
-    number_of_seasons: 7
+    number_of_episodes: 178
+    number_of_seasons: 8
     number_of_oavs: 2
 
   - title: Durarara!!
@@ -325,6 +327,11 @@ list:
     number_of_episodes: 12
     bluray_bought: true
 
+  - title: 'Hero Skill: Achats en ligne'
+    image_url: https://m.media-amazon.com/images/M/MV5BZjIyMzY0MDQtOThjZS00ZWNkLWI3ODgtZTY1OWJhYWU2MjZiXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 24
+    number_of_seasons: 2
+
   - title: Goblin Slayer
     image_url: https://m.media-amazon.com/images/M/MV5BN2U2OWQ5YTUtZTRlYS00M2I2LTk3MzEtNTQ0OTNiNGY3ZTc3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 25
@@ -341,6 +348,11 @@ list:
 
   - title: "Bofuri: I Don't Want To Get Hurt So I'll Max Out My Defense"
     image_url: https://m.media-amazon.com/images/M/MV5BOGJmNTMzNjctYzMyZC00NWNmLWJiZGItYWVjODdkNzNmZTI2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 24
+    number_of_seasons: 2
+
+  - title: 'Kaiju No. 8'
+    image_url: https://m.media-amazon.com/images/M/MV5BM2VmNTc3OWQtOTVmMy00MGZlLTk3N2QtM2YwZDE5MWVjZmM5XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 24
     number_of_seasons: 2
 
@@ -784,6 +796,10 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMzUxMzAxYTMtMmYzOS00YzYyLWE2ZDUtYmQxZDhiNWIxNDNiXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
+  - title: 'Butareba: The Story of a Man Turned into a Pig'
+    image_url: https://m.media-amazon.com/images/M/MV5BOTlhZjAwZDctN2FiZC00MGFhLWI5MTMtOTU4ZjRhNmRiNjNhXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
   - title: Tower of God
     image_url: https://m.media-amazon.com/images/M/MV5BZWQwZGY3MGItZjQ3OS00MzYxLTlmMWMtNjZiYTY2ZDk4ZjFhXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 39
@@ -886,7 +902,7 @@ list:
     number_of_episodes: 12
 
   - title: Ascendance of a Bookworm
-    image_url: https://m.media-amazon.com/images/M/MV5BNGFhNjAyZWUtZjY3OC00OTA3LTk2ZjItMTRlZDVhZGZhMzNhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BYmFhMmUzMDMtMWEwZi00NjBlLTljZmUtZTY5OGI4YWEzYTQxXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 36
 
   - title: The Rising of the Shield Hero
@@ -896,7 +912,7 @@ list:
     bluray_bought: true
 
   - title: The Wrong Way to Use Healing Magic
-    image_url: https://m.media-amazon.com/images/M/MV5BMDEzZDU2ZTgtZTIxMS00NTg4LWE4OTAtYWUxMzQzODkyNjMwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BYTMxNDZkYjgtYjI0Ny00NTI4LWFiMDgtYmQyZDdiMzU0NTQzXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 14
 
   - title: The Shy Hero and the Assassin Princesses
@@ -984,7 +1000,7 @@ list:
     number_of_episodes: 12
 
   - title: "Chillin' in My 30s after Getting Fired from the Demon King's Army"
-    image_url: https://m.media-amazon.com/images/M/MV5BMzUyZWU5YzctMWZiMi00Y2ZmLThlZmEtMWVkMzQyNzc2N2M3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNjUwMGRiNTYtYzQxZi00MWViLWEyMzctMDlhMTJkMGEzYmM4XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: Parallel World Pharmacy
@@ -996,16 +1012,24 @@ list:
     number_of_episodes: 12
 
   - title: 'Reborn as a Vending Machine, I Now Wander the Dungeon'
-    image_url: https://m.media-amazon.com/images/M/MV5BMmYzYzdhYjQtMTJlNS00MDEzLWFmZTQtODE2ZTk1NjgyNWMzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZjQ2MGYyYzgtODlhZi00YjczLWJmZTEtYzIxYWM1NTQ4ZGFlXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 24
     number_of_seasons: 2
 
   - title: The Great Cleric
-    image_url: https://m.media-amazon.com/images/M/MV5BNTA2N2Q5MTktZjE0Ni00ZjU0LTgwZmUtNWY0M2Y3MGM1NmE0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMTI4MTg3N2UtYzliMy00NjU2LTllYzgtZjYyMGY4NjUyZjY5XkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
+  - title: The Beginning After the End
+    image_url: https://m.media-amazon.com/images/M/MV5BMTIzNDFjY2QtZTY3NC00NzY0LWE5NjQtOGY1NjliMDY0YmE0XkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 13
+
+  - title: "A Gatherer's Adventure in Isekai"
+    image_url: https://m.media-amazon.com/images/M/MV5BMGMwNWEwNWQtYmQ2YS00ZTIzLTlmNmUtOTljZGMwMmMwOTMzXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: The Strongest Sage With The Weakest Crest
-    image_url: https://m.media-amazon.com/images/M/MV5BZGFjMjU3OWMtZTQ4ZC00Nzg2LWFkZDQtOTU5ZjYyMThiYTVhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BOTlkM2VmYzAtOTNhOS00YTY2LWEwNTktZWY4NWM5MDdiZTYxXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: 'Gloutons & Dragons'
@@ -1013,7 +1037,11 @@ list:
     number_of_episodes: 24
 
   - title: Imagine un Cambrousard du Dernier Donjon dans la Ville de Départ!
-    image_url: https://m.media-amazon.com/images/M/MV5BMzkxM2U4ZDYtNjk0MC00ZGE0LTk4ZTQtMTk0OGE5Mjc2ZWRhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMzU0YzQ2MjQtZGU0MS00NDI4LWJjNjgtMDA3NDcwYTE1OWU5XkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
+  - title: "My Status as an Assassin Obviously Exceeds the Hero's"
+    image_url: https://m.media-amazon.com/images/M/MV5BY2ZlZDE2ODQtY2M1OC00ZDRlLWEwZTgtZjc3NzA5ZDE0MGViXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: The Unaware Atelier Master
@@ -1032,32 +1060,48 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMjc5YWExOTAtMzg0NS00ODZlLTlkYzUtNjkxM2YwMTkwMWYzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
     number_of_episodes: 12
 
+  - title: Magic Maker
+    image_url: https://m.media-amazon.com/images/M/MV5BOGU2YTM4NzgtZmJiYi00NWY0LTljZDQtMDRiNTE1NTBlZTMxXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
+  - title: Beast Tamer
+    image_url: https://m.media-amazon.com/images/M/MV5BZGU4OTdkNjctNTYyYS00M2U4LWE4YjEtZjYzMzVhNmRjYzUzXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 13
+
   - title: Isekai Cheat Magician
-    image_url: https://m.media-amazon.com/images/M/MV5BYTJlMGYzNGQtYTI1Yi00YTRlLTk1ZWEtMGNiZjc2NDkyOGEyXkEyXkFqcGdeQXVyOTE4NzcwNzI@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNGU1YzdiY2QtOThkZi00YmU4LWFkNGItMGE3MDEwNWNmN2U0XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 13
 
   - title: "A Returner's Magic Should Be Special"
-    image_url: https://m.media-amazon.com/images/M/MV5BZTZkZjJjM2ItNDhlZS00ZmY3LWJiNGQtMjFiNDE3ZGYxMWU0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZWRmZDNmMDUtNzFhNS00MGVjLTk2NGYtOTUzYzI3ZjA1NjdmXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
+
+  - title: "Wistoria: Wand and Sword"
+    image_url: https://m.media-amazon.com/images/M/MV5BNWU1OTgxYTMtZTViMy00MmU0LTg2ZGMtZDVkYTNlYzI4NWRjXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 13
 
   - title: "The 8th Son? Are You Kidding Me?"
     image_url: https://m.media-amazon.com/images/M/MV5BNTUzZjJhNjYtZjEwZi00ZTY1LWE5N2EtYmVmZWNhMzk4Y2UwXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: "A Playthrough of a Certain Dude's VRMMO Life"
-    image_url: https://m.media-amazon.com/images/M/MV5BZTUyZjRiMDAtNTBkMy00YjM5LTk2YjYtZGViYWU5ZjU1ODIwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNjQ2OTQ5ODctMTk2Yi00MGMyLTkwNmMtMGRhYjJkOWIxNTE5XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: Noble New World Adventures
-    image_url: https://m.media-amazon.com/images/M/MV5BMWUzMmY4OTUtNDRjNC00MmQ0LTk1MTQtNmU4NDgxOWNlNTQwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BY2E2MjQ3YzQtOWJlNy00NzY0LWJjN2UtOGE5MGM1MWY2OWRmXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
+  - title: The Healer Who Was Banished from His Party, Is, in Fact, the Strongest
+    image_url: https://m.media-amazon.com/images/M/MV5BYTcwMzkzZTYtODdhZS00YWNhLTllYmEtMjg3MTkzZmQwNDhiXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: My Daughter Left the Nest and Returned an S-Rank Adventurer
-    image_url: https://m.media-amazon.com/images/M/MV5BM2ExMzg5NzAtZjBmNS00NGNkLWEwNzMtZmVmMGIxMzg2MzUyXkEyXkFqcGdeQXVyMTUwMTkzMTAx._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZGRhNzQzNjAtZWNhNi00NTMwLWJmNmQtMmUxOWU4YTE3YjA0XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 13
 
   - title: Gangsta
-    image_url: https://m.media-amazon.com/images/M/MV5BMzQ1NWZlNDgtN2RmNi00OGViLTk5NTMtYzAxZTE0YTZhOGNiXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BY2RmYjc0M2YtZTJjOS00ZTYyLWE5ZTAtMjRmY2FhNzJhOWZjXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: Golden Kamuy
@@ -1906,6 +1950,10 @@ list:
   - title: Buso Renkin
     image_url: https://m.media-amazon.com/images/M/MV5BOWJlYTA1YjItYjgxMy00ODhmLTkzZDItNzc4MWJmZDEwZTkyXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_UX1000_.jpg
     number_of_episodes: 26
+
+  - title: "Private Tutor to the Duke's Daughter"
+    image_url: https://m.media-amazon.com/images/M/MV5BNDE1ZWY4MjItYWY1MC00NzcyLWE4ZTItOWY5OTc1N2EwYzQ2XkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 12
 
   - title: Trinity Seven
     image_url: https://m.media-amazon.com/images/M/MV5BYWQzNDc0NTktOWU2OC00MGMwLTgwYWQtMTc5OTU3NDhmOWYzL2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
