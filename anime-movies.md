@@ -18,6 +18,7 @@ list:
 
   - title: Suzume
     image_url: https://m.media-amazon.com/images/M/MV5BNGVkNDc3NjUtNTY5ZS00ZmE0LWE3YzctMDk2OTRlNTdiZWQwXkEyXkFqcGdeQXVyMTU3NDg0OTgx._V1_UX1000_.jpg
+    bluray_bought: true
 
   - title: La Traversée du temps (The Girl Who Leapt Through Time)
     image_url: https://m.media-amazon.com/images/M/MV5BNjhiN2FjMWUtMDAyMi00ODJkLWE3MDgtODJlYTA1NDk5M2MyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
@@ -27,7 +28,7 @@ list:
     bluray_bought: true
 
   - title: Souvenirs de Marnie (When Marnie Was There)
-    image_url: https://m.media-amazon.com/images/M/MV5BYTkyMTNmY2EtOTZmYi00YWU4LTgxN2UtZWU0NTI0OGFkMWRjXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BOTBhM2IyNWUtYWY4My00NmRiLTlhZDgtZjEyM2E5ZjgyNTE0XkEyXkFqcGc@._V1_UX1000_.jpg
     bluray_bought: true
 
   - title: Arrietty, le petit monde des chapardeurs (The Secret World of Arrietty)
@@ -35,10 +36,11 @@ list:
     bluray_bought: true
 
   - title: Je veux manger ton pancréas (I Want To Eat Your Pancreas)
-    image_url: https://m.media-amazon.com/images/M/MV5BNDM4MWE3NGQtODlkYS00NWU5LTg3ZjMtMTEyNjljOWI4NWIxXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BM2IyOThiYzMtNjI0NS00MjhhLWI3MjQtNjI2NTYxYTc1NWQ0XkEyXkFqcGc@._V1_UX1000_.jpg
+    bluray_bought: true
 
   - title: Tunnel to Summer
-    image_url: https://m.media-amazon.com/images/M/MV5BZGQxYTY2ODItM2ViYi00NjJjLTk4MTAtMGJiMGRjODMxMjU3XkEyXkFqcGdeQXVyOTI4MzgyNTk@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZDc2MzgxZGItYzBmNi00YjM2LWI2NTQtODg4OWFjNDZkM2E3XkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Les Enfants loups, Ame et Yuki (Wolf Children)
     image_url: https://m.media-amazon.com/images/M/MV5BYTY1M2ExNmEtMTNjYi00ZDJmLWI1YzktZWFmNzgzYjIwODY4XkEyXkFqcGc@._V1_UX1000_.jpg
@@ -63,17 +65,17 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYjE1ZDUwNGYtYzM2Ni00NzhiLWFjOTAtMDM4ZDRiNzM5NTkxXkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_UX1000_.jpg
 
   - title: Kiki la petite sorcière (Kiki's Delivery Service)
-    image_url: https://m.media-amazon.com/images/M/MV5BOTc0ODM1Njk1NF5BMl5BanBnXkFtZTcwMDI5OTEyNw@@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNjYxNzM3MTE4OF5BMl5BanBnXkFtZTgwODg1OTA3MjE@._V1_UX1000_.jpg
     bluray_bought: true
 
   - title: Loin de moi, Près de toi (A Whisker Away)
-    image_url: https://m.media-amazon.com/images/M/MV5BOTkyNmRlYzYtMjVlOC00ZjJjLWE2YzgtMmM5Mjg3MmIyMmU3XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNmRjOGQ5MjctOGUwZC00YzJhLTgzY2YtYWE0YzM4ZWIzMzI5XkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: A Silent Voice
-    image_url: https://m.media-amazon.com/images/M/MV5BZDc2NGZiZDMtYjg3Ni00ZDhkLThlYWEtMzQwMDBlZDQzOWQ2XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZjMzZDMzMDYtMGU1ZC00MGJjLWJhYjgtZGUzMzg5YjNmY2ZmXkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Nausicaä de la vallée du vent (Nausicaä of the Valley of the Wind)
-    image_url: https://m.media-amazon.com/images/M/MV5BODJiNmUzYmQtZTNhNS00NjY0LThmYjMtOTliOTM1NTdkYzY1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMThmMzY0MTEtNTljMS00NmJmLWE5MTYtMjIwYmY0NjY1ZTcwXkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Le Château dans le ciel (Castle in the Sky)
     image_url: https://m.media-amazon.com/images/M/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UX1000_.jpg
@@ -118,22 +120,22 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BZmExNDQ4YTctNTRkMS00MWZiLThmNDgtOGU5MzZmYzkwODZhXkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Bubble
-    image_url: https://m.media-amazon.com/images/M/MV5BY2YwNTFkM2UtZmExZi00Mjg1LTljMjEtYThjZDY0YmI5YzZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNWNkMzk0M2QtMTUyZi00OTE2LTkxZmMtYTYxNmYyN2IyMzg5XkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Nos Mots Comme Des Bulles (Words Bubble Up Like Soda Pop)
     image_url: https://m.media-amazon.com/images/M/MV5BMzUxZTIyNjItMWYyOS00MGIzLTkyNzUtZTgyMjM0ODQ2YjgzXkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Mary et la fleur de la sorcière
-    image_url: https://m.media-amazon.com/images/M/MV5BNDVkYmFiNmQtMjc3Ni00YTY5LTk0NTAtZDc4YjZiZjU2YjNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZmJkMDI0OWYtZjdmNy00Y2VhLThkYzctZTczMzVkMmE5MWQ2XkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Ponyo sur la falaise
     image_url: https://m.media-amazon.com/images/M/MV5BMjA5NzkxNTg2MF5BMl5BanBnXkFtZTcwMTA3MjU1Mg@@._V1_UX1000_.jpg
 
   - title: Mon voisin Totoro (My Neighbor Totoro)
-    image_url: https://m.media-amazon.com/images/M/MV5BNTdiOTQ0YmUtOGE3YS00NDg5LWI3YTEtNDAxZmE0MzRmZWM5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMTAyMzI3ODEwMjheQTJeQWpwZ15BbWU4MDY4MjcxMjAx._V1_UX1000_.jpg
 
   - title: Liz et l'oiseau bleu (Rizu to aoi tori)
-    image_url: https://m.media-amazon.com/images/M/MV5BOTBjMjIyNmYtZGZiZi00ZGMzLTliZWUtYzU1MGM4OTFkZGMxXkEyXkFqcGdeQXVyMTk2MDc1MjQ@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMTVlZjJlOGQtZTY3NC00ODQxLTk5NDEtMzkwNzhjMjQ1MmNjXkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: 5 Centimètres par seconde (5 Centimeters Per Second)
     image_url: https://m.media-amazon.com/images/M/MV5BOGZiZGIxNmEtYzJlNS00ZWFiLTk0NWUtODYzYjcyNmNmMGYwXkEyXkFqcGc@._V1_UX1000_.jpg
@@ -142,7 +144,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMDc3ZjI3Y2UtZjcxNC00NDA0LTgwOTQtZjEwYmIzZTk1MTM5XkEyXkFqcGdeQXVyMzA3NDI5NTQ@._V1_UX1000_.jpg
 
   - title: Le vent se lève (The Wind Rises)
-    image_url: https://m.media-amazon.com/images/M/MV5BZGZkNWQ1ZDQtMjYzNy00NmYxLWEwMDEtNjY2Y2U2ZWEyOGQ5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BYjU0ZWY4YWUtOWQ0Mi00OGVmLTkxZWEtMWNkMTQyODM0MGU1XkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Colorful
     image_url: https://m.media-amazon.com/images/M/MV5BZWExYWIwZDctMzA5YS00ZDNiLTk1MDgtMzA4YjZhMDMwYmYwXkEyXkFqcGdeQXVyMjIxNDMzMTg@._V1_UX1000_.jpg
@@ -161,7 +163,7 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BNTgxNDI1NzgyNl5BMl5BanBnXkFtZTgwMTgzNTIzMjI@._V1_UX1000_.jpg
 
   - title: Miraï, ma petite soeur (Mirai no Mirai)
-    image_url: https://m.media-amazon.com/images/M/MV5BZjc4NGJiOWUtOWNjOS00M2QzLWFlMmMtMTU3ODMzNWU5ODk4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZThmZmI1MjItYjkyNi00ZDcwLThlYzEtY2M2ZDhlZDYxMTY3XkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: Le Roi des ronces (King of Thorn)
     image_url: https://m.media-amazon.com/images/M/MV5BNTdlOWY2YWEtYTMwYS00MGI0LWJlMzctZGY3YzY3NWUxOTkxXkEyXkFqcGdeQXVyOTExODQ3OQ@@._V1_UX1000_.jpg
@@ -180,7 +182,7 @@ list:
     bluray_bought: true
 
   - title: Héros Modestes
-    image_url: https://m.media-amazon.com/images/M/MV5BNmQ1ZmEwMTAtNGM0NS00OTcxLTk5MmMtYjEwNmIyOTg1MzkzXkEyXkFqcGdeQXVyNTQ5NzQ2NjQ@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BNWI0MTllNGItNWMyYi00MzEyLTk0YjYtNDgyNTc5ZWViODAxXkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: 'Le Château de Cagliostro (Lupin the 3rd: Castle of Cagliostro)'
     image_url: https://m.media-amazon.com/images/M/MV5BYjQwZWNkMTYtYTU2Ny00YzgyLTljYTMtNjc0MjRkNWY5NDM4XkEyXkFqcGc@._V1_UX1000_.jpg
@@ -190,7 +192,7 @@ list:
     bluray_bought: true
 
   - title: The Garden of Words
-    image_url: https://m.media-amazon.com/images/M/MV5BNGYwMzQ5MjAtYWFjMy00ZTc1LTlkODQtM2Q5YzYzOWVkYTdhXkEyXkFqcGdeQXVyNjY1OTY4MTk@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BYjdiMDdlMDItOGM4Ny00YmE4LTk0MTEtMGRhM2Y4OWZkZDZkXkEyXkFqcGc@._V1_UX1000_.jpg
 
   - title: To the Forest of Firefly Lights (Hotarubi no mori e)
     image_url: https://m.media-amazon.com/images/M/MV5BM2FkZjM5ODUtMGM0OC00ZTk2LWFjZDYtNmIzMGRhZWY0MjExXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg

@@ -65,7 +65,8 @@ list:
 
   - title: One Piece
     image_url: https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_UX1000_.jpg
-    number_of_episodes: 1146
+    number_of_episodes: 1155
+    number_of_seasons: 21
     number_of_oavs: 14
     number_of_movies: 4
 
@@ -129,12 +130,30 @@ list:
     number_of_movies: 1
     bluray_bought: true
 
+  - title: My Hero Academia
+    image_url: https://m.media-amazon.com/images/M/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
+    number_of_episodes: 178
+    number_of_seasons: 8
+    number_of_oavs: 2
+
   - title: One Punch Man
     image_url: https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UX1000_.jpg
     number_of_episodes: 36
     number_of_oavs: 13
     number_of_seasons: 3
     bluray_bought: true
+
+  - title: Moi, quand je me réincarne en Slime (That Time I Got Reincarnated as a Slime)
+    image_url: https://m.media-amazon.com/images/M/MV5BM2M2NDIzOTItZDA1Yy00M2Q4LTk3ZjctZjZmZjUyZWMxM2YyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 85
+    number_of_seasons: 3
+    number_of_oavs: 8
+    bluray_bought: true
+
+  - title: I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
+    image_url: https://m.media-amazon.com/images/M/MV5BMzE3ODdmNzEtMDgxMi00N2E1LTg3YTgtYTVjODEyYTUyNDAzXkEyXkFqcGc@._V1_UX1000_.jpg
+    number_of_episodes: 24
+    number_of_seasons: 2
 
   - title: GTO
     image_url: https://m.media-amazon.com/images/M/MV5BMjA4NTUzMTg2OV5BMl5BanBnXkFtZTcwMDgyMDMyMQ@@._V1_UX1000_.jpg
@@ -146,12 +165,6 @@ list:
     number_of_seasons: 2
     number_of_oavs: 5
     bluray_bought: true
-
-  - title: My Hero Academia
-    image_url: https://m.media-amazon.com/images/M/MV5BNmQzYmE2MGEtZjk4YS00YmVjLWEwZWMtODRkMjc4MTM5N2I3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX1000_.jpg
-    number_of_episodes: 178
-    number_of_seasons: 8
-    number_of_oavs: 2
 
   - title: Durarara!!
     image_url: https://m.media-amazon.com/images/M/MV5BODExOGNjNWEtZWU4Mi00MTVjLWE1ZTEtNTQ2Yjk1YjUxZTViXkEyXkFqcGc@._V1_UX1000_.jpg
@@ -201,29 +214,9 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYWRjNTUwZDYtODhiMC00ZDcxLWFmMjUtZjJhMGU4YWYwZjFiXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 13
 
-  - title: Soul Eater
-    image_url: https://m.media-amazon.com/images/M/MV5BNTJiOWM5NGMtZTdhYi00MmY3LTlhZGYtMjMwYTk2MTI4NGJlXkEyXkFqcGc@._V1_UX1000_.jpg
-    list:
-      - title: Soul Eater
-        number_of_episodes: 51
-      - title: Soul Eater Not!
-        number_of_episodes: 12
-
   - title: Ranking of Kings
     image_url: https://m.media-amazon.com/images/M/MV5BNjM3OWRmODQtODVjYS00YzY5LWFiNmQtOGExM2M4OWQ3Nzk1XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 33
-    number_of_seasons: 2
-
-  - title: Moi, quand je me réincarne en Slime (That Time I Got Reincarnated as a Slime)
-    image_url: https://m.media-amazon.com/images/M/MV5BM2M2NDIzOTItZDA1Yy00M2Q4LTk3ZjctZjZmZjUyZWMxM2YyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
-    number_of_episodes: 85
-    number_of_seasons: 3
-    number_of_oavs: 8
-    bluray_bought: true
-
-  - title: I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
-    image_url: https://m.media-amazon.com/images/M/MV5BMzE3ODdmNzEtMDgxMi00N2E1LTg3YTgtYTVjODEyYTUyNDAzXkEyXkFqcGc@._V1_UX1000_.jpg
-    number_of_episodes: 24
     number_of_seasons: 2
 
   - title: The Eminence in Shadow
@@ -248,6 +241,14 @@ list:
   - title: Chainsaw Man
     image_url: https://m.media-amazon.com/images/M/MV5BZjY5MDFhZTgtOGVhMi00NTUzLTk5NjktNmRlMjI3NjI4MmE0XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_UX1000_.jpg
     number_of_episodes: 12
+
+  - title: Soul Eater
+    image_url: https://m.media-amazon.com/images/M/MV5BNTJiOWM5NGMtZTdhYi00MmY3LTlhZGYtMjMwYTk2MTI4NGJlXkEyXkFqcGc@._V1_UX1000_.jpg
+    list:
+      - title: Soul Eater
+        number_of_episodes: 51
+      - title: Soul Eater Not!
+        number_of_episodes: 12
 
   - title: Odd Taxi
     image_url: https://m.media-amazon.com/images/M/MV5BMGZiNWNlZDYtNjVhOS00MjMxLWFjZDgtYmE1NjI5YjA4MzdkXkEyXkFqcGc@._V1_UX1000_.jpg
@@ -414,10 +415,6 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BYjVkMTI4YjktNzkxZC00NGI0LWIxZDEtNGVmNTcyYWY3NjJmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX1000_.jpg
     number_of_episodes: 12
 
-  - title: Juuni Taisen
-    image_url: https://m.media-amazon.com/images/M/MV5BYjU2YzA0ZDMtZDIxNS00ZDY1LTgzZjAtMzFhMGQzNzc1NTMzXkEyXkFqcGc@._V1_UX1000_.jpg
-    number_of_episodes: 12
-
   - title: Bleach
     image_url: https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX1000_.jpg
     number_of_episodes: 366
@@ -470,6 +467,10 @@ list:
 
   - title: Cautious Hero
     image_url: https://m.media-amazon.com/images/M/MV5BMWI2NTMzZTUtNzAyYS00Y2U4LTliMzItMDU1YzA0N2YzNGI2XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX1000_.jpg
+    number_of_episodes: 12
+
+  - title: Juuni Taisen
+    image_url: https://m.media-amazon.com/images/M/MV5BYjU2YzA0ZDMtZDIxNS00ZDY1LTgzZjAtMzFhMGQzNzc1NTMzXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: Rokka no Yuusha
@@ -604,6 +605,15 @@ list:
     image_url: https://m.media-amazon.com/images/M/MV5BMTM3MDg5MDA2MV5BMl5BanBnXkFtZTcwMDI1Nzg0Mg@@._V1_UX1000_.jpg
     number_of_episodes: 24
 
+  - title: Trigun
+    image_url: https://m.media-amazon.com/images/M/MV5BNjVjZDE0MzEtN2Q1Mi00YjgyLWE0NTMtMWJiNDA5MGRmMmM2XkEyXkFqcGc@._V1_UX1000_.jpg
+    list:
+      - title: Trigun (1998)
+        number_of_episodes: 26
+        bluray_bought: true
+      - title: Trigun Stampede (2023)
+        number_of_episodes: 12
+
   - title: Black Butler
     image_url: https://m.media-amazon.com/images/M/MV5BYzU2YzkyMGMtYTVjNi00NWY0LWE0MDAtMzZmYTU3Y2MyZTFiXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 46
@@ -624,15 +634,6 @@ list:
     number_of_episodes: 37
     number_of_seasons: 2
     bluray_bought: true
-
-  - title: Trigun
-    image_url: https://m.media-amazon.com/images/M/MV5BNjVjZDE0MzEtN2Q1Mi00YjgyLWE0NTMtMWJiNDA5MGRmMmM2XkEyXkFqcGc@._V1_UX1000_.jpg
-    list:
-      - title: Trigun (1998)
-        number_of_episodes: 26
-        bluray_bought: true
-      - title: Trigun Stampede (2023)
-        number_of_episodes: 12
 
   - title: Platinum End
     image_url: https://m.media-amazon.com/images/M/MV5BYmFjM2Q4NjUtYjI4Zi00NmE1LTgwZTctMjg3ZDM1YzU1ODg0XkEyXkFqcGc@._V1_UX1000_.jpg
