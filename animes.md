@@ -1382,7 +1382,7 @@ list:
     number_of_episodes: 12
 
   - title: Rave Master
-    image_url: https://m.media-amazon.com/images/M/MV5BMTQxMDMwMjcyMl5BMl5BanBnXkFtZTcwNDkyNDIzMg@@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZTg4OTI5YWUtMWZhNC00MDJmLTgzODgtOGVjOTI3NTUwMzE1XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 51
 
   - title: Puella Magi Madoka Magica
@@ -1493,7 +1493,7 @@ list:
     number_of_episodes: 27
 
   - title: Police in a Pod
-    image_url: https://m.media-amazon.com/images/M/MV5BN2EwYmRlYTMtZjJhMC00ZjEzLTk3ZWUtODJmZDE0YmE3M2Y5XkEyXkFqcGc@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BZDEwZjJkYTYtNGY1Zi00ODk0LWFkY2UtMGVmMTMwMzU1Y2Q4XkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 13
 
   - title: Beautiful Bones
@@ -1766,7 +1766,7 @@ list:
     number_of_episodes: 12
 
   - title: Nabari no Ou
-    image_url: https://m.media-amazon.com/images/M/MV5BNTE0MDc0ODkyOF5BMl5BanBnXkFtZTgwMjUwMzcwMzE@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BN2FiMzMyNDgtNTAzOS00MDhiLTlkNTktN2YxMzdjODM5MDIxXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 26
 
   - title: Vision of Escaflowne
@@ -1869,7 +1869,7 @@ list:
     number_of_episodes: 12
 
   - title: Dramatical Murder
-    image_url: https://m.media-amazon.com/images/M/MV5BZWQ0MzI1MTctY2UzMi00NWJiLWE5ZWEtNjFkMDYxNzVhMTljXkEyXkFqcGc@._V1_UX1000_.jpg
+    image_url: https://m.media-amazon.com/images/M/MV5BMDhmMjNhOGUtZjM1MS00YzAzLWI3NTctOWZkMDgyNTQ4YjIzXkEyXkFqcGc@._V1_UX1000_.jpg
     number_of_episodes: 12
 
   - title: Luck and Logic
