@@ -1623,6 +1623,14 @@ list:
     year: 2021
     number_of_episodes: 12
 
+  - title: "An Adventurer's Daily Grind at Age 29"
+    image_url: https://m.media-amazon.com/images/M/MV5BZjhiNDc4MDctNjJmYy00NmQzLTk4MzUtOGFkZTlkOTgzMmU3XkEyXkFqcGc@._V1_UX1000_.jpg
+    imdb: https://www.imdb.com/title/tt38647627/
+    genre: [shonen]
+    year: 2026
+    number_of_episodes: 12
+    number_of_seasons: 1
+
   - title: "My Status as an Assassin Obviously Exceeds the Hero's"
     image_url: https://m.media-amazon.com/images/M/MV5BY2ZlZDE2ODQtY2M1OC00ZDRlLWEwZTgtZjc3NzA5ZDE0MGViXkEyXkFqcGc@._V1_UX1000_.jpg
     imdb: https://www.imdb.com/title/tt36230718/
@@ -3470,7 +3478,7 @@ list:
       }
     });
 
-    countSpan.textContent = filtered.length + ' anime' + (filtered.length > 1 ? 's' : '');
+    countSpan.textContent = filtered.length + ' item' + (filtered.length > 1 ? 's' : '');
     renderPagination(paginationTop, totalPages, false);
     renderPagination(paginationBottom, totalPages, true);
 
