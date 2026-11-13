@@ -4,6 +4,74 @@
 @import "minima";
 
 .page-content {
+    .anime-filters {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 1rem;
+        margin: 1.5rem 0 1rem;
+        padding: 0.75rem 1rem;
+        background-color: #f8f9fa;
+        border: 1px solid #e8e8e8;
+        border-radius: 6px;
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+
+            label {
+                font-weight: 600;
+            }
+
+            select {
+                padding: 0.35rem 0.6rem;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                background-color: #fff;
+                font-size: 0.95rem;
+            }
+        }
+
+        .filter-count {
+            margin-left: auto;
+            font-weight: 600;
+            color: #555;
+        }
+    }
+
+    .pagination-controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        margin: 1rem 0;
+
+        button {
+            padding: 0.35rem 0.75rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: #fff;
+            cursor: pointer;
+            font-size: 0.9rem;
+
+            &:hover:not(:disabled) {
+                background-color: #f0f0f0;
+            }
+
+            &.active {
+                background-color: #2a7ae2;
+                border-color: #2a7ae2;
+                color: #fff;
+                font-weight: 600;
+            }
+
+            &:disabled {
+                opacity: 0.5;
+                cursor: not-allowed;
+            }
+        }
+    }
+
     ol {
         margin-left: 0;
         list-style-position: inside;
@@ -24,11 +92,65 @@
 
             & > h3 {
                 display: inline;
+
+                .anime-year {
+                    font-weight: normal;
+                    color: #666;
+                    font-size: 0.9em;
+                }
+            }
+
+            & > .anime-genres {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 0.35rem;
+                margin-top: 0.35rem;
+
+                .genre-badge {
+                    display: inline-block;
+                    padding: 0.1rem 0.55rem;
+                    border-radius: 999px;
+                    font-size: 0.78rem;
+                    font-weight: 600;
+                    background-color: #eef2f7;
+                    color: #334155;
+                    border: 1px solid #cbd5e1;
+
+                    &.genre-shonen {
+                        background-color: #fff3e0;
+                        color: #b45309;
+                        border-color: #fcd34d;
+                    }
+
+                    &.genre-shojo {
+                        background-color: #fce7f3;
+                        color: #be185d;
+                        border-color: #f9a8d4;
+                    }
+
+                    &.genre-seinen {
+                        background-color: #ede9fe;
+                        color: #5b21b6;
+                        border-color: #c4b5fd;
+                    }
+
+                    &.genre-josei {
+                        background-color: #e0f2fe;
+                        color: #0369a1;
+                        border-color: #7dd3fc;
+                    }
+
+                    &.genre-kodomuke {
+                        background-color: #dcfce7;
+                        color: #15803d;
+                        border-color: #86efac;
+                    }
+                }
             }
 
             & > ul {
                 overflow: auto;
-                margin-top: 1rem;
+                margin-top: 0.6rem;
                 padding-left: 1rem;
                 list-style-type: circle;
 
